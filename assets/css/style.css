@@ -76,3 +76,15 @@ main {
   border-radius: 8px;
   border: 1px solid #334155;
 }
+
+.image-block {
+  text-align: center;
+  margin: 1.5rem 0;
+}
+
+.image-block figcaption {
+  font-size: 0.9rem;
+  color: #94a3b8;
+  font-style: italic;
+  margin-top: 0.5rem;
+}
