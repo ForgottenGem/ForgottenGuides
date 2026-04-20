@@ -20,7 +20,7 @@ What will be included in this webside is:
 
 ## Consoles
 
--[Nintendo 64](n64index.md)
+-[Nintendo 64](n64/)
 
 -[Gamecube](gc/)
 
