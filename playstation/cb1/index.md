@@ -4,7 +4,7 @@ title: Crash Bandicoot
 ---
 
 <nav class="breadcrumbs" aria-label="Breadcrumb">
-  <a href="{{ '/n64/' | relative_url }}">Playstation</a>
+  <a href="{{ '/playstation/' | relative_url }}">Playstation</a>
   <span>/</span>
   <span class="current">Crash Bandicoot</span>
 </nav>
