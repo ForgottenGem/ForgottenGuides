@@ -5,7 +5,7 @@ title: Ocarina of Time
 
 # The Legend Of Zelda: Ocarina Of Time
 
-![Pal Box Art]({{ '/assets/images/oot/ZOOtN64PalCover.jpg' | relative_url }})
+![Pal Box Art]({{ '/assets/images/ZOOtN64PalCover.jpg' | relative_url }})
 
 *The Pal Box Art*
 
