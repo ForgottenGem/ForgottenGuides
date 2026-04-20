@@ -88,3 +88,44 @@ main {
   font-style: italic;
   margin-top: 0.5rem;
 }
+
+
+.breadcrumbs {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.55rem;
+  margin: 0 0 1.5rem 0;
+}
+
+.breadcrumbs a,
+.breadcrumbs .current {
+  display: inline-block;
+  padding: 0.45rem 0.9rem;
+  border-radius: 999px;
+  text-decoration: none;
+  font-size: 0.95rem;
+  line-height: 1.2;
+}
+
+.breadcrumbs a {
+  background: #13203a;
+  border: 1px solid #2d4368;
+  color: #c7dcff;
+}
+
+.breadcrumbs a:hover {
+  background: #1a2c4f;
+  border-color: #4a6aa1;
+}
+
+.breadcrumbs .current {
+  background: #233556;
+  border: 1px solid #4a6aa1;
+  color: #fff;
+  font-weight: 600;
+}
+
+.breadcrumbs span {
+  color: #7f8ea8;
+}
