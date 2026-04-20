@@ -14,6 +14,7 @@ title: Ocarina of Time
 </figure>
 
 Released: 21/Nov/1998(JP) , 23/Nov/1998(NA) , 11/Dec/1998(EU)
+
 My Ratings: Fun 7/10 , Difficulty 5/10
 
 ---
