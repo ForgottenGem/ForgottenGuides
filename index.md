@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # ForgottenGuides
 
 Welcome to my collection of guides and opinions on the games I play or just like watching.
@@ -15,13 +20,3 @@ My first guides were really bad and written on physical pages some of which I st
 What will be included in this webside is:
 - My thoughts on a game on its main page.
 - The guides for said game link on it's page
-
----
-
-## Consoles
-
--[Nintendo 64](n64/)
-
--[Gamecube](gc/)
-
--[Playstation](ps1/)
