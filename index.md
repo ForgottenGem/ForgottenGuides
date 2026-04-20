@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-# ForgottenGuides
-
 Welcome to my collection of guides and opinions on the games I play or just like watching.
 
 Here you will find games categorized by console then the game page itself then guides wether it just be 100% guides or retroachievements or something else entirely.
