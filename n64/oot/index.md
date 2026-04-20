@@ -38,4 +38,3 @@ Blah Blah
 ## Guides
 
 - [100% Completion Guide](100-percent-guideoot.md)
-- [RetroAchievements Guide](ra-guideoot.md)
