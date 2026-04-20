@@ -5,9 +5,13 @@ title: Ocarina of Time
 
 # The Legend Of Zelda: Ocarina Of Time
 
-<img src="{{ '/assets/images/ootn64/ZOOtN64PalCover.jpg' | relative_url }}" alt="Pal Box Art" class="box-art">
+<figure class="image-block">
+  <img src="{{ '/assets/images/ootn64/ZOOtN64PalCover.jpg' | relative_url }}"
+       alt="PAL Box Art"
+       class="box-art">
 
-*The Pal Box Art*
+  <figcaption>The PAL Box Art</figcaption>
+</figure>
 
 Released: 21/Nov/1998(JP) , 23/Nov/1998(NA) , 11/Dec/1998(EU)
 
