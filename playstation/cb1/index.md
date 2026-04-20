@@ -3,9 +3,29 @@ layout: default
 title: Crash Bandicoot
 ---
 
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <a href="{{ '/n64/' | relative_url }}">Playstation</a>
+  <span>/</span>
+  <span class="current">Crash Bandicoot</span>
+</nav>
+
 # Crash Bandicoot
 
-Released: tmp
+<figure class="image-block">
+  <img src="{{ '/assets/images/ootn64/tmp.jpg' | relative_url }}"
+       alt="blep"
+       class="box-art">
+
+  <figcaption>blep</figcaption>
+</figure>
+
+Released:
+
+Genre: 
+
+Developer: 
+
+My Ratings:
 
 ---
 
