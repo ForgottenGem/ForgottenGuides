@@ -4,10 +4,6 @@ title: Ocarina of Time
 ---
 
 <nav class="breadcrumbs" aria-label="Breadcrumb">
-  <a href="{{ '/' | relative_url }}">Home</a>
-  <span>/</span>
-  <a href="{{ '/consoles/' | relative_url }}">Consoles</a>
-  <span>/</span>
   <a href="{{ '/n64/' | relative_url }}">Nintendo 64</a>
   <span>/</span>
   <span class="current">Ocarina of Time</span>
