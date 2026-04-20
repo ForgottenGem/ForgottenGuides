@@ -6,4 +6,4 @@ title: Consoles
 # Consoles
 
 - [Nintendo 64]({{ '/n64/' | relative_url }})
-- [PlayStation]
+- [PlayStation]({{ '/playstation/' | relative_url }})
