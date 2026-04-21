@@ -37,5 +37,6 @@ Blah Blah
 
 ## Guides
 
-- [100% Completion Guide](100-percent-guidecb.md)
-
+<a class="button-link" href="{{ '/playstation/cb1/100-percent-guidecb' | relative_url }}">
+  100% Completion Guide
+</a>
