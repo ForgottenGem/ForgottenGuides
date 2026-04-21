@@ -1,3 +1,4 @@
+/*main site design and dark mode*/
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
@@ -66,7 +67,7 @@ main {
   padding-bottom: 3rem;
 }
 
-
+/*For box art images and caption under*/
 .box-art {
   max-width: 500px;
   width: 100%;
@@ -89,7 +90,7 @@ main {
   margin-top: 0.5rem;
 }
 
-
+/*For the backup system*/
 .breadcrumbs {
   display: flex;
   flex-wrap: wrap;
@@ -128,4 +129,34 @@ main {
 
 .breadcrumbs span {
   color: #7f8ea8;
+}
+
+
+/*style links rather than normal*/
+
+.button-link {
+  display: inline-block;
+  padding: 0.6rem 1.1rem;
+  margin: 0.35rem 0.35rem 0.35rem 0;
+  border-radius: 999px;
+
+  background: #13203a;
+  border: 1px solid #2d4368;
+
+  color: #c7dcff;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+
+  transition: all 0.2s ease;
+}
+
+.button-link:hover {
+  background: #1a2c4f;
+  border-color: #4a6aa1;
+  transform: translateY(-1px);
+}
+
+.button-link:active {
+  transform: translateY(0);
 }
