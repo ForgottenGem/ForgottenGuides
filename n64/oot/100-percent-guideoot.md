@@ -18,3 +18,40 @@ Progression then Collectibles.
 - Get All Weapon/Ability Upgrades/Items
 - All Heart Pieces
 - All Golden Skulltulas
+
+
+<details class="guide-section" open>
+  <summary>Progression</summary>
+
+  <p>Start with Kokiri Forest and complete the opening sequence.</p>
+
+  <ul>
+    <li>Temp1</li>
+    <li>Temp2</li>
+    <li>Temp3</li>
+  </ul>
+</details>
+
+<details class="guide-section">
+  <summary>Skulltulas</summary>
+
+  <p>This section covers all Gold Skulltula locations.</p>
+
+  <ul>
+    <li>Temp1</li>
+    <li>Temp2</li>
+    <li>Temp3</li>
+  </ul>
+</details>
+
+<details class="guide-section">
+  <summary>Heart Pieces</summary>
+
+  <p>This section covers all Heart Piece locations.</p>
+
+  <ul>
+     <li>Temp1</li>
+    <li>Temp2</li>
+    <li>Temp3</li>
+  </ul>
+</details>
