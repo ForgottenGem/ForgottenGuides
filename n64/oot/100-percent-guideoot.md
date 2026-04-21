@@ -1,3 +1,8 @@
+---
+layout: default
+title: 100% Guide
+---
+
 <nav class="breadcrumbs" aria-label="Breadcrumb">
   <a href="{{ '/n64/' | relative_url }}">Nintendo 64</a>
   <span>/</span>
