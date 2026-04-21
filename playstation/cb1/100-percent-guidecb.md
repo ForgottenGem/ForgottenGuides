@@ -1,3 +1,8 @@
+---
+layout: default
+title: 100% Guide
+---
+
 <nav class="breadcrumbs" aria-label="Breadcrumb">
   <a href="{{ '/playstation/' | relative_url }}">Playstation</a>
   <span>/</span>
@@ -14,3 +19,40 @@ temp
 ## 100% Entails
 
 - temp
+
+
+<details class="guide-section" open>
+  <summary>Progression</summary>
+
+  <p>Temp.</p>
+
+  <ul>
+    <li>Temp1</li>
+    <li>Temp2</li>
+    <li>Temp3</li>
+  </ul>
+</details>
+
+<details class="guide-section">
+  <summary>Temp</summary>
+
+  <p>Temp.</p>
+
+  <ul>
+    <li>Temp1</li>
+    <li>Temp2</li>
+    <li>Temp3</li>
+  </ul>
+</details>
+
+<details class="guide-section">
+  <summary>Temp</summary>
+
+  <p>Temp.</p>
+
+  <ul>
+     <li>Temp1</li>
+    <li>Temp2</li>
+    <li>Temp3</li>
+  </ul>
+</details>
