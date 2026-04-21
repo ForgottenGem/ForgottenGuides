@@ -15,4 +15,6 @@ This is where you will find all the Playstation games I have currently made guid
 
 ## Games
 
-- [Crash Bandicoot](cb1/)
+<a class="button-link" href="{{ '/playstation/cb1/' | relative_url }}">
+  Crash Bandicoot
+</a>
