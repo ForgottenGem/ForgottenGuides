@@ -15,4 +15,6 @@ This is where you will find all the Nintendo 64 games I have currently made guid
 
 ## Games
 
-- [The Legend Of Zelda: Ocarina Of Time](oot/)
+<a class="button-link" href="{{ '/n64/oot/' | relative_url }}">
+  The Legend Of Zelda: Ocarina Of Time
+</a>
