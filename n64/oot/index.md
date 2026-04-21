@@ -37,6 +37,6 @@ Blah Blah
 
 ## Guides
 
-<a class="button-link" href="100-percent-guideoot.md">
+<a class="button-link" href="{{ '/n64/oot/100-percent-guideoot.md' | relative_url }}">
   100% Completion Guide
 </a>
