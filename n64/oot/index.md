@@ -37,4 +37,6 @@ Blah Blah
 
 ## Guides
 
-- [100% Completion Guide](100-percent-guideoot.md)
+<a class="button-link" href="100-percent-guideoot.md">
+  100% Completion Guide
+</a>
