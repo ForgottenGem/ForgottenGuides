@@ -55,6 +55,7 @@ Welcome! This is one of the first guides i'm actually making here on this site (
       This level you need the green gem to break all boxes so just enjoy your time and no need to reset if you die. We will return to this level in lap 2.
       </p>
     </li>
+    
     <li>Temp3</li>
   </ul>
 </details>
@@ -69,5 +70,4 @@ Welcome! This is one of the first guides i'm actually making here on this site (
     <li>Temp2</li>
     <li>Temp3</li>
   </ul>
-</details>
 </details>
