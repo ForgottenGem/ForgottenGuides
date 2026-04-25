@@ -9,6 +9,14 @@ title: Nintendo 64
 
 # Nintendo 64
 
+<figure class="image-block">
+  <img src="{{ '/assets/images/misc/N64.png' | relative_url }}"
+       alt="PAL Box Art"
+       class="console-art">
+
+  <figcaption>The Nintendo 64</figcaption>
+</figure>
+
 This is where you will find all the Nintendo 64 games I have currently made guides for.
 
 ---
