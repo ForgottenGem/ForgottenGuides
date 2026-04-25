@@ -69,7 +69,7 @@ main {
 
 /*For box art images and caption under*/
 .box-art {
-  max-width: 500px;
+  max-width: 600px;
   width: 100%;
   height: auto;
   display: block;
@@ -206,3 +206,35 @@ main {
 .guide-section ol {
   padding-left: 1.4rem;
 }
+
+
+/*For condole images*/
+.console-art {
+  max-width: 600px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;
+  border-radius: 8px;
+  border: 1px solid #334155;
+}
+
+/*For guide images*/
+.guide-art {
+  max-width: 600px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;
+  border-radius: 8px;
+  border: 1px solid #334155;
+}
+
+
+
+
+
+
+
+
+
