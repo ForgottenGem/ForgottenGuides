@@ -32,13 +32,13 @@ Welcome! This is one of the first guides i'm actually making here on this site (
   <p>Temp.</p>
 
   <ul>
-    <li>Temp1</li>
+    <li>N. Sanity Beach</li>
     <figure class="image-block">
-  <img src="{{ '/assets/images/crash1/CB1PALCOVER.jpg' | relative_url }}"
-       alt="crahs1game"
-       class="box-art">
+  <img src="{{ '/assets/images/crash1/C1NSANBEACH.png' | relative_url }}"
+       alt="lv1"
+       class="guide-art">
 
-  <figcaption>The Crash Bandicoot Pal Cover</figcaption>
+  <figcaption>The Start Of N.Sanity Beach</figcaption>
   </figure>
     <li>Temp2</li>
     <li>Temp3</li>
