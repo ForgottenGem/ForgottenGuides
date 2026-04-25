@@ -13,10 +13,10 @@ title: Crash Bandicoot
 
 <figure class="image-block">
   <img src="{{ '/assets/images/crash1/CB1PALCOVER.jpg' | relative_url }}"
-       alt="blep"
+       alt="crahs1game"
        class="box-art">
 
-  <figcaption>blep</figcaption>
+  <figcaption>The Crash Bandicoot Pal Cover</figcaption>
 </figure>
 
 Released: 9/September/1996(NA) , 8/November/1996(EU)
