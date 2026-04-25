@@ -33,6 +33,13 @@ Welcome! This is one of the first guides i'm actually making here on this site (
 
   <ul>
     <li>Temp1</li>
+    <figure class="image-block">
+  <img src="{{ '/assets/images/crash1/CB1PALCOVER.jpg' | relative_url }}"
+       alt="crahs1game"
+       class="box-art">
+
+  <figcaption>The Crash Bandicoot Pal Cover</figcaption>
+  </figure>
     <li>Temp2</li>
     <li>Temp3</li>
   </ul>
