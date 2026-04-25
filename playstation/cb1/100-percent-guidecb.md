@@ -34,7 +34,7 @@ Welcome! This is one of the first guides i'm actually making here on this site (
   <ul>
     <li>N. Sanity Beach</li>
     <figure class="image-block">
-       <img src="{{ '/assets/images/crash1/C1NSANBEACH.PNG' | relative_url }}"
+       <img src="{{ '/assets/images/crash1/C1NSANBEACH' | relative_url }}"
             alt="lv1"
             class="guide-art">
     </figure>
