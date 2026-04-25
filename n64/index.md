@@ -11,7 +11,7 @@ title: Nintendo 64
 
 <figure class="image-block">
   <img src="{{ '/assets/images/misc/N64.png' | relative_url }}"
-       alt="PAL Box Art"
+       alt="n64pic"
        class="console-art">
 
   <figcaption>The Nintendo 64</figcaption>
