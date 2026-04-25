@@ -37,9 +37,7 @@ Welcome! This is one of the first guides i'm actually making here on this site (
   <img src="{{ '/assets/images/crash1/C1NSANBEACH.png' | relative_url }}"
        alt="lv1"
        class="guide-art">
-
-  <figcaption>The Start Of N.Sanity Beach</figcaption>
-  </figure>
+    </figure>
     <li>Temp2</li>
     <li>Temp3</li>
   </ul>
