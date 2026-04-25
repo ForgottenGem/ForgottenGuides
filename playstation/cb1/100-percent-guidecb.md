@@ -13,16 +13,21 @@ title: 100% Guide
 
 # Crash Bandicoot - 100% Guide
 
-This Guide will cover anything you need to do to 100% the game.
-temp
+Welcome! This is one of the first guides i'm actually making here on this site (I Hope it's good). Basically this guide will be set up into two sort of laps through the game. The first being a general playthrough getting most of the gems in the game except for some you can only get with other coloured gems first, then the second being a sort of cleanup.
 
 ## 100% Entails
 
-- temp
+- Clear All 32/32 Levels
+- Get All 26/26 Gems
+  (You need to break all boxes without dieing in a level to get the gem. If you die press start then select to return to the map and retry.)
+- Collect 2/2 Keys from the end of DR. Neo Cortex bonus rooms to unlock 2 hidden levels.
+- Tawna token bonus levels don't count for any boxes but do provide you a save at the end of them.
+- Nitrus Brio bonus levels dont count for any boxes and don't provide a save upon clearing.
+- DR. Neo Cortex bonus rooms are important for the two aforementioned keys.
 
 
 <details class="guide-section" open>
-  <summary>Progression</summary>
+  <summary>Lap 1</summary>
 
   <p>Temp.</p>
 
@@ -34,7 +39,7 @@ temp
 </details>
 
 <details class="guide-section">
-  <summary>Temp</summary>
+  <summary>Lap 2</summary>
 
   <p>Temp.</p>
 
@@ -44,15 +49,4 @@ temp
     <li>Temp3</li>
   </ul>
 </details>
-
-<details class="guide-section">
-  <summary>Temp</summary>
-
-  <p>Temp.</p>
-
-  <ul>
-     <li>Temp1</li>
-    <li>Temp2</li>
-    <li>Temp3</li>
-  </ul>
 </details>
