@@ -29,14 +29,14 @@ Welcome! This is one of the first guides i'm actually making here on this site (
 <details class="guide-section" open>
   <summary>Lap 1</summary>
 
-  <p>Temp.</p>
-
+  <p>This first lap will ocver basically all the gems and other collectibles you can get on your initial run through without coloured gems.</p>
+  
   <ul>
     <li>N. Sanity Beach</li>
     <figure class="image-block">
-  <img src="{{ '/assets/images/crash1/C1NSANBEACH.png' | relative_url }}"
-       alt="lv1"
-       class="guide-art">
+       <img src="{{ '/assets/images/crash1/C1NSANBEACH.png' | relative_url }}"
+            alt="lv1"
+            class="guide-art">
     </figure>
     <li>Temp2</li>
     <li>Temp3</li>
