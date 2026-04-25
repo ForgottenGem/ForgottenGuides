@@ -41,7 +41,15 @@ Welcome! This is one of the first guides i'm actually making here on this site (
       </figure>
       This level serves as the intro to the game and with that said it's rather simple compared to most just be careful learning the controls. After you climb the temple style structure a little ways into the level you'll jump over one collapsed pillar but the next pillar you jump over there is a box tucked behind it. On the split path go right and destroy the boxes activated by the switch crate first then go back the end of the left pack to break two boxes, from there you can finish the level.
     </li>
-    <li>Temp2</li>
+    <li>Jungle Rollers
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1JUNGROLL.PNG' | relative_url }}"
+              alt="lv1"
+              class="guide-art">
+         <figcaption>The Start Of Jungle Rollers</figcaption>
+      </figure>
+      This level you need the green gem to break all boxes so just enjoy your time and no need to reset if you die. We will return to this level in lap 2.
+    </li>
     <li>Temp3</li>
   </ul>
 </details>
