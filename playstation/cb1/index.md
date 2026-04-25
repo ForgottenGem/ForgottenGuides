@@ -12,26 +12,26 @@ title: Crash Bandicoot
 # Crash Bandicoot
 
 <figure class="image-block">
-  <img src="{{ '/assets/images/ootn64/tmp.jpg' | relative_url }}"
+  <img src="{{ '/assets/images/crash1/CB1PALCOVER.jpg' | relative_url }}"
        alt="blep"
        class="box-art">
 
   <figcaption>blep</figcaption>
 </figure>
 
-Released:
+Released: 9/September/1996(NA) , 8/November/1996(EU)
 
-Genre: 
+Genre: Platformer
 
-Developer: 
+Developer: Naughty Dog
 
-My Ratings:
+My Ratings: 6/10 Fun , 7/10 Difficulty
 
 ---
 
 ## My Thoughts
 
-Blah Blah
+Crash Badicoot on the Playstation is a game I have played over and over since childhood, I still think I can view it as a fresh player for all the difficulty it would give a new player. The momentum in this game always takes me by surprise overall you need to take either such slow or such wide turns to be able to make some of the jumps. It was very clearly an early Playstation game, it has a fair bit of jank but is still really fun to give a playthrough every so often. The N.Sane trilogy is easily the way I would decide to play it again. The 100% guide below should work for the remake but is mainly based for the PAL version of the original game.
 
 ---
 
