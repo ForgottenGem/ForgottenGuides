@@ -44,7 +44,6 @@ Welcome! This is one of the first guides i'm actually making here on this site (
       </p>
     </li>
 
-    
     <li>Jungle Rollers
       <figure class="image-block">
          <img src="{{ '/assets/images/crash1/C1JUNGROLL.PNG' | relative_url }}"
@@ -57,16 +56,27 @@ Welcome! This is one of the first guides i'm actually making here on this site (
       </p>
     </li>
 
-    
     <li>The Great Gate
       <figure class="image-block">
          <img src="{{ '/assets/images/crash1/C1GREATGATE.PNG' | relative_url }}"
               alt="lv1"
               class="guide-art">
-         <figcaption>The Start Of Jungle Rollers</figcaption>
+         <figcaption>The Start Of The Great Gate</figcaption>
       </figure>
       <p>
       This level is similar to the last cause you need the yellow gem to break all boxes as with it you skip over the end of the level into a new section but for now just beat the level and move on.
+      </p>
+    </li>
+
+    <li>Boulders
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1BOULDERS.PNG' | relative_url }}"
+              alt="lv1"
+              class="guide-art">
+         <figcaption>The Start Of Boulders</figcaption>
+      </figure>
+      <p>
+      Personally I think the level is pretty easy just be careful you don't bump into too many obstacles while fleeing from the boulder and break the boxes as you run after a few tries you should finish without much issue.
       </p>
     </li>
   </ul>
