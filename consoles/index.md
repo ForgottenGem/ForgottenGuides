@@ -5,11 +5,11 @@ title: Consoles
 
 # Consoles
 
-<details class="guide-section">
+<details class="console-guide-section">
   <summary>Nintendo Consoles</summary>
   <ul>
     <li>
-      <details class="guide-section">
+      <details class="console-guide-section">
         <summary>Home Consoles</summary>
         <ul>
           <li>
@@ -21,7 +21,7 @@ title: Consoles
       </details>
     </li>
     <li>
-      <details class="guide-section">
+      <details class="console-guide-section">
         <summary>Handhelds</summary>
         <ul>
           <li>
@@ -36,11 +36,11 @@ title: Consoles
 </details>
 
 
-<details class="guide-section">
+<details class="console-guide-section">
   <summary>Playstation Consoles</summary>
   <ul>
     <li>
-      <details class="guide-section">
+      <details class="console-guide-section">
         <summary>Home Consoles</summary>
         <ul>
           <li>
@@ -52,7 +52,7 @@ title: Consoles
       </details>
     </li>
     <li>
-      <details class="guide-section">
+      <details class="console-guide-section">
         <summary>Handhelds</summary>
         <ul>
           <li>
