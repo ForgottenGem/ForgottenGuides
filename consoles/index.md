@@ -48,26 +48,30 @@ title: Consoles
 </details>
 
 <details class="guide-section">
-  <summary>Nintendo Consoles</summary>
+  <summary>Playstation Consoles</summary>
   <ul>
     <li>
       <details class="guide-section">
         <summary>Home Consoles</summary>
-        <li>
-          <a class="button-link" href="{{ '/n64/' | relative_url }}">
-            Nintendo 64
-          </a>
-        </li>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/playstation/' | relative_url }}">
+              PlayStation
+            </a>
+          </li>
+        </ul>
       </details>
     </li>
     <li>
       <details class="guide-section">
         <summary>Handhelds</summary>
-        <li>
-          <a class="button-link" href="{{ '/n64/' | relative_url }}">
-            Nintendo 64
-          </a>
-        </li>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/playstation/' | relative_url }}">
+              PlayStation
+            </a>
+          </li>
+        </ul>
       </details>
     </li>
   </ul>
