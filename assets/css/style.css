@@ -231,7 +231,43 @@ main {
 }
 
 
+ /*multiple images left and right*/
+.box-art-carousel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
 
+.carousel-btn {
+  width: 44px;
+  height: 44px;
+  border-radius: 999px;
+  border: 1px solid #2d4368;
+  background: #13203a;
+  color: #c7dcff;
+  font-size: 2rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.carousel-btn:hover {
+  background: #1a2c4f;
+  border-color: #4a6aa1;
+}
+
+@media (max-width: 600px) {
+  .box-art-carousel {
+    gap: 0.5rem;
+  }
+
+  .carousel-btn {
+    width: 38px;
+    height: 38px;
+    font-size: 1.6rem;
+  }
+}
 
 
 
