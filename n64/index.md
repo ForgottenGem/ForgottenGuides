@@ -27,6 +27,10 @@ My family when I was young was very big on Playstation compared to Nintendo so I
 
 ---
 
+This is where you will find all the Nintendo 64 games I have currently made guides for.
+
+---
+
 ## Games
 
 <a class="button-link" href="{{ '/n64/oot/' | relative_url }}">
