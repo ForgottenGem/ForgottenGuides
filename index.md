@@ -17,3 +17,40 @@ This website is one of my first but already way better than any I made in summer
 
 My thoughts on a game on it's main page as well as some generic details about the game such as release time, ratings, and developer.
 The guides for games linked on its page whether it be 100% guides or maybe certain challenge run guides,  or even retroachievements guides. Maybe even for pokemon I could make some mini shiny hunting guides only  the future will tell.
+
+---
+
+## I Stream
+
+I stream daily whenever I get the time to and will likely be playing lots of the games i'll be making guides for as weel as challenge runs or retro achievements so check it out If you want to.
+
+<a class="button-link" 
+   href="https://youtube.com/@forgottengem?si=9o8NXLva64p2nFmo" 
+   target="_blank" 
+   rel="noopener">
+   Visit My Channel
+</a>
+
+---
+
+## Email Me
+
+If you want any guides in specific to get added sooner than later send me an email of what game and why and i'll try
+to get it done sooner if I can, though do remember I only do this when I have the time.
+
+<button class="button-link" onclick="copyEmail()">
+  Copy Email Address
+</button>
+<span id="copy-msg" style="margin-left:10px; opacity:0.8;"></span>
+<script>
+function copyEmail() {
+  const email = "forgottengem20@gmail.com";
+  navigator.clipboard.writeText(email).then(() => {
+    const msg = document.getElementById("copy-msg");
+    msg.textContent = "Copied!";
+    setTimeout(() => {
+      msg.textContent = "";
+    }, 2000);
+  });
+}
+</script>
