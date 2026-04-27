@@ -268,12 +268,12 @@ main {
 
 /* leftarrow */
 .carousel-btn:first-of-type {
-  left: -60px;
+  left: -30px;
 }
 
 /* rightarrow */
 .carousel-btn:last-of-type {
-  right: -60px;
+  right: -30px;
 }
 
 
