@@ -344,15 +344,87 @@ Welcome! This is one of the first guides i'm actually making here on this site (
       </p>
     </li>
 
-    <li>Lights Out
+    <li>Jaws Of Darkness
       <figure class="image-block">
-         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-              alt="lv25"
+         <img src="{{ '/assets/images/crash1/C1JAWSOFDARKNESS.PNG' | relative_url }}"
+              alt="lv26"
               class="guide-art">
-         <figcaption>The Start Of Lights Out</figcaption>
+         <figcaption>The Start Of Jaws Of Darkness</figcaption>
       </figure>
       <p>
-      This level is quite a unique one as you get the purple gem for clearing all boxes, BUT you can't break all the boxes until you have the yellow gem so for now get used to the mechanic of Aku-Aku giving you light and practice for lap 2.
+      This level is long so make sure you take your time but you do get to ride your first gem platform in this level which you  need to do to get all boxes so when you see it hop on and take a ride. Make sure to check above some boxes as this level is home to the second Cortex bonus level for the second key in the game. You don't need the boxes and key in one run so just focus on the box gem until you get it then if you haven't gotten it go for the key.
+      </p>
+    </li>
+
+    <li>Castle Machinery
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1CASTLEMACHINERY.PNG' | relative_url }}"
+              alt="lv27"
+              class="guide-art">
+         <figcaption>The Start Of Castle Machinery</figcaption>
+      </figure>
+      <p>
+      Even though this level from the beginning looks like you need the green gem to get all boxes you actually don't as the green gem path is just for some bonus lives. So instead of jumping on the green gem platform dive down the pit to your right and make your way through the level and in all honesty this level it's pretty hard to miss boxes on as most if not all of them are in plain view or just for bouncing on a trampoline sorta thing.
+      </p>
+    </li>
+
+    <li>Boss 5 : Nitrus Brio
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1NITRUSBRIO.PNG' | relative_url }}"
+              alt="lv28"
+              class="guide-art">
+         <figcaption>The Start Of Nitrus Brio</figcaption>
+      </figure>
+      <p>
+      This fight even after playing the game many times just ends up being sometimes I do it and sometimes I don't. So in his first phase just dodge the potions he throws at you and whenever he spawns a green blob enemy just jump on it and it will damage him. Then when he goes hulk mode you've reached phase two so move back from him and stand on any giant bricks that fall and when he smashes close to you just jump on his head and repeat until he's finished.
+      </p>
+    </li>
+
+    <li>The Lab
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1THELAB.PNG' | relative_url }}"
+              alt="lv29"
+              class="guide-art">
+         <figcaption>The Start Of The Lab</figcaption>
+      </figure>
+      <p>
+      Being the final main level of this game The Lab is surprisingly unique making you open doors and make pathways for yourself using the metal "!" crates provided in the level. Though overall this level isn't the worst and you can get the gem on your first attempt. Be careful of the tnt jump right at the end instead of trying to bounce from the tnt to the end just land on the tnt and do a fresh jump to the end.
+      </p>
+    </li>
+
+    <li>The Lab
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1THELAB.PNG' | relative_url }}"
+              alt="lv30"
+              class="guide-art">
+         <figcaption>The Start Of The Lab</figcaption>
+      </figure>
+      <p>
+      Being the final main level of this game The Lab is surprisingly unique making you open doors and make pathways for yourself using the metal "!" crates provided in the level. Though overall this level isn't the worst and you can get the gem on your first attempt. Be careful of the tnt jump right at the end instead of trying to bounce from the tnt to the end just land on the tnt and do a fresh jump to the end.
+      </p>
+    </li>
+
+    <li>The Great Hall
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1GREATHALLNORMALEND.PNG' | relative_url }}"
+              alt="lv31"
+              class="guide-art">
+         <figcaption>The Start Of The Great Hall</figcaption>
+      </figure>
+      <p>
+      You need all gems to actually get the real ending of this level so just run forward and get the ending infront of you for now.
+      </p>
+    </li>
+
+    <li>DR. Neo Cortex
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1DRNEOCORTEX.PNG' | relative_url }}"
+              alt="lv32"
+              class="guide-art">
+         <figcaption>The Start Of DR. Neo Cortex</figcaption>
+      </figure>
+      <p>
+      Cortex will shoot purple and blue orbs at you in a sequence throughout the fight which you have to dodge, but whenever he shoots a green orb make sure you spin it as that's what you need to do to to damage him. With some practice the fight will be over in no time. That is officially lap one done and only a handful of gems remain.
       </p>
     </li>
   </ul>
@@ -361,12 +433,32 @@ Welcome! This is one of the first guides i'm actually making here on this site (
 <details class="guide-section">
   <summary>Lap 2</summary>
 
-  <p>Temp.</p>
+  <p>This Lap will go over everything that's left whether it be the final coloured gem, the final clear gems, all the way to the secret ending.</p>
 
   <ul>
-    <li>Temp1</li>
-    <li>Temp2</li>
-    <li>Temp3</li>
+    <li>Lights Out
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+              alt="lv33"
+              class="guide-art">
+         <figcaption>The Start Of Lights Out</figcaption>
+      </figure>
+      <p>
+      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      </p>
+    </li>
+
+    <li>Lights Out
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+              alt="lv33"
+              class="guide-art">
+         <figcaption>The Start Of Lights Out</figcaption>
+      </figure>
+      <p>
+      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      </p>
+    </li>
   </ul>
 </details>
 
