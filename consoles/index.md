@@ -35,11 +35,9 @@ title: Consoles
       <details class="guide-section">
         <summary>Home Consoles</summary>
         <ul>
-          <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Nintendo 64
-            </a>
-          </li>
+          <a class="button-link" href="{{ '/n64/' | relative_url }}">
+            Nintendo 64
+          </a>
         </ul>
       </details>
     </li>
@@ -47,11 +45,9 @@ title: Consoles
       <details class="guide-section">
         <summary>Handhelds</summary>
         <ul>
-          <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Nintendo 64
-            </a>
-          </li>
+          <a class="button-link" href="{{ '/n64/' | relative_url }}">
+            Nintendo 64
+          </a>
         </ul>
       </details>
     </li>
