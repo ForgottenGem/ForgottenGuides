@@ -41,13 +41,17 @@ to get it done sooner if I can, though do remember I only do this when I have th
 <button class="button-link" onclick="copyEmail()">
   Copy Email Address
 </button>
+
 <span id="copy-msg" style="margin-left:10px; opacity:0.8;"></span>
+
 <script>
 function copyEmail() {
   const email = "forgottengem20@gmail.com";
+
   navigator.clipboard.writeText(email).then(() => {
     const msg = document.getElementById("copy-msg");
     msg.textContent = "Copied!";
+
     setTimeout(() => {
       msg.textContent = "";
     }, 2000);
