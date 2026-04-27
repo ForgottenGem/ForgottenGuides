@@ -31,7 +31,7 @@ My Ratings: 6/10 Fun , 7/10 Difficulty
 
 ## My Thoughts
 
-Crash Badicoot on the Playstation is a game I have played over and over since childhood, I still think I can view it as a fresh player for all the difficulty it would give a new player. The momentum in this game always takes me by surprise overall you need to take either such slow or such wide turns to be able to make some of the jumps. It was very clearly an early Playstation game, it has a fair bit of jank but is still really fun to give a playthrough every so often. The N.Sane trilogy is easily the way I would decide to play it again. The 100% guide below should work for the remake but is mainly based for the PAL version of the original game.
+Crash Bandicoot on the Playstation is a game I have played over and over since childhood, I still think I can view it as a fresh player for all the difficulty it would give a new player. The momentum in this game always takes me by surprise overall you need to take either such slow or such wide turns to be able to make some of the jumps. It was very clearly an early Playstation game, it has a fair bit of jank but is still really fun to give a playthrough every so often. The N.Sane trilogy is easily the way I would decide to play it again. The 100% guide below should work for the remake but is mainly based for the PAL version of the original game.
 
 ---
 
