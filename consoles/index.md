@@ -5,7 +5,7 @@ title: Consoles
 
 # Consoles
 
-<details class="guide-section" open>
+<details class="guide-section">
   <summary>Nintendo Consoles</summary>
   <ul>
     <li>
@@ -17,7 +17,7 @@ title: Consoles
 </details>
 
 
-<details class="guide-section" open>
+<details class="guide-section">
   <summary>Playstation Consoles</summary>
   <ul>
     <li>
