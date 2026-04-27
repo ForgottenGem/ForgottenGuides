@@ -218,15 +218,141 @@ Welcome! This is one of the first guides i'm actually making here on this site (
       </p>
     </li>
 
-    <li>Boulder Dash
+    <li>Sunset Vista
       <figure class="image-block">
-         <img src="{{ '/assets/images/crash1/C1BOULDERDASH.PNG' | relative_url }}"
-              alt="lv15"
+         <img src="{{ '/assets/images/crash1/C1SUNSETVISTA.PNG' | relative_url }}"
+              alt="lv16"
               class="guide-art">
-         <figcaption>The Start Of Boulder Dash</figcaption>
+         <figcaption>The Start Of Sunset Vista</figcaption>
       </figure>
       <p>
-      Boulder Dash you need the purple gem to obtain every box so just run your way through the level and get used to it for lap two. But overall its really similar to the first boulder level.
+      Sunset Vista is probably in my top three of hates levels in this game, from mean enemy spots to sneaky crates all the way to see-saw platforms to make your way past as well as being one of the longer levels in the game. Though you can get the gem on your first run through the level it's just tough. Keep your eyes peeled as this is the first level with three Cortex tokens hidden throughout which you also need to get for a key at the end of his bonus levels. This dosn't need to be gotten on the same run as the gem though.
+      </p>
+    </li>
+
+    <li>Boss 3 : Koala Kong
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1KOALAKONG.PNG' | relative_url }}"
+              alt="lv17"
+              class="guide-art">
+         <figcaption>The Start Of Koala Kong</figcaption>
+      </figure>
+      <p>
+      This boss is fine, you need to dodge left and right or jump whenever he throws some rocks at you and steer clear when he throws the huge rock but when the huge one comes to a stop just spin it back at him making sure he isn't behind a minecart first.
+      </p>
+    </li>
+
+    <li>Heavy Machinery
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1HEAVYMACHINERY.PNG' | relative_url }}"
+              alt="lv18a"
+              class="guide-art">
+         <figcaption>The Start Of Heavy Machinery</figcaption>
+      </figure>
+      <p>
+      This level you can actually 100% on your first try and is actually pretty easy. Or atleast I think so just make sure near the start that you dive down a pit with two robots floating between it to be let into a secret path with some boxes sre hiding from you and thats basically it just run the path through the level to find the rest.
+      </p>
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1HEAVYMACHINERYROBOTDROP.PNG' | relative_url }}"
+              alt="lv18b"
+              class="guide-art">
+         <figcaption>The Hidden Enemy Drop Needed For All Boxes</figcaption>
+      </figure>
+    </li>
+
+    <li>Cortex Power
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1CORTEXPOWER.PNG' | relative_url }}"
+              alt="lv19"
+              class="guide-art">
+         <figcaption>The Start Of Cortex Power</figcaption>
+      </figure>
+      <p>
+      This level has way too many diverging paths for it to make any sense but you need the blue gem to break all boxes so for now be careful of the green goop and robots and push your way forward to the end of this maze like level.
+      </p>
+    </li>
+
+    <li>Generator Room
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1GENERATORROOM.PNG' | relative_url }}"
+              alt="lv20"
+              class="guide-art">
+         <figcaption>The Start Of Generator Room</figcaption>
+      </figure>
+      <p>
+      The next level you can 100% immediately granting you the orange gem. It's a decently long level with a medium bit of challenge mainly from the fact that the game is a little but funky with its jumps at times just take your time spin if you think your gonna hit a camera bot and in a few tries (Or twelve like it took me while making this guide) you'll get the gem.
+      </p>
+    </li>
+
+    <li>Toxic Waste
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1TOXICWASTE.PNG' | relative_url }}"
+              alt="lv21"
+              class="guide-art">
+         <figcaption>The Start Of Toxic Waste</figcaption>
+      </figure>
+      <p>
+      Toxic Waste I can't really say anything about, as it's really just a straight line. You can get every box in this level on your first playthrough of the level granting you the blue gem just make sure you jump over any barrels coming at you.
+      </p>
+    </li>
+
+    <li>Boss 4 : Pinstripe
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1PINSTRIPE.PNG' | relative_url }}"
+              alt="lv22"
+              class="guide-art">
+         <figcaption>The Start Of Toxic Waste</figcaption>
+      </figure>
+      <p>
+      This fight took me ages as a kid I never really understood it but now I do! Whenever your immobile behind a chair crash will hunch over a bit and from there you are hidden from his attacks. Whenever he crosses across the center or his gun jams he is able to be hit so just hide until he is vulnerable and he will be yesterdays news.
+      </p>
+    </li>
+
+    <li>The High Road
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1HIGHROAD.PNG' | relative_url }}"
+              alt="lv23"
+              class="guide-art">
+         <figcaption>The Start Of The High Road</figcaption>
+      </figure>
+      <p>
+      The last and second bridge themed level in the game. I usually find this one a little bit easier than the first but most of my friends find it harder to clear. Just at the start make sure to go back to get some boxes by jumping over invisible planks that go in sets of two, then make sure you dont miss a crate about mid way that is above some metal crates. Otherwise just dodge the hogs and break the rest of the boxes.
+      </p>
+    </li>
+
+    <li>Slippery Climb
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1SLIPPERYCLIMB.PNG' | relative_url }}"
+              alt="lv24"
+              class="guide-art">
+         <figcaption>The Start Of Slippery Climb</figcaption>
+      </figure>
+      <p>
+      Slippery Climb is the only castle wall level in the game as the other one Stormy Ascent was cut in development for being too hard but was added back into the remake. You can 100% this level on your first visit but it has a steep learning curve. Whether it be retracting platforms, floating birds, or platforms going on off sync cycles this level can beat you to your breaking point so feel free to take a break.
+      </p>
+    </li>
+
+    <li>Lights Out
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+              alt="lv25"
+              class="guide-art">
+         <figcaption>The Start Of Lights Out</figcaption>
+      </figure>
+      <p>
+      This level is quite a unique one as you get the purple gem for clearing all boxes, BUT you can't break all the boxes until you have the yellow gem so for now get used to the mechanic of Aku-Aku giving you light and practice for lap 2.
+      </p>
+    </li>
+
+    <li>Lights Out
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+              alt="lv25"
+              class="guide-art">
+         <figcaption>The Start Of Lights Out</figcaption>
+      </figure>
+      <p>
+      This level is quite a unique one as you get the purple gem for clearing all boxes, BUT you can't break all the boxes until you have the yellow gem so for now get used to the mechanic of Aku-Aku giving you light and practice for lap 2.
       </p>
     </li>
   </ul>
