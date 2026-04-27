@@ -16,7 +16,7 @@ title: Ocarina of Time
   <button class="carousel-btn" onclick="changeBoxArt(-1)">‹</button>
   <figure class="image-block">
     <img id="box-art-image"
-         src="{{ '/assets/images/ootn64/ZOOTN64PalCover.jpg' | relative_url }}"
+         src="{{ '/assets/images/ootn64/ZOOtN64PalCover.jpg' | relative_url }}"
          alt="PAL Box Art"
          class="box-art">
     <figcaption id="box-art-caption">PAL Box Art</figcaption>
