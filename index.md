@@ -22,7 +22,7 @@ The guides for games linked on its page whether it be 100% guides or maybe certa
 
 ## I Stream
 
-I stream daily whenever I get the time to and will likely be playing lots of the games i'll be making guides for as weel as challenge runs or retro achievements so check it out If you want to.
+I stream daily whenever I get the time to and will likely be playing lots of the games i'll be making guides for as well as challenge runs or retro achievements so check it out If you want to.
 
 <a class="button-link" 
    href="https://youtube.com/@forgottengem?si=9o8NXLva64p2nFmo" 
