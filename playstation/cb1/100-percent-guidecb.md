@@ -392,18 +392,6 @@ Welcome! This is one of the first guides i'm actually making here on this site (
       </p>
     </li>
 
-    <li>The Lab
-      <figure class="image-block">
-         <img src="{{ '/assets/images/crash1/C1THELAB.PNG' | relative_url }}"
-              alt="lv30"
-              class="guide-art">
-         <figcaption>The Start Of The Lab</figcaption>
-      </figure>
-      <p>
-      Being the final main level of this game The Lab is surprisingly unique making you open doors and make pathways for yourself using the metal "!" crates provided in the level. Though overall this level isn't the worst and you can get the gem on your first attempt. Be careful of the tnt jump right at the end instead of trying to bounce from the tnt to the end just land on the tnt and do a fresh jump to the end.
-      </p>
-    </li>
-
     <li>The Great Hall
       <figure class="image-block">
          <img src="{{ '/assets/images/crash1/C1GREATHALLNORMALEND.PNG' | relative_url }}"
@@ -416,7 +404,7 @@ Welcome! This is one of the first guides i'm actually making here on this site (
       </p>
     </li>
 
-    <li>DR. Neo Cortex
+    <li>Final Boss : DR. Neo Cortex
       <figure class="image-block">
          <img src="{{ '/assets/images/crash1/C1DRNEOCORTEX.PNG' | relative_url }}"
               alt="lv32"
@@ -448,15 +436,135 @@ Welcome! This is one of the first guides i'm actually making here on this site (
       </p>
     </li>
 
-    <li>Lights Out
+    <li>Fumbling In The Dark
       <figure class="image-block">
-         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-              alt="lv33"
+         <img src="{{ '/assets/images/crash1/C1FUMBLINGINTHEDARK.PNG' | relative_url }}"
+              alt="lv34"
               class="guide-art">
-         <figcaption>The Start Of Lights Out</figcaption>
+         <figcaption>The Start Of Fumbling In The Dark</figcaption>
       </figure>
       <p>
-      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      Directly above Lights Out is the first key level that we will do Fumbling In The Dark, this is just like a harder version of the other darkness level but at the start is the worst part of it. Before going forward back up and you need to do jumps around archways to get seven boxes and once you make your way back this plays the exact same as the last  darkness level just a bit harder.
+      </p>
+    </li>
+
+    <li>Whole Hog
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1WHOLEHOG.PNG' | relative_url }}"
+              alt="lv35"
+              class="guide-art">
+         <figcaption>The Start Of Whole Hog</figcaption>
+      </figure>
+      <p>
+      Back on the second island is the second out of two key levels we will be doing Whole Hog, This level is basically copy and paste from hog wild only having a bit more tricky curves you have to do for boxes so really just a bit of practice and remembering  some patterns is key for this level.
+      </p>
+    </li>
+
+    <li>Jungle Rollers
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1JUNGROLL.PNG' | relative_url }}"
+              alt="lv36"
+              class="guide-art">
+         <figcaption>The Start Of Jungle Rollers</figcaption>
+      </figure>
+      <p>
+      Jungle rollers plays the exact same as the first time you entered but this time midway in you can rise up on a green gem platform and get the final few boxes before jumping back down to the normal path.
+      </p>
+    </li>
+
+    <li>The Great Gate
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1GREATGATE.PNG' | relative_url }}"
+              alt="lv37"
+              class="guide-art">
+         <figcaption>The Start Of The Great Gate</figcaption>
+      </figure>
+      <p>
+      In this level it plays the same all the way until the end of the normal ending but now with the yellow gem in hand you can actually jump over the end of the level and continue onto a decently hard section of the level but its more of the stuff from before like spike poles and flaming torches so after a few tries the gem should be yours.
+      </p>
+    </li>
+
+    <li>Upstream
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1UPSTREAM.PNG' | relative_url }}"
+              alt="lv38"
+              class="guide-art">
+         <figcaption>The Start Of Upstream</figcaption>
+      </figure>
+      <p>
+      Play this level like normal up until the gem platforms appear use them to go under the log and break the boxes there and then again at the end of this level take the gem paths to find the rest of the boxes and claim the gem as your own.
+      </p>
+    </li>
+
+    <li>Rolling Stones
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1ROLLINGSTONES.PNG' | relative_url }}"
+              alt="lv39"
+              class="guide-art">
+         <figcaption>The Start Of Rolling Stones</figcaption>
+      </figure>
+      <p>
+      This level is probably the easient of the ones that require coloured gems as this one plays the same except you go down a gem platform into the pit for the last handful of boxes available and then just finish the level as normal.
+      </p>
+    </li>
+
+    <li>Native Fortress
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1NATIVEFORTRESS.PNG' | relative_url }}"
+              alt="lv40"
+              class="guide-art">
+         <figcaption>The Start Of Native Fortress</figcaption>
+      </figure>
+      <p>
+      Play this level until the red gem section where when you take it up you get brought to a cloud section that is actually really hard to see atleast for me. Carefully break all the boxes there, go back the way you came and drop down and finish the level normally.
+      </p>
+    </li>
+
+    <li>Road To Nowhere
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1ROADTONOWHERE.PNG' | relative_url }}"
+              alt="lv41"
+              class="guide-art">
+         <figcaption>The Start Of Road To Nowhere</figcaption>
+      </figure>
+      <p>
+      Okay this level isn't actually the worst surprisingly, midway through beside a checkpoint crate will be a red gem platform that will to you to a sorta puzzle on the right until you break all the boxes and make your way back. From there continue on until the very end of this level where there's a new gem platform. Now behind the end continue on using the invisible platforms like at the start of The High Road and break all the boxes before finally getting this annoying gem out of the way.
+      </p>
+    </li>
+
+    <li>Boulder Dash
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1BOULDERDASH.PNG' | relative_url }}"
+              alt="lv42"
+              class="guide-art">
+         <figcaption>The Start Of Boulder Dash</figcaption>
+      </figure>
+      <p>
+      Boulder Dash is great, while the level is mostly the same except this time at the end there is a purple gem platform that brings you down underneath the level which I just think is a really unique use for a gem path. Make your way through the underground area and finish the level with a new gem in hand.
+      </p>
+    </li>
+
+    <li>Cortex Power
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1CORTEXPOWER.PNG' | relative_url }}"
+              alt="lv43"
+              class="guide-art">
+         <figcaption>The Start Of Cortex Power</figcaption>
+      </figure>
+      <p>
+      Cortex Power is easily the worst level to get the gem on in my personal opinion. Not even counting the gem path the amount of blind backtracking you have to do is infuriating to say the very least. I reccomend going right all you can and gradually work your way left across the many pathways until the level is finally done and you can rest easy all gems in hand.
+      </p>
+    </li>
+
+    <li>The Great Hall
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1GREATHALLSECRETEND.PNG' | relative_url }}"
+              alt="lv44"
+              class="guide-art">
+         <figcaption>The Start Of The Great Hall</figcaption>
+      </figure>
+      <p>
+      Now Back to The Great Hall after the rest of the game is done all the gems collected all the gem platforms will be solid. Which is why we didn't come this way earlier just jump your way to the secret ending and congratulations you have completed Crash Bandicoot.
       </p>
     </li>
   </ul>
