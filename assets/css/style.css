@@ -161,7 +161,7 @@ main {
   transform: translateY(0);
 }
 
-/*For collapsible sections*/
+/*For guide collapsible sections*/
 .guide-section {
   background: #0b1220;
   border: 1px solid #253047;
@@ -276,8 +276,56 @@ main {
   right: -5px;
 }
 
+/*console collapsible sections*/
+.console-guide-section {
+  background: #0b1220;
+  border: 1px solid #253047;
+  border-radius: 16px;
+  padding: 0.2rem 1rem;
+  margin: 1rem 0;
+}
 
+.console-guide-section summary {
+  cursor: pointer;
+  list-style: none;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #f9fafb;
+  padding: 0.9rem 0;
+}
 
+.console-guide-section summary::-webkit-details-marker {
+  display: none;
+}
 
+.console-guide-section summary::before {
+  content: "▸";
+  color: #93c5fd;
+  margin-right: 0.6rem;
+  transition: transform 0.2s ease;
+  display: inline-block;
+}
+
+.console-guide-section[open] summary::before {
+  transform: rotate(90deg);
+}
+
+.console-guide-section p,
+.console-guide-section ul,
+.console-guide-section ol {
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.console-guide-section ul,
+.console-guide-section ol {
+  padding-left: 1.4rem;
+}
+
+.console-guide-section ul {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
 
 
