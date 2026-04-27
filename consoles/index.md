@@ -40,17 +40,6 @@ title: Consoles
   <summary>Playstation Consoles</summary>
   <ul>
     <li>
-      <a class="button-link" href="{{ '/playstation/' | relative_url }}">
-        PlayStation
-      </a>
-    </li>
-  </ul>
-</details>
-
-<details class="guide-section">
-  <summary>Playstation Consoles</summary>
-  <ul>
-    <li>
       <details class="guide-section">
         <summary>Home Consoles</summary>
         <ul>
