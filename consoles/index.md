@@ -26,7 +26,7 @@ title: Consoles
         <ul>
           <li>
             <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Nintendo 64
+              Temp
             </a>
           </li>
         </ul>
@@ -57,7 +57,7 @@ title: Consoles
         <ul>
           <li>
             <a class="button-link" href="{{ '/playstation/' | relative_url }}">
-              PlayStation
+              Temp
             </a>
           </li>
         </ul>
