@@ -9,13 +9,53 @@ title: Nintendo 64
 
 # Nintendo 64
 
-<figure class="image-block">
-  <img src="{{ '/assets/images/misc/N64.png' | relative_url }}"
-       alt="n64pic"
-       class="console-art">
 
-  <figcaption>The Nintendo 64</figcaption>
-</figure>
+<div class="box-art-carousel">
+  <button class="carousel-btn" onclick="changeBoxArt(-1)">‹</button>
+  <figure class="image-block">
+    <img id="box-art-image"
+         src="{{ '/assets/images/misc/N64.png' | relative_url }}"
+         alt="PAL/JP/NA Nintendo 64"
+         class="box-art">
+    <figcaption id="box-art-caption">PAL/JP/NA Nintendo64</figcaption>
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(1)">›</button>
+</div>
+<script>
+  const boxArts = [
+    {
+      src: "{{ '/assets/images/misc/N64.png' | relative_url }}",
+      caption: "PAL/JP/NA Nintendo 64",
+      alt: "PAL/JP/NA Nintendo 64"
+    },
+    {
+      src: "{{ '/assets/images/misc/N64DD.png' | relative_url }}",
+      caption: "Nintendo 64 With Disk Drive Attachment",
+      alt: "Nintendo 64 With Disk Drive Attachment"
+    },
+    {
+      src: "{{ '/assets/images/misc/N64IQUE.png' | relative_url }}",
+      caption: "The iQue Player (N64 In Mainland China)",
+      alt: "The iQue Player (N64 In Mainland China)"
+    }
+  ];
+  let currentBoxArt = 0;
+  function changeBoxArt(direction) {
+    currentBoxArt += direction;
+    if (currentBoxArt < 0) {
+      currentBoxArt = boxArts.length - 1;
+    }
+    if (currentBoxArt >= boxArts.length) {
+      currentBoxArt = 0;
+    }
+    document.getElementById("box-art-image").src = boxArts[currentBoxArt].src;
+    document.getElementById("box-art-image").alt = boxArts[currentBoxArt].alt;
+    document.getElementById("box-art-caption").textContent = boxArts[currentBoxArt].caption;
+  }
+</script>
+
+
+Released: 23/June/1996(JP) , 29/Sep/1996(NA) , 1/March/1997(EU)
 
 
 ---
