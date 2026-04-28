@@ -9,14 +9,49 @@ title: Playstation
 
 # Playstation
 
-<figure class="image-block">
-  <img src="{{ '/assets/images/misc/PS1.png' | relative_url }}"
-       alt="ps1pic"
-       class="console-art">
+<div class="box-art-carousel">
+  <button class="carousel-btn" onclick="changeBoxArt(-1)">‹</button>
+  <figure class="image-block">
+    <img id="box-art-image"
+         src="{{ '/assets/images/misc/PS1.png' | relative_url }}"
+         alt="The Playstation"
+         class="box-art">
+    <figcaption id="box-art-caption">The Playstation</figcaption>
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(1)">›</button>
+</div>
+<script>
+  const boxArts = [
+    {
+      src: "{{ '/assets/images/misc/PS1.png' | relative_url }}",
+      caption: "The Playstation",
+      alt: "The Playstation"
+    },
+    {
+      src: "{{ '/assets/images/misc/PSOne.png' | relative_url }}",
+      caption: "The PS One",
+      alt: "The PS One"
+    }
+  ];
+  let currentBoxArt = 0;
+  function changeBoxArt(direction) {
+    currentBoxArt += direction;
+    if (currentBoxArt < 0) {
+      currentBoxArt = boxArts.length - 1;
+    }
+    if (currentBoxArt >= boxArts.length) {
+      currentBoxArt = 0;
+    }
+    document.getElementById("box-art-image").src = boxArts[currentBoxArt].src;
+    document.getElementById("box-art-image").alt = boxArts[currentBoxArt].alt;
+    document.getElementById("box-art-caption").textContent = boxArts[currentBoxArt].caption;
+  }
+</script>
 
-  <figcaption>The Playstation 1</figcaption>
-</figure>
 
+Released: 3/Dec/1994(JP) , 9/Sep/1995(NA) , 29/Sep/1995(EU)
+
+---
 
 ## My Thoughts On The Playstation
 
