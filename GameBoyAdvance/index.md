@@ -4,44 +4,39 @@ title: Game Boy Advance
 ---
 
 <nav class="breadcrumbs" aria-label="Breadcrumb">
-  <span class="current">Nintendo DS</span>
+  <span class="current">Game Boy Advance</span>
 </nav>
 
-# Nintendo DS
+# Game Boy Advance
 
 
 <div class="box-art-carousel">
   <button class="carousel-btn" onclick="changeBoxArt(-1)">‹</button>
   <figure class="image-block">
     <img id="box-art-image"
-         src="{{ '/assets/images/misc/DSOG.png' | relative_url }}"
-         alt="The Original Nintendo DS"
+         src="{{ '/assets/images/misc/GameBoyAdvance.png' | relative_url }}"
+         alt="The Original Game Boy Advance"
          class="box-art">
-    <figcaption id="box-art-caption">The Original Nintendo DS</figcaption>
+    <figcaption id="box-art-caption">The Original Game Boy Advance</figcaption>
   </figure>
   <button class="carousel-btn" onclick="changeBoxArt(1)">›</button>
 </div>
 <script>
   const boxArts = [
     {
-      src: "{{ '/assets/images/misc/DSOG.png' | relative_url }}",
-      caption: "The Original Nintendo DS",
-      alt: "The Original Nintendo DS"
+      src: "{{ '/assets/images/misc/GameBoyAdvance.png' | relative_url }}",
+      caption: "The Original Game Boy Advance",
+      alt: "The Original Game Boy Advance"
     },
     {
-      src: "{{ '/assets/images/misc/NintendoDS.png' | relative_url }}",
-      caption: "The Nintendo DS Lite",
-      alt: "The Nintendo DS Lite"
+      src: "{{ '/assets/images/misc/GBASP.png' | relative_url }}",
+      caption: "The Game Boy Advance SP",
+      alt: "The Game Boy Advance SP"
     },
     {
-      src: "{{ '/assets/images/misc/DSI.png' | relative_url }}",
-      caption: "The Nintendo DSI",
-      alt: "The Nintendo DSI"
-    },
-    {
-      src: "{{ '/assets/images/misc/DSIXL.png' | relative_url }}",
-      caption: "The Nintendo DSI XL",
-      alt: "The Nintendo DSI XL"
+      src: "{{ '/assets/images/misc/GBMicro.png' | relative_url }}",
+      caption: "The Game Boy Micro",
+      alt: "The Game Boy Micro"
     }
   ];
   let currentBoxArt = 0;
@@ -60,18 +55,18 @@ title: Game Boy Advance
 </script>
 
 
-Released: 2/Dec/2004(JP) , 21/Nov/2004(NA) , 11/March/2005(EU)
+Released: 21/March/2001(JP) , 11/June/2001(NA) , 22/June/2001(EU)
 
 
 ---
 
-## My Thoughts On The DS
+## My Thoughts On The Game Boy Advance
 
-I never actually owned many models of the DS when I was younger, the original DS I have yet to get my hands on to this day. I had a black DS lite that I used constantly as a kid that I have since shell swapped the crusty half broken shell with a nice semi transparent purple one. I played way too much of Mario 64 DS and Bowser's Inside Story when I was younger even doing challenge runs of the latter and recording very very bad speedruns just on my phone when are long gone now. I feel like the DS was a lot of peoples childhood handheld.
+I bought my Game Boy Advance at a convention like 4 years ago when I was around 19, I hadn't remembered that backlit screens weren't always a thing so I got quite a surprise when I turned it on and remembered. But it was still great to play games such as the GBA Crash Bandicoot games or Zelda: Minish Cap. I then later got my GBA SP at the Irish Gaming Market up in dublin and it's the definitive way to play the GB, GBC, and GBA line of games.
 
 ---
 
-This is where you will find all the DS games I have currently made guides for.
+This is where you will find all the GBA games I have currently made guides for.
 
 ---
 
