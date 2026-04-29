@@ -1,42 +1,42 @@
 ---
 layout: default
-title: Game Boy Advance
+title: NES / Famicom
 ---
 
 <nav class="breadcrumbs" aria-label="Breadcrumb">
-  <span class="current">Game Boy Advance</span>
+  <span class="current">NES / Famicom</span>
 </nav>
 
-# Game Boy Advance
+# NES / Famicom
 
 
 <div class="box-art-carousel">
   <button class="carousel-btn" onclick="changeBoxArt(-1)">‹</button>
   <figure class="image-block">
     <img id="box-art-image"
-         src="{{ '/assets/images/misc/GameBoyAdvance.png' | relative_url }}"
-         alt="The Original Game Boy Advance"
+         src="{{ '/assets/images/misc/NES.png' | relative_url }}"
+         alt="The Nintendo Entertainment System"
          class="box-art">
-    <figcaption id="box-art-caption">The Original Game Boy Advance</figcaption>
+    <figcaption id="box-art-caption">The Nintendo Entertainment System</figcaption>
   </figure>
   <button class="carousel-btn" onclick="changeBoxArt(1)">›</button>
 </div>
 <script>
   const boxArts = [
     {
-      src: "{{ '/assets/images/misc/GameBoyAdvance.png' | relative_url }}",
-      caption: "The Original Game Boy Advance",
-      alt: "The Original Game Boy Advance"
+      src: "{{ '/assets/images/misc/NES.png' | relative_url }}",
+      caption: "The Nintendo Entertainment System",
+      alt: "The Nintendo Entertainment System"
     },
     {
-      src: "{{ '/assets/images/misc/GBASP.png' | relative_url }}",
-      caption: "The Game Boy Advance SP",
-      alt: "The Game Boy Advance SP"
+      src: "{{ '/assets/images/misc/Famicom.png' | relative_url }}",
+      caption: "The Famicom (Japan's NES Version)",
+      alt: "The Famicom (Japan's NES Version)"
     },
     {
-      src: "{{ '/assets/images/misc/GBMicro.png' | relative_url }}",
-      caption: "The Game Boy Micro",
-      alt: "The Game Boy Micro"
+      src: "{{ '/assets/images/misc/FamicomDiskSystem.png' | relative_url }}",
+      caption: "The Famicom With Disk System Attachment",
+      alt: "The Famicom With Disk System Attachment"
     }
   ];
   let currentBoxArt = 0;
@@ -55,18 +55,18 @@ title: Game Boy Advance
 </script>
 
 
-Released: 21/March/2001(JP) , 11/June/2001(NA) , 22/June/2001(EU)
+Released: 15/July/1983(JP) , 18/Oct/1985(NA) , 1/Sep/1986(EU)
 
 
 ---
 
-## My Thoughts On The Game Boy Advance
+## My Thoughts On The Nintendo Entertainment System
 
-I bought my Game Boy Advance at a convention like 4 years ago when I was around 19, I hadn't remembered that backlit screens weren't always a thing so I got quite a surprise when I turned it on and remembered. But it was still great to play games such as the GBA Crash Bandicoot games or Zelda: Minish Cap. I then later got my GBA SP at the Irish Gaming Market up in dublin and it's the definitive way to play the GB, GBC, and GBA line of games.
+I actually have never owned an NES for long even though I have a few games for it such as the original Super Mario Bros. I owned one for about a week that I bought off of ebay and kept trying my hardest to get it working but couldn't so I ended up returning it the next week or so, but the games overall I find them pretty fun but they definitely show their age but the first Mario and Zelda game hit different.
 
 ---
 
-This is where you will find all the GBA games I have currently made guides for.
+This is where you will find all the NES/Famicom games I have currently made guides for.
 
 ---
 
