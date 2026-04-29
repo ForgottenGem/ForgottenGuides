@@ -59,9 +59,9 @@ title: Ocarina of Time
 
 Released: 21/Nov/1998(JP) , 23/Nov/1998(NA) , 11/Dec/1998(EU)
 
-Genre: 
+Genre: Action-Adventure
 
-Developer: 
+Developer: Nintendo
 
 My Ratings: Fun 7/10 , Difficulty 5/10
 
@@ -69,7 +69,7 @@ My Ratings: Fun 7/10 , Difficulty 5/10
 
 ## My Thoughts
 
-Blah Blah
+Zelda: Ocarina of Time is to a lot of people one of if not the best Zelda game in the series, I personally don't share this opinion as I think at times it's a bit clunky showing it's age. I've actually only ever beat the game properly like twice as I usually only play randomizers of it. Because of my addiction to randomizers I like my fun rating mightn't be super spot on but overall I find the game decently fun to play.
 
 ---
 
