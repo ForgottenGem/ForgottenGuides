@@ -60,18 +60,18 @@ title: PlayStation 4
 </script>
 
 
-Released: 11/Nov/2006(JP) , 17/Nov/2006(NA) , 23/March/2007(EU)
+Released: 22/Feb/2014(JP) , 15/Nov/2013(NA) , 29/Nov/2013(EU)
 
 
 ---
 
-## My Thoughts On The PlayStation 3
+## My Thoughts On The PlayStation 4
 
-PlayStation released their third console and was very very expensive at launch costing about $600 in 2006 which made it a bit of a loss as it also cost Sony a lot to manufacture. That being said their ae some great series that began on the PS3 such as the Assassin's Creed series, Prototype series, and Little Big Planet all being major parts of my PlayStation experience when I was more towards my teen years but overall still not one of my favourite consoles as besides thos amazing new series starting there wasn't too much special about the PS3.
+The PlayStation 4 was such an amazing console for me whether it's because of the later Skylanders games, Crash Bandicoot remakes or Bloodborne which is one of the most amazing games of all time and I will fight for this, The PS4 was just such a leap up from the PS3 for me atleast and had so many good games like PvZ Garden Warfare 2. The amount of times i've played each of these is countless and I thoroughly enjoyed my time with the PS4. It was also the first PlayStation console to have VR capabilities with a few good highlights such as Astro Bot : Rescue Mission, PS VR Worlds, Farpoint.
 
 ---
 
-This is where you will find all the PlayStation 3 games I have currently made guides for.
+This is where you will find all the PlayStation 4 games I have currently made guides for.
 
 ---
 
