@@ -46,7 +46,7 @@ to get it done sooner if I can, though do remember I only do this when I have th
 
 <script>
 function copyEmail() {
-  const email = "forgottengem20@gmail.com";
+  const email = "forgottenguides26@gmail.com";
 
   navigator.clipboard.writeText(email).then(() => {
     const msg = document.getElementById("copy-msg");
