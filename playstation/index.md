@@ -1,22 +1,22 @@
 ---
 layout: default
-title: Playstation
+title: PlayStation
 ---
 
 <nav class="breadcrumbs" aria-label="Breadcrumb">
-  <span class="current">Playstation</span>
+  <span class="current">PlayStation</span>
 </nav>
 
-# Playstation
+# PlayStation
 
 <div class="box-art-carousel">
   <button class="carousel-btn" onclick="changeBoxArt(-1)">‹</button>
   <figure class="image-block">
     <img id="box-art-image"
          src="{{ '/assets/images/misc/PS1.png' | relative_url }}"
-         alt="The Playstation"
+         alt="The PlayStation"
          class="box-art">
-    <figcaption id="box-art-caption">The Playstation</figcaption>
+    <figcaption id="box-art-caption">The PlayStation</figcaption>
   </figure>
   <button class="carousel-btn" onclick="changeBoxArt(1)">›</button>
 </div>
@@ -24,8 +24,8 @@ title: Playstation
   const boxArts = [
     {
       src: "{{ '/assets/images/misc/PS1.png' | relative_url }}",
-      caption: "The Playstation",
-      alt: "The Playstation"
+      caption: "The PlayStation",
+      alt: "The PlayStation"
     },
     {
       src: "{{ '/assets/images/misc/PSOne.png' | relative_url }}",
@@ -53,9 +53,9 @@ Released: 3/Dec/1994(JP) , 9/Sep/1995(NA) , 29/Sep/1995(EU)
 
 ---
 
-## My Thoughts On The Playstation
+## My Thoughts On The PlayStation
 
-The Playstation to me and many others are one of the greatest consoles and the one that started a long legacy for sony, whether you like more chill platformers like Crash Bandicoot or Spyro The Dragon, or more survival based Tomb Raider  or Resident Evil the original playstation had it all with a fair share of jankiness too. This console was a big part of my childhood playing Crash Bandicoot and Resident Evil more often than not so I feel obliged to say I love it.
+The PlayStation to me and many others are one of the greatest consoles and the one that started a long legacy for sony, whether you like more chill platformers like Crash Bandicoot or Spyro The Dragon, or more survival based Tomb Raider  or Resident Evil the original playStation had it all with a fair share of jankiness too. This console was a big part of my childhood playing Crash Bandicoot and Resident Evil more often than not so I feel obliged to say I love it.
 
 ---
 
