@@ -10,63 +10,27 @@ title: GameCube
 # GameCube
 
 
-<div class="box-art-carousel">
-  <button class="carousel-btn" onclick="changeBoxArt(-1)">‹</button>
-  <figure class="image-block">
-    <img id="box-art-image"
-         src="{{ '/assets/images/misc/GameCube.png' | relative_url }}"
-         alt="The GameCube"
-         class="box-art">
-    <figcaption id="box-art-caption">The GameCube</figcaption>
-  </figure>
-  <button class="carousel-btn" onclick="changeBoxArt(1)">›</button>
-</div>
-<script>
-  const boxArts = [
-    {
-      src: "{{ '/assets/images/misc/SNESPAL.png' | relative_url }}",
-      caption: "The Pal Super Nintendo Entertainment System",
-      alt: "The Pal Super Nintendo Entertainment System"
-    },
-    {
-      src: "{{ '/assets/images/misc/SNESNTSC.png' | relative_url }}",
-      caption: "The NTSC Super Nintendo Entertainment System",
-      alt: "The NTSC Super Nintendo Entertainment System"
-    },
-    {
-      src: "{{ '/assets/images/misc/SNESSatellaview.png' | relative_url }}",
-      caption: "The Super Famicom With Satellaview Attachment",
-      alt: "The Super Famicom With Satellaview Attachment"
-    }
-  ];
-  let currentBoxArt = 0;
-  function changeBoxArt(direction) {
-    currentBoxArt += direction;
-    if (currentBoxArt < 0) {
-      currentBoxArt = boxArts.length - 1;
-    }
-    if (currentBoxArt >= boxArts.length) {
-      currentBoxArt = 0;
-    }
-    document.getElementById("box-art-image").src = boxArts[currentBoxArt].src;
-    document.getElementById("box-art-image").alt = boxArts[currentBoxArt].alt;
-    document.getElementById("box-art-caption").textContent = boxArts[currentBoxArt].caption;
-  }
-</script>
+<figure class="image-block">
+  <img src="{{ '/assets/images/misc/GameCube.png' | relative_url }}"
+       alt="The GameCube"
+       class="console-art">
+
+  <figcaption>The GameCube</figcaption>
+</figure>
 
 
-Released: 15/July/1983(JP) , 18/Oct/1985(NA) , 1/Sep/1986(EU)
+Released: 14/Sep/2001(JP) , 18/Nov/2001(NA) , 3/May/2002(EU)
 
 
 ---
 
-## My Thoughts On The Super Nintendo Entertainment System
+## My Thoughts On The GameCube
 
-The Snes I feel like was a big development for all series involved especially big for Zelda and Mario, each getting new games for the system such as Mario World and Zelda: A Link To The Past both being major games for their respective series and are beloved by many including myself. The Satellaview attachment in Japan has a rather interesting set of games for it specifically such as BS Zelda no Densetsu, which is close to an enhanced remake of the original Zelda with a Map 2 version also, and another BS Zelda no Densetsu: Inishie no Sekiban , or translated to BS The Legend of Zelda: Ancient Stone Tablets is a game similar to A Link To The Past set six years after the events of that game apparently.
+The GameCube is such a split console in my mind, it's one of the only Nintendo consoles that my family owned without me buying it and it has some really great games that are like my favourite ever such as Zelda: Wind Waker, Luigi's Mansion, Pikmin, and controversially Star Fox Adventures. But then on the other hand we have Zelda: Twilight Princess which I Hate with the burning passion of a thousand suns. But the GameCube is still one of my favourite consoles and game lineups.
 
 ---
 
-This is where you will find all the SNES / Super Famicom games I have currently made guides for.
+This is where you will find all the GameCube games I have currently made guides for.
 
 ---
 
