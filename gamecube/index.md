@@ -4,20 +4,20 @@ title: GameCube
 ---
 
 <nav class="breadcrumbs" aria-label="Breadcrumb">
-  <span class="current">Snes / Super Famicom</span>
+  <span class="current">GameCube</span>
 </nav>
 
-# Snes / Super Famicom
+# GameCube
 
 
 <div class="box-art-carousel">
   <button class="carousel-btn" onclick="changeBoxArt(-1)">‹</button>
   <figure class="image-block">
     <img id="box-art-image"
-         src="{{ '/assets/images/misc/SNESPAL.png' | relative_url }}"
-         alt="The Pal Super Nintendo Entertainment System"
+         src="{{ '/assets/images/misc/GameCube.png' | relative_url }}"
+         alt="The GameCube"
          class="box-art">
-    <figcaption id="box-art-caption">The Pal Super Nintendo Entertainment System</figcaption>
+    <figcaption id="box-art-caption">The GameCube</figcaption>
   </figure>
   <button class="carousel-btn" onclick="changeBoxArt(1)">›</button>
 </div>
