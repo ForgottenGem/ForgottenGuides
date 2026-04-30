@@ -1,58 +1,22 @@
 ---
 layout: default
-title: Playstation 2
+title: PlayStation 2
 ---
 
 <nav class="breadcrumbs" aria-label="Breadcrumb">
-  <span class="current">Playstation 2</span>
+  <span class="current">PlayStation 2</span>
 </nav>
 
-# Playstation 2
+# PlayStation 2
 
 
-<div class="box-art-carousel">
-  <button class="carousel-btn" onclick="changeBoxArt(-1)">‹</button>
-  <figure class="image-block">
-    <img id="box-art-image"
-         src="{{ '/assets/images/misc/SNESPAL.png' | relative_url }}"
-         alt="The Pal Super Nintendo Entertainment System"
-         class="box-art">
-    <figcaption id="box-art-caption">The Pal Super Nintendo Entertainment System</figcaption>
-  </figure>
-  <button class="carousel-btn" onclick="changeBoxArt(1)">›</button>
-</div>
-<script>
-  const boxArts = [
-    {
-      src: "{{ '/assets/images/misc/SNESPAL.png' | relative_url }}",
-      caption: "The Pal Super Nintendo Entertainment System",
-      alt: "The Pal Super Nintendo Entertainment System"
-    },
-    {
-      src: "{{ '/assets/images/misc/SNESNTSC.png' | relative_url }}",
-      caption: "The NTSC Super Nintendo Entertainment System",
-      alt: "The NTSC Super Nintendo Entertainment System"
-    },
-    {
-      src: "{{ '/assets/images/misc/SNESSatellaview.png' | relative_url }}",
-      caption: "The Super Famicom With Satellaview Attachment",
-      alt: "The Super Famicom With Satellaview Attachment"
-    }
-  ];
-  let currentBoxArt = 0;
-  function changeBoxArt(direction) {
-    currentBoxArt += direction;
-    if (currentBoxArt < 0) {
-      currentBoxArt = boxArts.length - 1;
-    }
-    if (currentBoxArt >= boxArts.length) {
-      currentBoxArt = 0;
-    }
-    document.getElementById("box-art-image").src = boxArts[currentBoxArt].src;
-    document.getElementById("box-art-image").alt = boxArts[currentBoxArt].alt;
-    document.getElementById("box-art-caption").textContent = boxArts[currentBoxArt].caption;
-  }
-</script>
+<figure class="image-block">
+  <img src="{{ '/assets/images/misc/GameCube.png' | relative_url }}"
+       alt="The GameCube"
+       class="console-art">
+
+  <figcaption>The GameCube</figcaption>
+</figure>
 
 
 Released: 21/Nov/1990(JP) , 23/Aug/1991(NA) , 11/April/1992(EU)
