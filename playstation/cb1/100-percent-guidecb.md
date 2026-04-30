@@ -4,7 +4,7 @@ title: 100% Guide
 ---
 
 <nav class="breadcrumbs" aria-label="Breadcrumb">
-  <a href="{{ '/playstation/' | relative_url }}">Playstation</a>
+  <a href="{{ '/playstation/' | relative_url }}">PlayStation</a>
   <span>/</span>
   <a href="{{ '/playstation/cb1/' | relative_url }}">Crash Bandicoot</a>
   <span>/</span>
