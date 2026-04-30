@@ -55,7 +55,7 @@ title: Snes / Super Famicom
 </script>
 
 
-Released: 15/July/1983(JP) , 18/Oct/1985(NA) , 1/Sep/1986(EU)
+Released: 21/Nov/1990(JP) , 23/Aug/1991(NA) , 11/April/1992(EU)
 
 
 ---
