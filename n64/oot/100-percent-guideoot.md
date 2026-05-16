@@ -24,21 +24,349 @@ Progression then Collectibles.
 - All Heart Pieces
 - All Golden Skulltulas
 
-
-<details class="guide-section" open>
+<details class="console-guide-section">
   <summary>Progression</summary>
-
-  <p>Start with Kokiri Forest and complete the opening sequence.</p>
-
   <ul>
-    <li>Temp1</li>
-    <li>Temp2</li>
-    <li>Temp3</li>
+    <li>
+      <details class="console-guide-section">
+        <summary>Kokiri Forest & The Deku Tree</summary>
+        <ul>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/crash1/C1NSANBEACH.PNG' | relative_url }}"
+                    alt="lv1"
+                    class="guide-art">
+            </figure>
+            <p>
+      This level serves as the intro to the game and with that said it's rather simple compared to most just be careful learning the controls. After you climb the temple style structure a little ways into the level you'll jump over one collapsed pillar but the next pillar you jump over there is a box tucked behind it. On the split path go right and destroy the boxes activated by the switch crate first then go back the end of the left pack to break two boxes, from there you can finish the level.
+            </p>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>Hyrule Field & The Princess</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>Death Mountain & Dodongo's Cavern</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>Zora's Domain & Inside Jabu-Jabu's Belly</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>It's About Time</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>The Forest Temple</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>The Fire Temple</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>The Ice Cavern & Water Temple</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>The Bottom Of The Well & Shadow Temple</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>The Spirit Temple</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>The Grand Finale</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
   </ul>
 </details>
 
 
-# Progression
+<details class="console-guide-section">
+  <summary>Upgrades</summary>
+  <ul>
+    <li>
+      <details class="console-guide-section">
+        <summary>Optional Ocarina Songs</summary>
+        <ul>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/crash1/C1NSANBEACH.PNG' | relative_url }}"
+                    alt="lv1"
+                    class="guide-art">
+            </figure>
+            <p>
+      This level serves as the intro to the game and with that said it's rather simple compared to most just be careful learning the controls. After you climb the temple style structure a little ways into the level you'll jump over one collapsed pillar but the next pillar you jump over there is a box tucked behind it. On the split path go right and destroy the boxes activated by the switch crate first then go back the end of the left pack to break two boxes, from there you can finish the level.
+            </p>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>Bottles</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>Scarecrow's Song</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>Epona</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>Magic Spells</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>Magic Arrows</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>Bomb Bags</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>Slingshot</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>Deku Nuts</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>Deku Sticks</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>Scales</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>Double Defense</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>Magic Meter</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>Bow / Quiver</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>Strength Upgrades</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>Wallets</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+  </ul>
+</details>
+
 
 <details class="console-guide-section">
   <summary>Progression</summary>
