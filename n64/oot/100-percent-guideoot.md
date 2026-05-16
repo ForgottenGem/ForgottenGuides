@@ -556,7 +556,6 @@ Progression then Collectibles.
               <summary>Kokiri Forest / Lost Woods</summary>
               <ul>
                 <li>
-                  Claim Check
                   <figure class="image-block">
                      <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
                           alt="lv33"
@@ -581,7 +580,6 @@ Progression then Collectibles.
               <summary>Kokiri Forest / Lost Woods</summary>
               <ul>
                 <li>
-                  Claim Check
                   <figure class="image-block">
                      <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
                           alt="lv33"
@@ -613,7 +611,6 @@ Progression then Collectibles.
               <summary>Kokiri Forest / Lost Woods</summary>
               <ul>
                 <li>
-                  Claim Check
                   <figure class="image-block">
                      <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
                           alt="lv33"
@@ -638,7 +635,6 @@ Progression then Collectibles.
               <summary>Kokiri Forest / Lost Woods</summary>
               <ul>
                 <li>
-                  Claim Check
                   <figure class="image-block">
                      <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
                           alt="lv33"
