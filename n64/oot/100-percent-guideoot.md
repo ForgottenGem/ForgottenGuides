@@ -32,12 +32,20 @@ Progression then Collectibles.
         <summary>Kokiri Forest & The Deku Tree</summary>
         <ul>
             <figure class="image-block">
-               <img src="{{ '/assets/images/crash1/C1NSANBEACH.PNG' | relative_url }}"
-                    alt="lv1"
+               <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
+                    alt="T1"
                     class="guide-art">
             </figure>
             <p>
-      This level serves as the intro to the game and with that said it's rather simple compared to most just be careful learning the controls. After you climb the temple style structure a little ways into the level you'll jump over one collapsed pillar but the next pillar you jump over there is a box tucked behind it. On the split path go right and destroy the boxes activated by the switch crate first then go back the end of the left pack to break two boxes, from there you can finish the level.
+            Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
+            </p>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/T2.jpg' | relative_url }}"
+                    alt="T2"
+                    class="guide-art">
+            </figure>
+            <p>
+            When inside the Deku Tree make your way up one layer and you'll see a big chest which stores the map and then continue across till you find a door with a deku scrub inside after deflecting its shot with your new shield enter he next room to get the fairy slingshot.
             </p>
         </ul>
       </details>
