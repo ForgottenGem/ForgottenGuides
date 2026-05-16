@@ -180,45 +180,45 @@ Progression then Collectibles.
     <li>
       <h3 class="guide-subtitle">Keaton Mask</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-              alt="lv33"
+         <img src="{{ '/assets/images/ootn64/CT1.jpg' | relative_url }}"
+              alt="ct13"
               class="guide-art">
       </figure>
       <p>
-      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      Pick up the first mask from the Happy Mask Shop in Hyrule Market. Then give to the guard which blocked the way to death mountain early in the game.
       </p>
     </li>
     <li>
       <h3 class="guide-subtitle">Skull Mask</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-              alt="lv33"
+         <img src="{{ '/assets/images/ootn64/CT2.jpg' | relative_url }}"
+              alt="ct2"
               class="guide-art">
       </figure>
       <p>
-      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      Enter Lost Woods for Kokiri Forest and go through the log doorway immediately on your left and talk to the Skull Kid in this room while wearing this mask.
       </p>
     </li>
     <li>
       <h3 class="guide-subtitle">Spooky Mask</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-              alt="lv33"
+         <img src="{{ '/assets/images/ootn64/CT3.jpg' | relative_url }}"
+              alt="ct3"
               class="guide-art">
       </figure>
       <p>
-      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      This time instead of going to the graveyard in Kakariko at night you have to go during the day and you'll see a kid inside pretending to be on patrol with a stick who you have to give this mask to.
       </p>
     </li>
     <li>
       <h3 class="guide-subtitle">Spooky Mask</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-              alt="lv33"
+         <img src="{{ '/assets/images/ootn64/CT4.jpg' | relative_url }}"
+              alt="ct4"
               class="guide-art">
       </figure>
       <p>
-      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      The final mask you have to hand over is to the Running Man who is usually found running around lon lon ranch in Hyrule Field. After that you can now just take any mask you want from the Happy Mask Shop at will and the child Link trade sequence is done.
       </p>
     </li>
   </ul>
@@ -433,111 +433,111 @@ Progression then Collectibles.
     <li>
       <h3 class="guide-subtitle">Pocket Egg</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-              alt="lv33"
+         <img src="{{ '/assets/images/ootn64/AT1.jpg' | relative_url }}"
+              alt="at1"
               class="guide-art">
       </figure>
       <p>
-      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      As adult Link talk to Anju to get the pocket egg and after a day it will hatch then you must use it to wake Talon in a house in Kakariko.
       </p>
     </li>
     <li>
       <h3 class="guide-subtitle">Cojiro</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-              alt="lv33"
+         <img src="{{ '/assets/images/ootn64/AT2.jpg' | relative_url }}"
+              alt="at2"
               class="guide-art">
       </figure>
       <p>
-      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      Return to Anju and she will give you a blue cuccoo Cojiro.
       </p>
     </li>
     <li>
       <h3 class="guide-subtitle">Odd Mushroom</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-              alt="lv33"
+         <img src="{{ '/assets/images/ootn64/AT3.jpg' | relative_url }}"
+              alt="at3"
               class="guide-art">
       </figure>
       <p>
-      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      Take Cojiro to the man sleeping in Lost Woods to start the next piece of the sequence, he will give you the odd mushroom to take to granny in Kakariko within 3 minutes.
       </p>
     </li>
     <li>
       <h3 class="guide-subtitle">Odd Poultice</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-              alt="lv33"
+         <img src="{{ '/assets/images/ootn64/AT4.jpg' | relative_url }}"
+              alt="at4"
               class="guide-art">
       </figure>
       <p>
-      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      After getting the Odd Poultice from granny go back to where the sleeping man way in the Lost Woods and give it to the Kokiri child that is where he was to get the poacher's saw.
       </p>
     </li>
     <li>
       <h3 class="guide-subtitle">Poacher's Saw</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-              alt="lv33"
+         <img src="{{ '/assets/images/ootn64/AT5.jpg' | relative_url }}"
+              alt="at5"
               class="guide-art">
       </figure>
       <p>
-      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      Take the saw to the carpenter's boss across the bridge in Gerudo Valley to get the broken goron's sword.
       </p>
     </li>
     <li>
       <h3 class="guide-subtitle">Broken Goron's Sword</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-              alt="lv33"
+         <img src="{{ '/assets/images/ootn64/AT6.jpg' | relative_url }}"
+              alt="at6"
               class="guide-art">
       </figure>
       <p>
-      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      Take this to the top of death mountain and give it to the giant goron to get the prescription.
       </p>
     </li>
     <li>
       <h3 class="guide-subtitle">Prescription</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-              alt="lv33"
+         <img src="{{ '/assets/images/ootn64/AT7.jpg' | relative_url }}"
+              alt="at7"
               class="guide-art">
       </figure>
       <p>
-      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      Give the prescription to King Zora who will give you an Eyeball Frog.
       </p>
     </li>
     <li>
       <h3 class="guide-subtitle">Eyeball Frog</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-              alt="lv33"
+         <img src="{{ '/assets/images/ootn64/AT8.jpg' | relative_url }}"
+              alt="at8"
               class="guide-art">
       </figure>
       <p>
-      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      Then you have to take it to the scientist in Lake Hylia within 3 minutes, I reccomend using Epona to make it in time.
       </p>
     </li>
     <li>
       <h3 class="guide-subtitle">Eye Drops</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-              alt="lv33"
+         <img src="{{ '/assets/images/ootn64/AT9.jpg' | relative_url }}"
+              alt="at9"
               class="guide-art">
       </figure>
       <p>
-      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      Bring the eye drops to the giant goron at the top of death mountain to get the claim check.
       </p>
     </li>
     <li>
       <h3 class="guide-subtitle">Claim Check</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-              alt="lv33"
+         <img src="{{ '/assets/images/ootn64/AT10.jpg' | relative_url }}"
+              alt="at10"
               class="guide-art">
       </figure>
       <p>
-      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      After three days return to the goron to get the Biggoron Sword and finish the trade sequence.
       </p>
     </li>
   </ul>
