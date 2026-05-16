@@ -436,8 +436,8 @@ Progression then Collectibles.
     <li>
       <h3 class="guide-subtitle">Pocket Egg</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/ootn64/AT1.jpg' | relative_url }}"
-              alt="at1"
+         <img src="{{ '/assets/images/ootn64/ATT1.jpg' | relative_url }}"
+              alt="att1"
               class="guide-art">
       </figure>
       <p>
@@ -447,8 +447,8 @@ Progression then Collectibles.
     <li>
       <h3 class="guide-subtitle">Cojiro</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/ootn64/AT2.jpg' | relative_url }}"
-              alt="at2"
+         <img src="{{ '/assets/images/ootn64/ATT2.jpg' | relative_url }}"
+              alt="att2"
               class="guide-art">
       </figure>
       <p>
@@ -458,8 +458,8 @@ Progression then Collectibles.
     <li>
       <h3 class="guide-subtitle">Odd Mushroom</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/ootn64/AT3.jpg' | relative_url }}"
-              alt="at3"
+         <img src="{{ '/assets/images/ootn64/ATT3.jpg' | relative_url }}"
+              alt="att3"
               class="guide-art">
       </figure>
       <p>
