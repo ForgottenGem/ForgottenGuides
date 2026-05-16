@@ -47,11 +47,14 @@ Progression then Collectibles.
       <details class="console-guide-section">
         <summary>Kokiri Forest & The Deku Tree</summary>
         <ul>
-          <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Nintendo 64
-            </a>
-          </li>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/crash1/C1NSANBEACH.PNG' | relative_url }}"
+                    alt="lv1"
+                    class="guide-art">
+            </figure>
+            <p>
+      This level serves as the intro to the game and with that said it's rather simple compared to most just be careful learning the controls. After you climb the temple style structure a little ways into the level you'll jump over one collapsed pillar but the next pillar you jump over there is a box tucked behind it. On the split path go right and destroy the boxes activated by the switch crate first then go back the end of the left pack to break two boxes, from there you can finish the level.
+            </p>
         </ul>
       </details>
     </li>
@@ -69,3 +72,17 @@ Progression then Collectibles.
     </li>
   </ul>
 </details>
+
+
+<ul>
+    <li>N. Sanity Beach
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1NSANBEACH.PNG' | relative_url }}"
+              alt="lv1"
+              class="guide-art">
+         <figcaption>The Start Of N. Sanity Beach</figcaption>
+      </figure>
+      <p>
+      This level serves as the intro to the game and with that said it's rather simple compared to most just be careful learning the controls. After you climb the temple style structure a little ways into the level you'll jump over one collapsed pillar but the next pillar you jump over there is a box tucked behind it. On the split path go right and destroy the boxes activated by the switch crate first then go back the end of the left pack to break two boxes, from there you can finish the level.
+      </p>
+    </li>
