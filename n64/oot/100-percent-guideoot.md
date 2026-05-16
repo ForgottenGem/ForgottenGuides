@@ -179,6 +179,36 @@ Progression then Collectibles.
       Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
       </p>
     </li>
+    <li>Skull Mask
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+              alt="lv33"
+              class="guide-art">
+      </figure>
+      <p>
+      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      </p>
+    </li>
+    <li>Spooky Mask
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+              alt="lv33"
+              class="guide-art">
+      </figure>
+      <p>
+      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      </p>
+    </li>
+    <li>Bunny Mask
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+              alt="lv33"
+              class="guide-art">
+      </figure>
+      <p>
+      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      </p>
+    </li>
   </ul>
 </details>
 
@@ -380,6 +410,113 @@ Progression then Collectibles.
           </li>
         </ul>
       </details>
+    </li>
+  </ul>
+</details>
+
+
+<details class="console-guide-section">
+  <summary>Adult Trade Sequence</summary>
+  <ul>
+    <li>Pocket Egg
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+              alt="lv33"
+              class="guide-art">
+      </figure>
+      <p>
+      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      </p>
+    </li>
+    <li>Cojiro
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+              alt="lv33"
+              class="guide-art">
+      </figure>
+      <p>
+      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      </p>
+    </li>
+    <li>Odd Mushroom
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+              alt="lv33"
+              class="guide-art">
+      </figure>
+      <p>
+      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      </p>
+    </li>
+    <li>Odd Poultice
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+              alt="lv33"
+              class="guide-art">
+      </figure>
+      <p>
+      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      </p>
+    </li>
+    <li>Poacher's Saw
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+              alt="lv33"
+              class="guide-art">
+      </figure>
+      <p>
+      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      </p>
+    </li>
+    <li>Broken Goron's Sword
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+              alt="lv33"
+              class="guide-art">
+      </figure>
+      <p>
+      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      </p>
+    </li>
+    <li>Prescription
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+              alt="lv33"
+              class="guide-art">
+      </figure>
+      <p>
+      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      </p>
+    </li>
+    <li>Eyeball Frog
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+              alt="lv33"
+              class="guide-art">
+      </figure>
+      <p>
+      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      </p>
+    </li>
+    <li>Eye Drops
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+              alt="lv33"
+              class="guide-art">
+      </figure>
+      <p>
+      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      </p>
+    </li>
+    <li>Claim Check
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+              alt="lv33"
+              class="guide-art">
+      </figure>
+      <p>
+      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      </p>
     </li>
   </ul>
 </details>
