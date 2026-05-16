@@ -167,6 +167,23 @@ Progression then Collectibles.
 
 
 <details class="console-guide-section">
+  <summary>Child Trade Sequence</summary>
+  <ul>
+    <li>Keaton Mask
+      <figure class="image-block">
+         <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+              alt="lv33"
+              class="guide-art">
+      </figure>
+      <p>
+      Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+      </p>
+    </li>
+  </ul>
+</details>
+
+
+<details class="console-guide-section">
   <summary>Upgrades</summary>
   <ul>
     <li>
