@@ -291,9 +291,26 @@ Progression then Collectibles.
         <summary>Scarecrow's Song</summary>
         <ul>
           <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
+            <h3 class="guide-subtitle">Epona's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
+                    alt="eponasong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Sun's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
+                    alt="sunsong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            </p>
           </li>
         </ul>
       </details>
@@ -303,9 +320,26 @@ Progression then Collectibles.
         <summary>Epona</summary>
         <ul>
           <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
+            <h3 class="guide-subtitle">Epona's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
+                    alt="eponasong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Sun's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
+                    alt="sunsong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            </p>
           </li>
         </ul>
       </details>
@@ -315,9 +349,26 @@ Progression then Collectibles.
         <summary>Magic Spells</summary>
         <ul>
           <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
+            <h3 class="guide-subtitle">Epona's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
+                    alt="eponasong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Sun's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
+                    alt="sunsong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            </p>
           </li>
         </ul>
       </details>
@@ -327,9 +378,26 @@ Progression then Collectibles.
         <summary>Magic Arrows</summary>
         <ul>
           <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
+            <h3 class="guide-subtitle">Epona's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
+                    alt="eponasong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Sun's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
+                    alt="sunsong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            </p>
           </li>
         </ul>
       </details>
@@ -339,9 +407,26 @@ Progression then Collectibles.
         <summary>Bomb Bags</summary>
         <ul>
           <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
+            <h3 class="guide-subtitle">Epona's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
+                    alt="eponasong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Sun's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
+                    alt="sunsong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            </p>
           </li>
         </ul>
       </details>
@@ -351,9 +436,26 @@ Progression then Collectibles.
         <summary>Slingshot</summary>
         <ul>
           <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
+            <h3 class="guide-subtitle">Epona's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
+                    alt="eponasong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Sun's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
+                    alt="sunsong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            </p>
           </li>
         </ul>
       </details>
@@ -363,9 +465,26 @@ Progression then Collectibles.
         <summary>Deku Nuts</summary>
         <ul>
           <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
+            <h3 class="guide-subtitle">Epona's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
+                    alt="eponasong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Sun's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
+                    alt="sunsong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            </p>
           </li>
         </ul>
       </details>
@@ -375,9 +494,26 @@ Progression then Collectibles.
         <summary>Deku Sticks</summary>
         <ul>
           <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
+            <h3 class="guide-subtitle">Epona's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
+                    alt="eponasong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Sun's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
+                    alt="sunsong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            </p>
           </li>
         </ul>
       </details>
@@ -387,9 +523,26 @@ Progression then Collectibles.
         <summary>Scales</summary>
         <ul>
           <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
+            <h3 class="guide-subtitle">Epona's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
+                    alt="eponasong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Sun's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
+                    alt="sunsong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            </p>
           </li>
         </ul>
       </details>
@@ -399,9 +552,26 @@ Progression then Collectibles.
         <summary>Double Defense</summary>
         <ul>
           <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
+            <h3 class="guide-subtitle">Epona's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
+                    alt="eponasong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Sun's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
+                    alt="sunsong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            </p>
           </li>
         </ul>
       </details>
@@ -411,9 +581,26 @@ Progression then Collectibles.
         <summary>Magic Meter</summary>
         <ul>
           <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
+            <h3 class="guide-subtitle">Epona's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
+                    alt="eponasong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Sun's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
+                    alt="sunsong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            </p>
           </li>
         </ul>
       </details>
@@ -423,9 +610,26 @@ Progression then Collectibles.
         <summary>Bow / Quiver</summary>
         <ul>
           <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
+            <h3 class="guide-subtitle">Epona's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
+                    alt="eponasong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Sun's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
+                    alt="sunsong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            </p>
           </li>
         </ul>
       </details>
@@ -435,9 +639,26 @@ Progression then Collectibles.
         <summary>Strength Upgrades</summary>
         <ul>
           <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
+            <h3 class="guide-subtitle">Epona's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
+                    alt="eponasong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Sun's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
+                    alt="sunsong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            </p>
           </li>
         </ul>
       </details>
@@ -447,9 +668,26 @@ Progression then Collectibles.
         <summary>Wallets</summary>
         <ul>
           <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
+            <h3 class="guide-subtitle">Epona's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
+                    alt="eponasong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Sun's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
+                    alt="sunsong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            </p>
           </li>
         </ul>
       </details>
