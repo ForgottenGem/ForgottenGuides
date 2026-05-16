@@ -169,7 +169,8 @@ Progression then Collectibles.
 <details class="console-guide-section">
   <summary>Child Trade Sequence</summary>
   <ul>
-    <li># Keaton Mask
+    <li>
+      <h3 class="guide-subtitle">Keaton Mask</h3>
       <figure class="image-block">
          <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
               alt="lv33"
