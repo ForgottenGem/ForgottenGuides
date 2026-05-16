@@ -169,7 +169,7 @@ Progression then Collectibles.
 <details class="console-guide-section">
   <summary>Child Trade Sequence</summary>
   <ul>
-    <li>Keaton Mask
+    <li># Keaton Mask
       <figure class="image-block">
          <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
               alt="lv33"
@@ -555,9 +555,79 @@ Progression then Collectibles.
         <summary>Adult Link</summary>
         <ul>
           <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
+            <details class="console-guide-section">
+              <summary>Kokiri Forest / Lost Woods</summary>
+              <ul>
+                <li>
+                  Claim Check
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+        </ul>
+      </details>
+    </li>
+  </ul>
+</details>
+
+
+<details class="console-guide-section">
+  <summary>Golden Skulltulas</summary>
+  <ul>
+    <li>
+      <details class="console-guide-section">
+        <summary>Child Link</summary>
+        <ul>
+          <li>
+            <details class="console-guide-section">
+              <summary>Kokiri Forest / Lost Woods</summary>
+              <ul>
+                <li>
+                  Claim Check
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>Adult Link</summary>
+        <ul>
+          <li>
+            <details class="console-guide-section">
+              <summary>Kokiri Forest / Lost Woods</summary>
+              <ul>
+                <li>
+                  Claim Check
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
           </li>
         </ul>
       </details>
