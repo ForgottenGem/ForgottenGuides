@@ -262,25 +262,47 @@ Progression then Collectibles.
         <summary>Bottles</summary>
         <ul>
           <li>
-            <h3 class="guide-subtitle">Epona's Song</h3>
+            <h3 class="guide-subtitle">Cuccoo Gathering</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
-                    alt="eponasong"
+               <img src="{{ '/assets/images/ootn64/Bot1.jpg' | relative_url }}"
+                    alt="bot1"
                     class="guide-art">
             </figure>
             <p>
-            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            As child Link in Kakariko talk to Anju a panicked looking lady who needs you to find her cuccoos that have gotten loose around the city and in return she'll give you a bottle.
             </p>
           </li>
           <li>
-            <h3 class="guide-subtitle">Sun's Song</h3>
+            <h3 class="guide-subtitle">A Cuccoo In A Hay Stack</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
-                    alt="sunsong"
+               <img src="{{ '/assets/images/ootn64/Bot2.jpg' | relative_url }}"
+                    alt="bot2"
                     class="guide-art">
             </figure>
             <p>
-            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            After you wake up Malon's dad Talon at hyrule castle he will move back to his house in Lon Lon Ranch where you can play a minigame where he throws three new cuccoos into the pile of them that are in the room and when you find all three before the time is up he will give you a bottle as a reward.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">The Unmissable Bottle</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/Bot3.jpg' | relative_url }}"
+                    alt="bot3"
+                    class="guide-art">
+            </figure>
+            <p>
+            The third bottle in the game you get during the Zora's Domain section of the game and is unmissable.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Poe Bottling Bananza</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/Bot4.jpg' | relative_url }}"
+                    alt="bot4"
+                    class="guide-art">
+            </figure>
+            <p>
+            The Final bottole is for turning in all ten ghosts to the ghost shop as adult link. Ride around the field on epona in certain spots to get each poe to spawn. Then shoot them with your bow and capture them in a bottle to give to the poe salesman guy.
             </p>
           </li>
         </ul>
@@ -291,25 +313,14 @@ Progression then Collectibles.
         <summary>Scarecrow's Song</summary>
         <ul>
           <li>
-            <h3 class="guide-subtitle">Epona's Song</h3>
+            <h3 class="guide-subtitle">Scarecrow's Song</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
-                    alt="eponasong"
+               <img src="{{ '/assets/images/ootn64/ScareCrows.jpg' | relative_url }}"
+                    alt="scarecrows"
                     class="guide-art">
             </figure>
             <p>
-            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
-            </p>
-          </li>
-          <li>
-            <h3 class="guide-subtitle">Sun's Song</h3>
-            <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
-                    alt="sunsong"
-                    class="guide-art">
-            </figure>
-            <p>
-            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            As child Link speak to bonooru the scarecrow in Lake Hylia and play a song of 8 notes make sure you can remember it, as adult Link return to bonooru and play the same song and if all works now there are specific spots around the work you can play it and summon a scarecrow you can hookshot onto, navi will fly to a spot and glow green usually when the option is available.
             </p>
           </li>
         </ul>
@@ -322,23 +333,12 @@ Progression then Collectibles.
           <li>
             <h3 class="guide-subtitle">Epona's Song</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
-                    alt="eponasong"
+               <img src="{{ '/assets/images/ootn64/Epona.jpg' | relative_url }}"
+                    alt="epona"
                     class="guide-art">
             </figure>
             <p>
-            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
-            </p>
-          </li>
-          <li>
-            <h3 class="guide-subtitle">Sun's Song</h3>
-            <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
-                    alt="sunsong"
-                    class="guide-art">
-            </figure>
-            <p>
-            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            Firstly to unlock Epona you need to have learned Epons's Song as child Link. Return to  Lon Lon Ranch as adult link and talk to Ingo to ride a horse, don't use the horse he gives you. Instead play Epons's song and get on her while jumping over the hurdles. Talk to Ingo to play again and this time on Epona talk with him and he will offer to race you around the corral. Take the inside line to win decently well just make sure to conserve carrots to boost when needed, He will ask for a rematch and you have to beat him again and this time he will admit that you won Epona but he doesn't want to lose the horse so he locks you inside. From here just jump over the back wall of the ranch while on Epona and now she's all yours whenever you play her song she will be summoned to you.
             </p>
           </li>
         </ul>
