@@ -37,26 +37,35 @@ Progression then Collectibles.
   </ul>
 </details>
 
-<details class="guide-section">
-  <summary>Skulltulas</summary>
 
-  <p>This section covers all Gold Skulltula locations.</p>
+# Progression
 
+<details class="console-guide-section">
+  <summary>Progression</summary>
   <ul>
-    <li>Temp1</li>
-    <li>Temp2</li>
-    <li>Temp3</li>
-  </ul>
-</details>
-
-<details class="guide-section">
-  <summary>Heart Pieces</summary>
-
-  <p>This section covers all Heart Piece locations.</p>
-
-  <ul>
-     <li>Temp1</li>
-    <li>Temp2</li>
-    <li>Temp3</li>
+    <li>
+      <details class="console-guide-section">
+        <summary>Kokiri Forest & The Deku Tree</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Nintendo 64
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>Hyrule Field & The Princess</summary>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/n64/' | relative_url }}">
+              Temp
+            </a>
+          </li>
+        </ul>
+      </details>
+    </li>
   </ul>
 </details>
