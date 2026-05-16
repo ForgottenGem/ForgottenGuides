@@ -523,26 +523,36 @@ Progression then Collectibles.
 
 
 <details class="console-guide-section">
-  <summary>Progression</summary>
+  <summary>Heart Pieces</summary>
   <ul>
     <li>
       <details class="console-guide-section">
-        <summary>Kokiri Forest & The Deku Tree</summary>
+        <summary>Child Link</summary>
         <ul>
-            <figure class="image-block">
-               <img src="{{ '/assets/images/crash1/C1NSANBEACH.PNG' | relative_url }}"
-                    alt="lv1"
-                    class="guide-art">
-            </figure>
-            <p>
-      This level serves as the intro to the game and with that said it's rather simple compared to most just be careful learning the controls. After you climb the temple style structure a little ways into the level you'll jump over one collapsed pillar but the next pillar you jump over there is a box tucked behind it. On the split path go right and destroy the boxes activated by the switch crate first then go back the end of the left pack to break two boxes, from there you can finish the level.
-            </p>
+          <li>
+            <details class="console-guide-section">
+              <summary>Kokiri Forest / Lost Woods</summary>
+              <ul>
+                <li>
+                  Claim Check
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
         </ul>
       </details>
     </li>
     <li>
       <details class="console-guide-section">
-        <summary>Hyrule Field & The Princess</summary>
+        <summary>Adult Link</summary>
         <ul>
           <li>
             <a class="button-link" href="{{ '/n64/' | relative_url }}">
