@@ -233,14 +233,25 @@ Progression then Collectibles.
         <summary>Optional Ocarina Songs</summary>
         <ul>
           <li>
-            <h3 class="guide-subtitle">Spooky Mask</h3>
+            <h3 class="guide-subtitle">Epona's Song</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/CT3.jpg' | relative_url }}"
-                    alt="ct3"
+               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
+                    alt="eponasong"
                     class="guide-art">
             </figure>
             <p>
-            This time instead of going to the graveyard in Kakariko at night you have to go during the day and you'll see a kid inside pretending to be on patrol with a stick who you have to give this mask to.
+            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Sun's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
+                    alt="sunsong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
             </p>
           </li>
         </ul>
@@ -251,9 +262,26 @@ Progression then Collectibles.
         <summary>Bottles</summary>
         <ul>
           <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
+            <h3 class="guide-subtitle">Epona's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
+                    alt="eponasong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Sun's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
+                    alt="sunsong"
+                    class="guide-art">
+            </figure>
+            <p>
+            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            </p>
           </li>
         </ul>
       </details>
