@@ -889,12 +889,28 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/crash1/HP1.PNG' | relative_url }}"
+                          alt="hp1"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Ocarina
+                  </p>
+                  <p>
+                  In the Lost Woods go to the target room with the slingshot and jump down, stand on the log platform and play the mimic minigame with the skull kids to get the heart piece.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/HP2.PNG' | relative_url }}"
+                          alt="hp2"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Ocarina and Saria's Song
+                  </p>
+                  <p>
+                  Enter the Lost Woods and go left one screen and play Saria's song for the opposing skull kid.
                   </p>
                 </li>
               </ul>
@@ -906,12 +922,15 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/crash1/HP3.PNG' | relative_url }}"
+                          alt="hp3"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Bombs
+                  </p>
+                  <p>
+                  In the fenced off section outside Lake Hylia bomb in the center of the four fences to buy a piece of heart from the deku scrubs within.
                   </p>
                 </li>
               </ul>
@@ -923,12 +942,15 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/crash1/HP4.PNG' | relative_url }}"
+                          alt="hp4"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the big tower at the back of the ranch drag the boxes around until you can get into a crawlspace where the heart piece is.
                   </p>
                 </li>
               </ul>
@@ -1165,12 +1187,15 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/crash1/HP1.PNG' | relative_url }}"
+                          alt="hp1"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Ocarina
+                  </p>
+                  <p>
+                  In the Lost Woods go to the target room with the slingshot and jump down, stand on the log platform and play the mimic minigame with the skull kids to get the heart piece.
                   </p>
                 </li>
               </ul>
