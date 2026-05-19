@@ -347,25 +347,36 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <summary>Magic Spells</summary>
         <ul>
           <li>
-            <h3 class="guide-subtitle">Epona's Song</h3>
+            <h3 class="guide-subtitle">Din's Fire</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
-                    alt="eponasong"
+               <img src="{{ '/assets/images/ootn64/DinFire.jpg' | relative_url }}"
+                    alt="dinfire"
                     class="guide-art">
             </figure>
             <p>
-            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            Din's Fire is the first and only mandatory spell to get in the game as the other two are nice but not needed in any way you get it from the great fairy at Hyrule Castle which is covered already in the guide.
             </p>
           </li>
           <li>
-            <h3 class="guide-subtitle">Sun's Song</h3>
+            <h3 class="guide-subtitle">Farore's Wind</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
-                    alt="sunsong"
+               <img src="{{ '/assets/images/ootn64/FaroreWind.jpg' | relative_url }}"
+                    alt="farorewind"
                     class="guide-art">
             </figure>
             <p>
-            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            Farore's Wind you get from the great fairy in Zora's Fountain far back near the silver boulder.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Nayru's Love</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/NayrusLove.jpg' | relative_url }}"
+                    alt="nayrulove"
+                    class="guide-art">
+            </figure>
+            <p>
+            Nayru's Love you get from the great fairy at the Desert Collosus through a bombable wall near the desert entrance.
             </p>
           </li>
         </ul>
@@ -376,25 +387,36 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <summary>Magic Arrows</summary>
         <ul>
           <li>
-            <h3 class="guide-subtitle">Epona's Song</h3>
+            <h3 class="guide-subtitle">Fire Arrows</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
-                    alt="eponasong"
+               <img src="{{ '/assets/images/ootn64/FireArrows.jpg' | relative_url }}"
+                    alt="firearrows"
                     class="guide-art">
             </figure>
             <p>
-            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            The fire arrows you can only get after clearing the water temple as adult Link because the water needs to be raised and when the sun in rising you need to stand on the pedestal near the Lake Hylia warp and shoot an arrow into the sun as it's rising.
             </p>
           </li>
           <li>
-            <h3 class="guide-subtitle">Sun's Song</h3>
+            <h3 class="guide-subtitle">Ice Arrows</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
-                    alt="sunsong"
+               <img src="{{ '/assets/images/ootn64/IceArrows.jpg' | relative_url }}"
+                    alt="icearrows"
                     class="guide-art">
             </figure>
             <p>
-            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            Ice Arrows you get for clearing the Gerudo Training Grounds by exploring each of the paths to get more keys to get through the center maze, to complete it you need to get the silver gauntlets from the Spirit Temple.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Light Arrows</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/LightArrows.jpg' | relative_url }}"
+                    alt="lightarrows"
+                    class="guide-art">
+            </figure>
+            <p>
+            The Light Arrows you get through a story beat near the end of the game when they are granted to you by zelda before she is captured, and are unmissable.
             </p>
           </li>
         </ul>
@@ -405,25 +427,36 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <summary>Bomb Bags</summary>
         <ul>
           <li>
-            <h3 class="guide-subtitle">Epona's Song</h3>
+            <h3 class="guide-subtitle">Initial Bomb Bag</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
-                    alt="eponasong"
+               <img src="{{ '/assets/images/ootn64/BBag1.jpg' | relative_url }}"
+                    alt="bb1"
                     class="guide-art">
             </figure>
             <p>
-            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            The first bomb bag you aquire is already covered in the Dodongo's Cavern section of the guide as it is a mandatory collectible in the game.
             </p>
           </li>
           <li>
-            <h3 class="guide-subtitle">Sun's Song</h3>
+            <h3 class="guide-subtitle">Bomb Bag Upgrade 1</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
-                    alt="sunsong"
+               <img src="{{ '/assets/images/ootn64/BBag2.jpg' | relative_url }}"
+                    alt="bb2"
                     class="guide-art">
             </figure>
             <p>
-            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            The first upgrade is gotten through the bombchu bowling minigame in the Hyrule Castle Market, every time you play one out of four prizes is chosen at random that you will get if you hit all three goals.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Bomb Bag Upgrade 2</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/BBag3.jpg' | relative_url }}"
+                    alt="bb3"
+                    class="guide-art">
+            </figure>
+            <p>
+            The last bomb bag you get in goron city, as child Link down in the middle layer of the city you will see a big goron rolling around and every so often he goes behind an alcove in the back of the city. Whenever he does you have to bomb him to get the bomb bag upgrade.
             </p>
           </li>
         </ul>
@@ -434,25 +467,36 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <summary>Slingshot</summary>
         <ul>
           <li>
-            <h3 class="guide-subtitle">Epona's Song</h3>
+            <h3 class="guide-subtitle">Initial Slingshot</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
-                    alt="eponasong"
+               <img src="{{ '/assets/images/ootn64/Sling1.jpg' | relative_url }}"
+                    alt="sls1"
                     class="guide-art">
             </figure>
             <p>
-            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            The initial slingshot is acquired in the Deku Tree as one of the first mandatory items in the game so that is covered in part one of the guide.
             </p>
           </li>
           <li>
-            <h3 class="guide-subtitle">Sun's Song</h3>
+            <h3 class="guide-subtitle">Slingshot Upgrade 1</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
-                    alt="sunsong"
+               <img src="{{ '/assets/images/ootn64/Sling2.jpg' | relative_url }}"
+                    alt="sls2"
                     class="guide-art">
             </figure>
             <p>
-            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            The first upgrade is found in the Lost Woods, upon entering go right until you see a railing with a target across the way and hit the center getting 100 points until you get the uprgrade.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Slingshot Upgrade 2</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/Sling3.jpg' | relative_url }}"
+                    alt="sls3"
+                    class="guide-art">
+            </figure>
+            <p>
+            The last upgrade you can get in Hyrule Castle Market from the shooting gallery minigame.
             </p>
           </li>
         </ul>
@@ -463,25 +507,34 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <summary>Deku Nuts</summary>
         <ul>
           <li>
-            <h3 class="guide-subtitle">Epona's Song</h3>
-            <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
-                    alt="eponasong"
-                    class="guide-art">
-            </figure>
+            <h3 class="guide-subtitle">Initial Deku Nuts</h3>
             <p>
-            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            You start the game with the initial capacity of twenty Deku Nuts and just need to kill some Deku Baba's to get the ammo.
             </p>
           </li>
           <li>
-            <h3 class="guide-subtitle">Sun's Song</h3>
+            <h3 class="guide-subtitle">Deku Nuts Upgrade 1</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
-                    alt="sunsong"
+               <img src="{{ '/assets/images/ootn64/Nuts1.jpg' | relative_url }}"
+                    alt="dn2"
                     class="guide-art">
             </figure>
             <p>
-            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            The first upgrade is sold by a scrub in a grotto under a boulder in the lost woods.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Deku Nuts Upgrade 2</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/Nuts2.jpg' | relative_url }}"
+                    alt="dn3"
+                    class="guide-art">
+            </figure>
+            <p>
+            The third upgrade is gotten for wearing the Mask Of Truth in the forest stage grotton in the lost woods.
+            </p>
+            <p>
+            (This HAS to be gotten before finishing the adult Link trading sequence as it is bugged in the N64 Version)
             </p>
           </li>
         </ul>
@@ -492,25 +545,31 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <summary>Deku Sticks</summary>
         <ul>
           <li>
-            <h3 class="guide-subtitle">Epona's Song</h3>
-            <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
-                    alt="eponasong"
-                    class="guide-art">
-            </figure>
+            <h3 class="guide-subtitle">Initial Deku Sticks</h3>
             <p>
-            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            You start the game with the initial capacity upgrade of 10 sticks.
             </p>
           </li>
           <li>
-            <h3 class="guide-subtitle">Sun's Song</h3>
+            <h3 class="guide-subtitle">Deku Sticks Upgrade 1</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootn64/Sticks1.jpg' | relative_url }}"
                     alt="sunsong"
                     class="guide-art">
             </figure>
             <p>
-            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            A business scrub at the end of the long bridge room in the Lost Woods sells you the first upgrade.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Deku Sticks Upgrade 2</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/Sticks2.jpg' | relative_url }}"
+                    alt="sunsong"
+                    class="guide-art">
+            </figure>
+            <p>
+            To get the final upgrad to your deku stick capacity you must wear the skull mask at the forest stage.
             </p>
           </li>
         </ul>
@@ -521,25 +580,25 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <summary>Scales</summary>
         <ul>
           <li>
-            <h3 class="guide-subtitle">Epona's Song</h3>
+            <h3 class="guide-subtitle">Silver Scale</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
-                    alt="eponasong"
+               <img src="{{ '/assets/images/ootn64/Scale1.jpg' | relative_url }}"
+                    alt="scale1"
                     class="guide-art">
             </figure>
             <p>
-            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            The Silver Scale is gotten in Zora's Domain during the story for the diving minigame up near King Zora.
             </p>
           </li>
           <li>
-            <h3 class="guide-subtitle">Sun's Song</h3>
+            <h3 class="guide-subtitle">Golden Scale</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
-                    alt="sunsong"
+               <img src="{{ '/assets/images/ootn64/Scale2.jpg' | relative_url }}"
+                    alt="scale2"
                     class="guide-art">
             </figure>
             <p>
-            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            Then to get the Gold Scale as adult Link you must fish up a fish of 15 pounds or more in the Lake Hylia fishing hut and turn it in to claim your prize.
             </p>
           </li>
         </ul>
@@ -550,25 +609,14 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <summary>Double Defense</summary>
         <ul>
           <li>
-            <h3 class="guide-subtitle">Epona's Song</h3>
+            <h3 class="guide-subtitle">Double Defense</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
-                    alt="eponasong"
+               <img src="{{ '/assets/images/ootn64/DoubleDefense.jpg' | relative_url }}"
+                    alt="doubdef"
                     class="guide-art">
             </figure>
             <p>
-            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
-            </p>
-          </li>
-          <li>
-            <h3 class="guide-subtitle">Sun's Song</h3>
-            <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
-                    alt="sunsong"
-                    class="guide-art">
-            </figure>
-            <p>
-            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            You obtain double defence by going to the Great Fairy Fountain outside Ganon's castle once you have the golden gauntlets to move the giant pillar blocking the way.
             </p>
           </li>
         </ul>
@@ -579,25 +627,25 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <summary>Magic Meter</summary>
         <ul>
           <li>
-            <h3 class="guide-subtitle">Epona's Song</h3>
+            <h3 class="guide-subtitle">Initial Magic Meter</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
-                    alt="eponasong"
+               <img src="{{ '/assets/images/ootn64/Magic1.jpg' | relative_url }}"
+                    alt="mag1"
                     class="guide-art">
             </figure>
             <p>
-            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            The first magic meter you get through the story playthrough from the Great Fairy at the top of death mountain.
             </p>
           </li>
           <li>
-            <h3 class="guide-subtitle">Sun's Song</h3>
+            <h3 class="guide-subtitle">Magic Meter Upgrade</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
-                    alt="sunsong"
+               <img src="{{ '/assets/images/ootn64/Magic2.jpg' | relative_url }}"
+                    alt="mag2"
                     class="guide-art">
             </figure>
             <p>
-            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            The upgrade to your magic meter is gotten from the fairy in death mountain crater after you have obtained the megaton hammer.
             </p>
           </li>
         </ul>
@@ -608,25 +656,36 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <summary>Bow / Quiver</summary>
         <ul>
           <li>
-            <h3 class="guide-subtitle">Epona's Song</h3>
+            <h3 class="guide-subtitle">Initial Bow</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
-                    alt="eponasong"
+               <img src="{{ '/assets/images/ootn64/Bow1.jpg' | relative_url }}"
+                    alt="bow1"
                     class="guide-art">
             </figure>
             <p>
-            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            The first you get through progress as it is the key item gotten within the forest temple.
             </p>
           </li>
           <li>
-            <h3 class="guide-subtitle">Sun's Song</h3>
+            <h3 class="guide-subtitle">Bow Upgrade 1</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
-                    alt="sunsong"
+               <img src="{{ '/assets/images/ootn64/Bow2.jpg' | relative_url }}"
+                    alt="bow2"
                     class="guide-art">
             </figure>
             <p>
-            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            The first upgrade you can grab from the shooting gallery in Kakariko when you are an adult.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Bow Upgrade 2</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/Bow3.jpg' | relative_url }}"
+                    alt="bow3"
+                    class="guide-art">
+            </figure>
+            <p>
+            The second and final upgrade, and easily the most annoying is gotten from scoring 1500 point in the horseback archery mini game in Gerudo's Fortress.
             </p>
           </li>
         </ul>
@@ -637,25 +696,36 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <summary>Strength Upgrades</summary>
         <ul>
           <li>
-            <h3 class="guide-subtitle">Epona's Song</h3>
+            <h3 class="guide-subtitle">Goron Bracelet</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
-                    alt="eponasong"
+               <img src="{{ '/assets/images/ootn64/Strength1.jpg' | relative_url }}"
+                    alt="st1"
                     class="guide-art">
             </figure>
             <p>
-            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            All three strength upgrades you get through the main story, the first is from playing Saria's song to Darunia to get the Goron Bracelet.
             </p>
           </li>
           <li>
-            <h3 class="guide-subtitle">Sun's Song</h3>
+            <h3 class="guide-subtitle">Silver Gauntlets</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
-                    alt="sunsong"
+               <img src="{{ '/assets/images/ootn64/Strength2.jpg' | relative_url }}"
+                    alt="st2"
                     class="guide-art">
             </figure>
             <p>
-            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            The second is the silver gauntlets which you get by finish spirit temple as child Link.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">Gold Gauntlets</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/Strength3.jpg' | relative_url }}"
+                    alt="st3"
+                    class="guide-art">
+            </figure>
+            <p>
+            And the final strength upgrade is gotten in the shadow trial in Ganon's Castle.
             </p>
           </li>
         </ul>
@@ -666,25 +736,20 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <summary>Wallets</summary>
         <ul>
           <li>
-            <h3 class="guide-subtitle">Epona's Song</h3>
+            <h3 class="guide-subtitle">All Three</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
-                    alt="eponasong"
+               <img src="{{ '/assets/images/ootn64/Wallets.jpg' | relative_url }}"
+                    alt="wallets"
                     class="guide-art">
             </figure>
             <p>
-            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            The wallets are some of the easier upgrades, the first wallet you obviously start with.
             </p>
-          </li>
-          <li>
-            <h3 class="guide-subtitle">Sun's Song</h3>
-            <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
-                    alt="sunsong"
-                    class="guide-art">
-            </figure>
             <p>
-            Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
+            The first upgrade is the 10 Gold Skulltula Reward.
+            </p>
+            <p>
+            The final upgrade is the 30 Gold Skulltula Reward.
             </p>
           </li>
         </ul>
