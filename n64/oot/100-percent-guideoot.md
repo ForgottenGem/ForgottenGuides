@@ -1488,15 +1488,106 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/HP1.PNG' | relative_url }}"
-                          alt="hp1"
+                     <img src="{{ '/assets/images/ootn64/GS1.jpg' | relative_url }}"
+                          alt="gs1"
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Ocarina
+                  Requires: Nothing
                   </p>
                   <p>
-                  In the Lost Woods go to the target room with the slingshot and jump down, stand on the log platform and play the mimic minigame with the skull kids to get the heart piece.
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS2.jpg' | relative_url }}"
+                          alt="gs2"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS3.jpg' | relative_url }}"
+                          alt="gs3"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS4.jpg' | relative_url }}"
+                          alt="gs4"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS5.jpg' | relative_url }}"
+                          alt="gs5"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS6.jpg' | relative_url }}"
+                          alt="gs6"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS7.jpg' | relative_url }}"
+                          alt="gs7"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS8.jpg' | relative_url }}"
+                          alt="gs8"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
                   </p>
                 </li>
               </ul>
@@ -1508,12 +1599,28 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/GS9.jpg' | relative_url }}"
+                          alt="gs9"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS10.jpg' | relative_url }}"
+                          alt="gs10"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
                   </p>
                 </li>
               </ul>
@@ -1525,12 +1632,100 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/GS11.jpg' | relative_url }}"
+                          alt="gs11"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS12.jpg' | relative_url }}"
+                          alt="gs12"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS13.jpg' | relative_url }}"
+                          alt="gs13"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS14.jpg' | relative_url }}"
+                          alt="gs14"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Hyrule Market / Castle</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS15.jpg' | relative_url }}"
+                          alt="gs15"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS16.jpg' | relative_url }}"
+                          alt="gs16"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS17.jpg' | relative_url }}"
+                          alt="gs17"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
                   </p>
                 </li>
               </ul>
@@ -1542,12 +1737,132 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/GS18.jpg' | relative_url }}"
+                          alt="gs18"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS19.jpg' | relative_url }}"
+                          alt="gs19"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS20.jpg' | relative_url }}"
+                          alt="gs20"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS21.jpg' | relative_url }}"
+                          alt="gs21"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS22.jpg' | relative_url }}"
+                          alt="gs22"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS23.jpg' | relative_url }}"
+                          alt="gs23"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS24.jpg' | relative_url }}"
+                          alt="gs24"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS25.jpg' | relative_url }}"
+                          alt="gs25"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS26.jpg' | relative_url }}"
+                          alt="gs26"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS27.jpg' | relative_url }}"
+                          alt="gs27"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
                   </p>
                 </li>
               </ul>
@@ -1559,12 +1874,119 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/GS28.jpg' | relative_url }}"
+                          alt="gs28"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS29.jpg' | relative_url }}"
+                          alt="gs29"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS30.jpg' | relative_url }}"
+                          alt="gs30"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS31.jpg' | relative_url }}"
+                          alt="gs31"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS32.jpg' | relative_url }}"
+                          alt="gs32"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS33.jpg' | relative_url }}"
+                          alt="gs33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS34.jpg' | relative_url }}"
+                          alt="gs34"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS35.jpg' | relative_url }}"
+                          alt="gs35"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS36.jpg' | relative_url }}"
+                          alt="gs36"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
                   </p>
                 </li>
               </ul>
@@ -1576,12 +1998,106 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/GS37.jpg' | relative_url }}"
+                          alt="gs37"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS38.jpg' | relative_url }}"
+                          alt="gs38"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS39.jpg' | relative_url }}"
+                          alt="gs39"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS40.jpg' | relative_url }}"
+                          alt="gs40"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS41.jpg' | relative_url }}"
+                          alt="gs41"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS42.jpg' | relative_url }}"
+                          alt="gs42"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS43.jpg' | relative_url }}"
+                          alt="gs43"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS44.jpg' | relative_url }}"
+                          alt="gs44"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
                   </p>
                 </li>
               </ul>
@@ -1593,12 +2109,41 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/GS45.jpg' | relative_url }}"
+                          alt="gs45"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS46.jpg' | relative_url }}"
+                          alt="gs46"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS47.jpg' | relative_url }}"
+                          alt="gs47"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
                   </p>
                 </li>
               </ul>
@@ -1610,12 +2155,80 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/GS48.jpg' | relative_url }}"
+                          alt="gs48"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS49.jpg' | relative_url }}"
+                          alt="gs49"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS50.jpg' | relative_url }}"
+                          alt="gs50"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS51.jpg' | relative_url }}"
+                          alt="gs51"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS52.jpg' | relative_url }}"
+                          alt="gs52"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS53.jpg' | relative_url }}"
+                          alt="gs53"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
                   </p>
                 </li>
               </ul>
@@ -1634,12 +2247,106 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/GS54.jpg' | relative_url }}"
+                          alt="gs54"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS55.jpg' | relative_url }}"
+                          alt="gs55"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS56.jpg' | relative_url }}"
+                          alt="gs56"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS57.jpg' | relative_url }}"
+                          alt="gs57"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS58.jpg' | relative_url }}"
+                          alt="gs58"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS59.jpg' | relative_url }}"
+                          alt="gs59"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS60.jpg' | relative_url }}"
+                          alt="gs60"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS61.jpg' | relative_url }}"
+                          alt="gs61"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
                   </p>
                 </li>
               </ul>
@@ -1651,12 +2358,15 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/GS62.jpg' | relative_url }}"
+                          alt="gs62"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
                   </p>
                 </li>
               </ul>
@@ -1668,12 +2378,80 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/GS63.jpg' | relative_url }}"
+                          alt="gs63"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS64.jpg' | relative_url }}"
+                          alt="gs64"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS65.jpg' | relative_url }}"
+                          alt="gs65"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS66.jpg' | relative_url }}"
+                          alt="gs66"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS67.jpg' | relative_url }}"
+                          alt="gs67"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS68.jpg' | relative_url }}"
+                          alt="gs68"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
                   </p>
                 </li>
               </ul>
@@ -1685,12 +2463,119 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/GS69.jpg' | relative_url }}"
+                          alt="gs69"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS70.jpg' | relative_url }}"
+                          alt="gs70"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS71.jpg' | relative_url }}"
+                          alt="gs71"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS72.jpg' | relative_url }}"
+                          alt="gs72"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS73.jpg' | relative_url }}"
+                          alt="gs73"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS74.jpg' | relative_url }}"
+                          alt="gs74"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS75.jpg' | relative_url }}"
+                          alt="gs75"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS76.jpg' | relative_url }}"
+                          alt="gs76"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS77.jpg' | relative_url }}"
+                          alt="gs77"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
                   </p>
                 </li>
               </ul>
@@ -1702,12 +2587,93 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/GS78.jpg' | relative_url }}"
+                          alt="gs78"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS79.jpg' | relative_url }}"
+                          alt="gs79"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS80.jpg' | relative_url }}"
+                          alt="gs80"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS81.jpg' | relative_url }}"
+                          alt="gs81"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS82.jpg' | relative_url }}"
+                          alt="gs82"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS83.jpg' | relative_url }}"
+                          alt="gs83"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS84.jpg' | relative_url }}"
+                          alt="gs84"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
                   </p>
                 </li>
               </ul>
@@ -1719,12 +2685,93 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/GS85.jpg' | relative_url }}"
+                          alt="gs85"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS86.jpg' | relative_url }}"
+                          alt="gs86"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS87.jpg' | relative_url }}"
+                          alt="gs87"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS88.jpg' | relative_url }}"
+                          alt="gs88"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS89.jpg' | relative_url }}"
+                          alt="gs89"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS90.jpg' | relative_url }}"
+                          alt="gs90"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS91.jpg' | relative_url }}"
+                          alt="gs91"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
                   </p>
                 </li>
               </ul>
@@ -1736,12 +2783,119 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/GS92.jpg' | relative_url }}"
+                          alt="gs92"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS93.jpg' | relative_url }}"
+                          alt="gs93"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS94.jpg' | relative_url }}"
+                          alt="gs94"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS95.jpg' | relative_url }}"
+                          alt="gs95"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS96.jpg' | relative_url }}"
+                          alt="gs96"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS97.jpg' | relative_url }}"
+                          alt="gs97"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS98.jpg' | relative_url }}"
+                          alt="gs98"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS99.jpg' | relative_url }}"
+                          alt="gs99"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS100.jpg' | relative_url }}"
+                          alt="gs100"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Scarecrow's Song
+                  </p>
+                  <p>
+                  In the room with the giant statue climb up the left side of the room to see the skulltula across the way and play scarecrow's song to reach it.
                   </p>
                 </li>
               </ul>
