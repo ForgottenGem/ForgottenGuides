@@ -835,6 +835,142 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               </ul>
             </details>
           </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Hyrule Field</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Lon Lon Ranch</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Hyrule Market</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Kakariko Village</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Death Mountain</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Zora River / Domain</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Lake Hylia</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Gerudo Valley</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
         </ul>
       </details>
     </li>
@@ -844,7 +980,92 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <ul>
           <li>
             <details class="console-guide-section">
-              <summary>Kokiri Forest / Lost Woods</summary>
+              <summary>Hyrule Field</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Kakariko Village</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Death Mountain</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Zora River / Domain</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Lake Hylia</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Gerudo Valley</summary>
               <ul>
                 <li>
                   <figure class="image-block">
@@ -890,6 +1111,125 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               </ul>
             </details>
           </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Hyrule Field</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Lon Lon Ranch</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Kakariko Village</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Death Mountain</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Zora River / Domain</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Lake Hylia</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Gerudo Valley</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
         </ul>
       </details>
     </li>
@@ -900,6 +1240,108 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
           <li>
             <details class="console-guide-section">
               <summary>Kokiri Forest / Lost Woods</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Hyrule Market / Castle</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Kakariko Village</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Death Mountain</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Zora River / Domain</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Lake Hylia</summary>
+              <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
+                          alt="lv33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  </p>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details class="console-guide-section">
+              <summary>Gerudo Valley</summary>
               <ul>
                 <li>
                   <figure class="image-block">
