@@ -2252,10 +2252,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Night Time Only and Hookshot
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  Come to the now infested Kokiri Forest and hookshot the spider on the twins house close to the entrance to the Deku Tree area.
                   </p>
                 </li>
                 <li>
@@ -2265,10 +2265,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Night Time Only and Planted Bean
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  In the room with the forest stage grotto plant the seed as a child and as an adult at night you can use it to rise up to the skulltula.
                   </p>
                 </li>
                 <li>
@@ -2278,10 +2278,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Night Time Only and Hookshot
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  When you make the way through the Sacred Forest Meadow climb up the ladder to the upper walls and there will be a skulltula to grab with the hookshot.
                   </p>
                 </li>
                 <li>
@@ -2291,10 +2291,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Hookshot
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  In the first room where you climb up to get your small key look near the top of the vines to find the next skulltula.
                   </p>
                 </li>
                 <li>
@@ -2304,10 +2304,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Hookshot
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  In the main room go up to the northmost door and look right to find the next skulltula.
                   </p>
                 </li>
                 <li>
@@ -2317,10 +2317,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Hookshot
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  In one of the outside sections hookshot onto the front of a small chest to get up to the higher ledge with the spider on it.
                   </p>
                 </li>
                 <li>
@@ -2330,10 +2330,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Hookshot
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  When you get to the upper outside section you can walk along the stone pillars platforms to find the skulltula a little above you.
                   </p>
                 </li>
                 <li>
@@ -2343,10 +2343,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Hookshot
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  In the rotating room before the boss of the forest temple use the rotating walls to find the skulltula in one of the alcoves.
                   </p>
                 </li>
               </ul>
@@ -2363,10 +2363,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Hookshot
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  On the outside of Ganon's castle on the back of the big arch there will a golden skulltula you can grab will the hookshot.
                   </p>
                 </li>
               </ul>
@@ -2383,10 +2383,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Night Time Only and Hookshot
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  After getting the hookshot from Dampe make your way roof to roof in Kakariko till you get onto the house which the owl brought you down onto as child Link to find the gold skulltula.
                   </p>
                 </li>
                 <li>
@@ -2399,7 +2399,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                   Requires: Nothing
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  The first skulltula in shadow temple is to the left of the stalfos by itself in the guillotine room where you will need to defeat enemies to unlock it.
                   </p>
                 </li>
                 <li>
@@ -2412,7 +2412,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                   Requires: Nothing
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  In the room with the falling spikes and giant block a skulltula will be in one of the cages.
                   </p>
                 </li>
                 <li>
@@ -2425,7 +2425,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                   Requires: Nothing
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  In the room with the giant skull pot throw a bomb in to blow it up to get a small key and the skulltula is right behind that pot.
                   </p>
                 </li>
                 <li>
@@ -2435,10 +2435,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Scarecrow's Song
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  When you get on the big ship before playing Zelda's Lullaby to prgress stand near the front and play Scarecrow's song to summon pierre to bring you to the next skulltula.
                   </p>
                 </li>
                 <li>
@@ -2451,7 +2451,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                   Requires: Nothing
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  Finally the last in this temple is behind another one of the giant bombable skull jars at the end through one of the doors in the invisible maze.
                   </p>
                 </li>
               </ul>
@@ -2468,10 +2468,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Scarecrow's Song and Hookshot
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  In dodongo's cavern go to the right most room from the main room with the baby dodongo's and play the scarecrow's song to hookshot up to pierre in a small alcove.
                   </p>
                 </li>
                 <li>
@@ -2481,10 +2481,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Hookshot
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  In goron city on the back of the central podium floating above the central pot.
                   </p>
                 </li>
                 <li>
@@ -2497,7 +2497,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                   Requires: Nothing
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  In the big room to the right from the first fire temple room play the song of time to move the block of time on the left hand side of the room to find the skulltula.
                   </p>
                 </li>
                 <li>
@@ -2510,7 +2510,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                   Requires: Nothing
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  In the boulder maze room there is a hidden wall on the top right portion of the room which you can bomb to find a skulltula, hit the walls and a different sound plays if its a fake wall.
                   </p>
                 </li>
                 <li>
@@ -2520,10 +2520,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Scarecrow's Song
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  Play the scarecrow's song when you enter the upper section of the boulder maze room and hookshot up to pierre and following along that path climb a grate and you should find the skulltula.
                   </p>
                 </li>
                 <li>
@@ -2533,10 +2533,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Scarecrow's Song
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  From the last spider continue on till you get to the room with the big pit, look over the edge on the wall to hookshot the next spider.
                   </p>
                 </li>
                 <li>
@@ -2546,10 +2546,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Megaton Hammer
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  At the first room of the temple hammer the pillar and you will enter a room with keese and torch slug enemies continue onto a room with flying tiles and a like like, on the back wall is the next skulltula.
                   </p>
                 </li>
                 <li>
@@ -2559,10 +2559,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Night Time Only and Megaton Hammer
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  On the section between the mountain top and the lower sections where boulders fall as child Link there will be a redish boulder which you have to destroy with the hammer for the next skulltula.
                   </p>
                 </li>
                 <li>
@@ -2572,10 +2572,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Night Time Only and Megaton Hammer
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  Where you throw the bomb flower as child Link to open dodongo's cavern there will be another boulder to destroy with the hammer.
                   </p>
                 </li>
               </ul>
@@ -2592,10 +2592,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Night Time Only and Hookshot
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  Climb to the upper sections of the lake from the ladder about midway through and once up turn around and it'll be on the wall behind you.
                   </p>
                 </li>
                 <li>
@@ -2605,10 +2605,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Night Time Only and Hookshot
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  On the way to the sleeping waterfall as your crossing the small bridge in the small valley right before you see the waterfall look up and you'll see the skulltula.
                   </p>
                 </li>
                 <li>
@@ -2618,10 +2618,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Night Time Only and Hookshot
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  Inside Zora's Domain you can go to where you paid for the zora diving minigame and look over the domain from the top of the waterfall look left and youll find the skulltula.
                   </p>
                 </li>
                 <li>
@@ -2631,10 +2631,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Hookshot
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  In ice cavern with the giant spinning ice blades and silver ruppees there is a skulltula a little bit high up on the wall you can get with your hookshot.
                   </p>
                 </li>
                 <li>
@@ -2644,10 +2644,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Hookshot
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  In the room with the compass and blue fire you can look on the backside of the pillars to find a skulltula just vibing there.
                   </p>
                 </li>
                 <li>
@@ -2657,10 +2657,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Hookshot
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  In the ice cavern room with the pushable blocks there is a skulltula on the back wall to the left of you when you enter.
                   </p>
                 </li>
                 <li>
@@ -2670,10 +2670,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Night Time Only and Silver Gauntlets
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  Where the fairy fountain is lift the silver boulder and go down the pit below it and make your way through that area to find a skulltula.
                   </p>
                 </li>
               </ul>
@@ -2690,10 +2690,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Iron Boots
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  In the laboratory use the iron boots and sink to the bottom where you can roll into the crate to spawn the skulltula then kill it with the hookshot.
                   </p>
                 </li>
                 <li>
@@ -2703,10 +2703,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Iron Boots
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  Go to the bottom of the main room and use the south path with the bombable floor and hit the crystal through the grate with the spin attack to get the skulltula.
                   </p>
                 </li>
                 <li>
@@ -2716,10 +2716,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Longshot
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  In the Water temple where your going through the watery section with the whirlpools that will suck you down there is a skulltula you can get with the longshot.
                   </p>
                 </li>
                 <li>
@@ -2729,10 +2729,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Longshot
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  Go to the top most floors left doorway to the long room with platforms going up and down, there is a skulltula on the right wall you can get with the longshot.
                   </p>
                 </li>
                 <li>
@@ -2742,10 +2742,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Longshot
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  In the central chambers of the temple there is a skulltula basically all the way up the top of the area.
                   </p>
                 </li>
                 <li>
@@ -2755,10 +2755,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Longshot
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  In the small boulder corridor next to where you get the boss key look towards the end of the hallway to find the final skulltula of the dungeon.
                   </p>
                 </li>
                 <li>
@@ -2768,10 +2768,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Night Time Only and Longshot
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  Where the serenade of water warps you next to the giant tree, at night time hookshot up to the top of the tree for the next skulltula.
                   </p>
                 </li>
               </ul>
@@ -2788,10 +2788,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Night Time Only
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  When you get across the broken valley bridge using epona or longshot there is a skulltula at night time behind the tent.
                   </p>
                 </li>
                 <li>
@@ -2801,10 +2801,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Night Time Only
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  The next one is close to the last but this time on the backside of the overhang away from the tent at night.
                   </p>
                 </li>
                 <li>
@@ -2814,10 +2814,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Night Time Only
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  There is a skulltula at the top of the fortress where you need to summon pierre to cross the gap between the two sections.
                   </p>
                 </li>
                 <li>
@@ -2827,10 +2827,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Night Time Only
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  Walk up to the horseback archery area at night and a skulltula will be on one of the targets which you can longshot and collect.
                   </p>
                 </li>
                 <li>
@@ -2843,7 +2843,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                   Requires: Nothing
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  When making your way across the desert there is some ruins midway, jump down into them to find the next spider.
                   </p>
                 </li>
                 <li>
@@ -2853,10 +2853,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Night Time Only and Planted Magic Bean
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  Take the magic bean plant outside the temple and it will float you around to a skulltula resting on a rock at night.
                   </p>
                 </li>
                 <li>
@@ -2866,10 +2866,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Night Time Only
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  There is a dried up oasis at the south side of the area where at night there will be a skulltula on one of the trees.
                   </p>
                 </li>
                 <li>
@@ -2882,7 +2882,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                   Requires: Nothing
                   </p>
                   <p>
-                  In the Deku Tree in the same room as the compass theres the first gold skulltula on the left wall.
+                  In the adult half of spirit temple there is a room with rolling boulders, play the song of time to move the block of time to find the skulltula behind it.
                   </p>
                 </li>
                 <li>
