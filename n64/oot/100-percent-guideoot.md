@@ -889,7 +889,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/HP1.PNG' | relative_url }}"
+                     <img src="{{ '/assets/images/ootn64/HP1.jpg' | relative_url }}"
                           alt="hp1"
                           class="guide-art">
                   </figure>
@@ -902,7 +902,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/HP2.PNG' | relative_url }}"
+                     <img src="{{ '/assets/images/ootn64/HP2.jpg' | relative_url }}"
                           alt="hp2"
                           class="guide-art">
                   </figure>
@@ -922,7 +922,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/HP3.PNG' | relative_url }}"
+                     <img src="{{ '/assets/images/ootn64/HP3.jpg' | relative_url }}"
                           alt="hp3"
                           class="guide-art">
                   </figure>
@@ -942,7 +942,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/HP4.PNG' | relative_url }}"
+                     <img src="{{ '/assets/images/ootn64/HP4.jpg' | relative_url }}"
                           alt="hp4"
                           class="guide-art">
                   </figure>
@@ -962,12 +962,46 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/HP5P1.jpg' | relative_url }}"
+                          alt="hp5p1"
+                          class="guide-art">
+                  </figure>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP5P2.jpg' | relative_url }}"
+                          alt="hp5p2"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the market at night go near the white dog near the exit to the field and itll start to follow you, go into the back alley and take it into one of the houses to find its owner and she will give you the piece of heart.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP6.jpg' | relative_url }}"
+                          alt="hp6"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Bombs
+                  </p>
+                  <p>
+                  In the market when you have bombs you can play the bombchu bowling minigame on the left side of the market through the door at the bottom of the stairs. When you pay for a round a random prize is chosen so whenever it is the heart pieces win and you'll get it.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP7.jpg' | relative_url }}"
+                          alt="hp7"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Lens Of Truth
+                  </p>
+                  <p>
+                  In the market there is a door right next to the alley with the treasure chest guessing game and technicall yyou can get insanely lucky and beat it without the lens but if you have the lens you can make it all the way easily by seeing where the keys are and get the heart piece for winning.
                   </p>
                 </li>
               </ul>
@@ -979,12 +1013,28 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/HP8.jpg' | relative_url }}"
+                          alt="hp8"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Sun's Song
+                  </p>
+                  <p>
+                  In the Kakariko Graveyard go into the flowered grave with the ReDead inside and kill it then on the steps play the sun's song making a chest spawn.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP9.jpg' | relative_url }}"
+                          alt="hp9"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Ruppees
+                  </p>
+                  <p>
+                  In the Kakariko Graveyard at night talk to Dampe on soft pathes of soil along the paths he walks and if your lucky he will dig up a heart piece after you pay him if not just try again.
                   </p>
                 </li>
               </ul>
@@ -996,12 +1046,41 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/HP10.jpg' | relative_url }}"
+                          alt="hp10"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Goron Bracelet or Bombs
+                  </p>
+                  <p>
+                  Using deku stick in Darunia's chamber light then flames outside on the lowest level to make the goron pot star to spin, either using your own bombs or bombs from the second level of the city throw one into the pot and when it spins and lands on the happy face it will spit out the heart piece if not just try again.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP11.jpg' | relative_url }}"
+                          alt="hp11"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Bombs
+                  </p>
+                  <p>
+                  Using bombs get up to the top of death mountain and go into death mountain crater where you can hang off the left ledge and go into a little alcove to get the next heart piece.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP12.jpg' | relative_url }}"
+                          alt="hp12"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Bombs
+                  </p>
+                  <p>
+                  From the previous piece talk to the owl at the top of the mountain and itll bring you back into Kakariko on a buildings roof, look over the edge and drop down onto a canopy of sorts and go into the hole in the wall to get the heart piece.
                   </p>
                 </li>
               </ul>
@@ -1013,12 +1092,67 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/HP13.jpg' | relative_url }}"
+                          alt="hp13"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Cuccoo or Boomerang
+                  </p>
+                  <p>
+                  Using the cuccoo at the start of Zora River take it to the end and jump off from the highest platform to float down onto the heart piece or use the boomerang to get it from a distance.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP14.jpg' | relative_url }}"
+                          alt="hp14"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Cuccoo or Boomerang
+                  </p>
+                  <p>
+                  Using the cuccoo at the start of Zora River take it to the mid section where if you tuen around you can float over to a platform behind a wall to climb up a ladder where you will find another cuccoo, pick that one up and walk carefully across to the gossip stone and from there you can float down to this heart piece.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP15.jpg' | relative_url }}"
+                          alt="hp15"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Sticks
+                  </p>
+                  <p>
+                  Carry the flame in Zora's Domain all the way from the Kings chamber down and around the domain goinf anti clockwise and when you light them all quick enough a chest will spawn behind the watefall, the final two torches are behind the waterfall.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP16.jpg' | relative_url }}"
+                          alt="hp16"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Song of Storms
+                  </p>
+                  <p>
+                  Near the halfway point of Zora River stand up onto a log and when you pull out your ocarina some frogs will appear when you play song of storms you will get a heart piece.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP17.jpg' | relative_url }}"
+                          alt="hp17"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Zelda's Lullaby, Saria's Song, Epona's Song, Sun's Song, Song of Time
+                  </p>
+                  <p>
+                  Same as last time with the frogs but this time play Zelda's Lullaby, Saria's Song, Epona's Song, Sun's Song, Song of Time and all five frogs will have grown by now and now you can play where the butterflys appear above the frogs in quick succession , the order is A, Left, Right, Down, Left, Right, Down, A, Down, A, Down, Right, Left, A
                   </p>
                 </li>
               </ul>
@@ -1030,12 +1164,15 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/HP18.jpg' | relative_url }}"
+                          alt="hp18"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Ruppees
+                  </p>
+                  <p>
+                  In the fishing spot go and catch a ten pound fish as child Link and turn it in to get the heart piece.
                   </p>
                 </li>
               </ul>
@@ -1047,12 +1184,28 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/HP19.jpg' | relative_url }}"
+                          alt="hp19"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the valley grab the cuccoo and fly across to the box that's about half way up on the left hand side and roll into it to find the heart piece.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP20.jpg' | relative_url }}"
+                          alt="hp20"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the valley grab the cuccoo and fly across to the bank next to the waters edge, move all the way back and jump behind the waterfall and climb the ladder to get the heart piece.
                   </p>
                 </li>
               </ul>
@@ -1071,12 +1224,15 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/HP21.jpg' | relative_url }}"
+                          alt="hp21"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Golden Scale or Iron Boots
+                  </p>
+                  <p>
+                  On hyrule field between Gerudo Valley and Hyrule Castle theres a lone tree, put a bomb at it's base and it will reveal a grotto, go to the bottom of the pool inside to get the next heart piece.
                   </p>
                 </li>
               </ul>
@@ -1088,12 +1244,67 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/HP22.jpg' | relative_url }}"
+                          alt="hp22"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Planted Bean In Graveyard As Child
+                  </p>
+                  <p>
+                  Return to the graveyard as an adult and the bean plant should be grown so step on it to get lifted up to the heart pices in the box.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP23.jpg' | relative_url }}"
+                          alt="hp23"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  After racing Dampe's ghost play the song of time and go up the stairs to the windmill and jump your way across to the heart piece.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP24.jpg' | relative_url }}"
+                          alt="hp24"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  Race Dampe again and this time beat him within a minute which could take a few trys but once you do speak to him and he will give you the next heart piece.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP25.jpg' | relative_url }}"
+                          alt="hp25"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Hookshot
+                  </p>
+                  <p>
+                  Hookshot onto granny's potion shot from some location around Kakariko a few will let you reach, talk to the man on top who will igve you the piece of heart.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP26.jpg' | relative_url }}"
+                          alt="hp26"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  The next heart piece is a 50 Gold Skulltula reward.
                   </p>
                 </li>
               </ul>
@@ -1105,12 +1316,28 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/HP27.jpg' | relative_url }}"
+                          alt="hp27"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Planted Bean Outside Dodongo's Cavern As Child
+                  </p>
+                  <p>
+                  Take the plant as an adult and it will basically bring you to the heart piece above you. Or you can jump from the top where you through the bomb down by back flipping over the railing.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP28.jpg' | relative_url }}"
+                          alt="hp28"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Planted Bean Outside Fire Temple As Child
+                  </p>
+                  <p>
+                  Play Bolero of Fire as child Link and plant the bean next to where you spawn then as an adult come back and it will take you right by the piece of heart.
                   </p>
                 </li>
               </ul>
@@ -1122,12 +1349,41 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/HP29.jpg' | relative_url }}"
+                          alt="hp29"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  Jump along the ice blocks leading to ice cavern until you get across to the lone ice block to pick up the next heart piece.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP30.jpg' | relative_url }}"
+                          alt="hp30"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Blue Fire
+                  </p>
+                  <p>
+                  In Ice Cavern in the room with the split path if you go to the right room there is a heart piece locked in some red fire which you have to use blue fire on to collect it.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP31.jpg' | relative_url }}"
+                          alt="hp31"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Iron Boots
+                  </p>
+                  <p>
+                  Right outside Ice Cavern with the floating ice blocks equip the iron boots to drop to the bottom of the water and collect the piece of heart at the bottom.
                   </p>
                 </li>
               </ul>
@@ -1139,12 +1395,28 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/HP32.jpg' | relative_url }}"
+                          alt="hp32"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Planted Bean In Lake Hylia As Child or Scarecrow's Song
+                  </p>
+                  <p>
+                  Get on top of the laboratory and climb the ladder being careful about the birds to find the next heart piece.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP33.jpg' | relative_url }}"
+                          alt="hp33"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Golden Scale
+                  </p>
+                  <p>
+                  Once you have the golden scale you can use it to dive down to the bottom of the testing pool and you will hear the like zelda success sound and when you talk to the scientist he will give you the next heart piece.
                   </p>
                 </li>
               </ul>
@@ -1156,12 +1428,41 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/crash1/C1LIGHTSOUT.PNG' | relative_url }}"
-                          alt="lv33"
+                     <img src="{{ '/assets/images/ootn64/HP34.jpg' | relative_url }}"
+                          alt="hp34"
                           class="guide-art">
                   </figure>
                   <p>
-                  Firstly since we now have the yellow gem I reccomend doing Lights Out now as it grants you the purple gem upon completion. after your practice with the level it shouldn't be too bad and when you reach the gem platform most of the way through take it up to get the rest of the boxes and end the level as there isn't any after the gem platform.
+                  Requires: Scarecrow Song and Longshot
+                  </p>
+                  <p>
+                  After becoming friends with the Gerudo's you can make your way to the roof of their fortress and across the gap youll see a chest stand on the edge and play scarecrow's song then longshot across and open the chest.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP35.jpg' | relative_url }}"
+                          alt="hp35"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Epona
+                  </p>
+                  <p>
+                  Play the horeseback archery in Gerudo Fortress and score 1000 points to get the next piece of heart.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP36.jpg' | relative_url }}"
+                          alt="hp36"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Beans
+                  </p>
+                  <p>
+                  Plant the bean as child Link outside the front of spirit temple then as an adult it will eventually float you above the arch to get the final piece of heart.
                   </p>
                 </li>
               </ul>
