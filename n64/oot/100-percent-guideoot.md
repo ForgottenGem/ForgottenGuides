@@ -29,22 +29,30 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
       <details class="console-guide-section">
         <summary>Kokiri Forest & The Deku Tree</summary>
         <ul>
-            <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
-                    alt="T1"
-                    class="guide-art">
-            </figure>
-            <p>
-            Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
-            </p>
-            <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/T2.jpg' | relative_url }}"
-                    alt="T2"
-                    class="guide-art">
-            </figure>
-            <p>
-            When inside the Deku Tree make your way up one layer and you'll see a big chest which stores the map and then continue across till you find a door with a deku scrub inside after deflecting its shot with your new shield enter he next room to get the fairy slingshot.
-            </p>
+          <figure class="image-block">
+              <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
+                  alt="T1"
+                  class="guide-art">
+          </figure>
+          <p>
+          Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
+          </p>
+          <figure class="image-block">
+              <img src="{{ '/assets/images/ootn64/T2.jpg' | relative_url }}"
+                   alt="T2"
+                  class="guide-art">
+          </figure>
+          <p>
+          When inside the Deku Tree make your way up one layer and you'll see a big chest which stores the map and then continue across till you find a door with a deku scrub inside after deflecting its shot with your new shield enter he next room to get the fairy slingshot.
+          </p>
+          <figure class="image-block">
+              <img src="{{ '/assets/images/ootn64/T3.jpg' | relative_url }}"
+                  alt="T3"
+                  class="guide-art">
+          </figure>
+          <p>
+          Go back out and climb even higher to the top layer of the tree entering a room where youll get your compass from a big chest, light a torch with a deku stick to leave the room then jump off from the top to break the webbing blocking the bottom floors.
+          </p>
         </ul>
       </details>
     </li>
