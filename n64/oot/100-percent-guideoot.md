@@ -52,11 +52,14 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
       <details class="console-guide-section">
         <summary>Hyrule Field & The Princess</summary>
         <ul>
-          <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
-          </li>
+          <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
+                    alt="T1"
+                    class="guide-art">
+            </figure>
+            <p>
+            Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
+            </p>
         </ul>
       </details>
     </li>
@@ -64,11 +67,14 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
       <details class="console-guide-section">
         <summary>Death Mountain & Dodongo's Cavern</summary>
         <ul>
-          <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
-          </li>
+          <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
+                    alt="T1"
+                    class="guide-art">
+            </figure>
+            <p>
+            Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
+            </p>
         </ul>
       </details>
     </li>
@@ -76,11 +82,14 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
       <details class="console-guide-section">
         <summary>Zora's Domain & Inside Jabu-Jabu's Belly</summary>
         <ul>
-          <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
-          </li>
+          <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
+                    alt="T1"
+                    class="guide-art">
+            </figure>
+            <p>
+            Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
+            </p>
         </ul>
       </details>
     </li>
@@ -88,11 +97,14 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
       <details class="console-guide-section">
         <summary>It's About Time</summary>
         <ul>
-          <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
-          </li>
+          <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
+                    alt="T1"
+                    class="guide-art">
+            </figure>
+            <p>
+            Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
+            </p>
         </ul>
       </details>
     </li>
@@ -100,11 +112,14 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
       <details class="console-guide-section">
         <summary>The Forest Temple</summary>
         <ul>
-          <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
-          </li>
+          <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
+                    alt="T1"
+                    class="guide-art">
+            </figure>
+            <p>
+            Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
+            </p>
         </ul>
       </details>
     </li>
@@ -112,11 +127,14 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
       <details class="console-guide-section">
         <summary>The Fire Temple</summary>
         <ul>
-          <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
-          </li>
+          <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
+                    alt="T1"
+                    class="guide-art">
+            </figure>
+            <p>
+            Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
+            </p>
         </ul>
       </details>
     </li>
@@ -124,11 +142,14 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
       <details class="console-guide-section">
         <summary>The Ice Cavern & Water Temple</summary>
         <ul>
-          <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
-          </li>
+          <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
+                    alt="T1"
+                    class="guide-art">
+            </figure>
+            <p>
+            Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
+            </p>
         </ul>
       </details>
     </li>
@@ -136,11 +157,14 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
       <details class="console-guide-section">
         <summary>The Bottom Of The Well & Shadow Temple</summary>
         <ul>
-          <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
-          </li>
+          <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
+                    alt="T1"
+                    class="guide-art">
+            </figure>
+            <p>
+            Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
+            </p>
         </ul>
       </details>
     </li>
@@ -148,11 +172,14 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
       <details class="console-guide-section">
         <summary>The Spirit Temple</summary>
         <ul>
-          <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
-          </li>
+          <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
+                    alt="T1"
+                    class="guide-art">
+            </figure>
+            <p>
+            Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
+            </p>
         </ul>
       </details>
     </li>
@@ -160,11 +187,14 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
       <details class="console-guide-section">
         <summary>The Grand Finale</summary>
         <ul>
-          <li>
-            <a class="button-link" href="{{ '/n64/' | relative_url }}">
-              Temp
-            </a>
-          </li>
+          <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
+                    alt="T1"
+                    class="guide-art">
+            </figure>
+            <p>
+            Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
+            </p>
         </ul>
       </details>
     </li>
