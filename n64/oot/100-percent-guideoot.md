@@ -30,7 +30,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <summary>Kokiri Forest & The Deku Tree</summary>
         <ul>
           <figure class="image-block">
-              <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
+             <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
                   alt="T1"
                   class="guide-art">
           </figure>
@@ -38,20 +38,44 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
           Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
           </p>
           <figure class="image-block">
-              <img src="{{ '/assets/images/ootn64/T2.jpg' | relative_url }}"
-                   alt="T2"
+             <img src="{{ '/assets/images/ootn64/T2.jpg' | relative_url }}"
+                  alt="T2"
                   class="guide-art">
           </figure>
           <p>
           When inside the Deku Tree make your way up one layer and you'll see a big chest which stores the map and then continue across till you find a door with a deku scrub inside after deflecting its shot with your new shield enter he next room to get the fairy slingshot.
           </p>
           <figure class="image-block">
-              <img src="{{ '/assets/images/ootn64/T3.jpg' | relative_url }}"
+             <img src="{{ '/assets/images/ootn64/T3.jpg' | relative_url }}"
                   alt="T3"
                   class="guide-art">
           </figure>
           <p>
           Go back out and climb even higher to the top layer of the tree entering a room where youll get your compass from a big chest, light a torch with a deku stick to leave the room then jump off from the top to break the webbing blocking the bottom floors.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/T4.jpg' | relative_url }}"
+                  alt="T4"
+                  class="guide-art">
+          </figure>
+          <p>
+          Burn the webs blocking a door the defeat the deku scrub within to learn the code 2.3.1 before shooting the eye above the door to continue, in the next room youll need to lower the water by diving to a switch then use the platform to go under the spike.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/T5.jpg' | relative_url }}"
+                  alt="T5"
+                  class="guide-art">
+          </figure>
+          <p>
+          Avoiding the center of the next room so enemies dont drop on you circle around the wall and burn the webbing covering a crawlspace to then push a block down in the next room as a form of shortcut using the torch from earlier light a stick on fire and quickly jump back across the shortcut block then roll on the webbed floor with the fiery stick to drop down.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/T6.jpg' | relative_url }}"
+                  alt="T6"
+                  class="guide-art">
+          </figure>
+          <p>
+          From there reflect the deku nuts back in the order 2.3.1 to gain access to your first boss Queen Gohma. Shoot her with your slingshot when her eye is red to stun her and slash away that's all there is to it.
           </p>
         </ul>
       </details>
@@ -61,13 +85,29 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <summary>Hyrule Field & The Princess</summary>
         <ul>
           <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
-                    alt="T1"
-                    class="guide-art">
-            </figure>
-            <p>
-            Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
-            </p>
+             <img src="{{ '/assets/images/ootn64/HF1.jpg' | relative_url }}"
+                  alt="HF1"
+                  class="guide-art">
+          </figure>
+          <p>
+          Leaving kokiri forest your childhood friend Saria gives you the ocarina as a parting gift, then entering Hyrule Field proper our goal is Hyrule Castle on the far end of the field if you get there before night congrats if not just wait it out.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/HF2.jpg' | relative_url }}"
+                  alt="HF2"
+                  class="guide-art">
+          </figure>
+          <p>
+          Walk into the market then again straight to go to the castle proper, then turn right back around to go back to the market and you'll see a girl is gone then turn around again towards the castle and you'll see the girl who you can now speak to and she goes by the name Malon, she asks you to go check on her dad who was delivering milk to the castle and gives you an egg. Make your way around the castle grounds sneaking past all the guards until you make your way to a sleeping man and time should have passed and the egg will hatch just use the new chicken on the man to wake him, now you can move milk crates to make your way into the castle courtyards. 
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/HF3.jpg' | relative_url }}"
+                  alt="HF3"
+                  class="guide-art">
+          </figure>
+          <p>
+          Sneak your way past the guards until you make your way to Zelda and after speaking with her and obtaining her letter you can leave and see her royal guard Impa there who teaches you a song before escorting you out and saying you should go through Kakariko Village to Death Mountain.
+          </p>
         </ul>
       </details>
     </li>
@@ -76,13 +116,32 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <summary>Death Mountain & Dodongo's Cavern</summary>
         <ul>
           <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
-                    alt="T1"
-                    class="guide-art">
-            </figure>
-            <p>
-            Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
-            </p>
+             <img src="{{ '/assets/images/ootn64/DDC1.jpg' | relative_url }}"
+                  alt="DDC1"
+                  class="guide-art">
+          </figure>
+          <p>
+          But before making your way to Kakariko or the following mountain make your way back into Kokiri forest where the game started and into the lost woods then make your way through the path shown above till you get into the sacred forest meadow then making your way through the maze like area you'll find Saria who will teach you Saria's Song.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/DDC2.jpg' | relative_url }}"
+                  alt="DDC2"
+                  class="guide-art">
+          </figure>
+          <p>
+          Now you can make your way back to Kakariko once you enter run through to the back wall through an archway of sorts to enter the graveyard and as long as it's night you can pull one of the graves with flowers in front to get a hylian shield for free or buy one from the Hyrule Market Shop which I reccomend equipping.
+          </p>
+          <p>
+          (If its not night just wait in Hyrule field till night or get the sun's song which is in the upgrades section of the guide.)
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/DDC3.jpg' | relative_url }}"
+                  alt="DDC3"
+                  class="guide-art">
+          </figure>
+          <p>
+          Then go up to the guard blocking the gate to Death Mountain and show him the letter from zelda so he lets you through, make your way up the mountain into Goron City getting down to the lowest tier of the city play Zelda's lullaby infront of the door down there to open it and meet the upset goron chief Darunia now using  Saria's song that we got earlier play it infront of darunia to help him calm down where he will recognize you as a messenger from Zelda and grant you the goron bracelet as a sign of trust basically.
+          </p>
         </ul>
       </details>
     </li>
