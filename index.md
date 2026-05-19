@@ -30,6 +30,12 @@ I stream daily whenever I get the time to and will likely be playing lots of the
    rel="noopener">
    Visit My Channel
 </a>
+<a class="button-link" 
+   href="linktr.ee/ForgottenGem" 
+   target="_blank" 
+   rel="noopener">
+   Other Links
+</a>
 
 ---
 
