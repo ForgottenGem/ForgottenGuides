@@ -26,7 +26,7 @@ Welcome! This is one of the first guides i'm actually making here on this site (
 - DR. Neo Cortex bonus rooms are important for the two aforementioned keys.
 
 
-<details class="guide-section" open>
+<details class="guide-section">
   <summary>Lap 1</summary>
 
   <p>This first lap will cover basically all the gems and other collectibles you can get on your initial run through without coloured gems.</p>
