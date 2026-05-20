@@ -142,6 +142,54 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
           <p>
           Then go up to the guard blocking the gate to Death Mountain and show him the letter from zelda so he lets you through, make your way up the mountain into Goron City getting down to the lowest tier of the city play Zelda's lullaby infront of the door down there to open it and meet the upset goron chief Darunia now using  Saria's song that we got earlier play it infront of darunia to help him calm down where he will recognize you as a messenger from Zelda and grant you the goron bracelet as a sign of trust basically.
           </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/DDC4.jpg' | relative_url }}"
+                  alt="DDC4"
+                  class="guide-art">
+          </figure>
+          <p>
+          Make your way out of the city's main exit and then go instantly right and throw the bomb infront of you over the railing to break the bolder blocking the entrance to Dodongo's Cavern and make your way down and into the dungeon.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/DDC5.jpg' | relative_url }}"
+                  alt="DDC5"
+                  class="guide-art">
+          </figure>
+          <p>
+          When inside the temple you immedietly see a bombable wall which you can use the bomb flowers nearby to get rid of, then when in the temple proper you see a bombable wall on your left, bomb that and open the chest to get the dungeon map. Next go to the bombable wall on the right side of the room nearest the entrance to find the next pathway you need to go. Continue straight till you enter a room with two lizalfos defeat them and move on into the next room where you need to light torches with deku sticks.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/DDC6.jpg' | relative_url }}"
+                  alt="DDC6"
+                  class="guide-art">
+          </figure>
+          <p>
+          Continue through the door that unlocks to step on a switch unlocking another door across the way then go through that door and you'll be in a room with a lot of bombs, firstly bomb the bombable wall and go into the room to find the compass for the temple. Now head back into the previous room and place a bomb into the gap in the line of bombs to blow them all up and lower the staircase. From there go up the stairs into the next room and be careful of the keese while moving the armos to then climb up and use the switch to unlock this rooms door.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/DDC7.jpg' | relative_url }}"
+                  alt="DDC7"
+                  class="guide-art">
+          </figure>
+          <p>
+          Next make your way through this annoyingly shaped room before blowing up a tricky bombable wall and continue hitting the eye switches with your slingshot to get further in before fighting two more lizalfos. When you get through you'll notice a bombable wall down the bottom but ignore it as it has nothing important just jump straight across to the big chest and open it to get the bomb bag.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/DDC8.jpg' | relative_url }}"
+                  alt="DDC8"
+                  class="guide-art">
+          </figure>
+          <p>
+          In the next room activate the switch for a handy shortcut and continue across the other bridge with two noticeable gaps in it, I recommend going as close as you can to the gap then drop a bomb down both to open up the dodongo skull doorway to continue into the dungeon.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/DDC9.jpg' | relative_url }}"
+                  alt="DDC9"
+                  class="guide-art">
+          </figure>
+          <p>
+          Go into the next room with a pit in the middle and two keese go into the right doorway and make your way through the next room with the big walls dividing up the room, then in the next hallway push the block down and drag it into the pit in the center of the room to open the way into the next boss King Dodongo. Dodge his rolls or flame breath until you see him start breathing in and then from there throw a bomb into his mouth to stun him and attack, repeat ad nauseam untill defeated.
+          </p>
         </ul>
       </details>
     </li>
@@ -150,13 +198,77 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <summary>Zora's Domain & Inside Jabu-Jabu's Belly</summary>
         <ul>
           <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
-                    alt="T1"
-                    class="guide-art">
-            </figure>
-            <p>
-            Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
-            </p>
+             <img src="{{ '/assets/images/ootn64/Z1.jpg' | relative_url }}"
+                  alt="Z1"
+                  class="guide-art">
+          </figure>
+          <p>
+          Back outside Dodongo's Cavern I reccomend going up the mountain rather than down as when your nearly at the city you'll notice some rocks that you can blow up to go further up the mountain with youe new bomb bag and when your all the up blow the bombable wall to get into a Great Fairy Fountain where when you play Zelda's lullaby on the Triforce symbol you'll get the magic meter.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/Z2.jpg' | relative_url }}"
+                  alt="Z2"
+                  class="guide-art">
+          </figure>
+          <p>
+          Then trek your way back down the mountain into Kakariko then out of Kakariko and head back to Hyrule Castle where you snuck past the guards and then this time go a little to the right to blow up a boulder blocking another fairy fountain this time granting you the Din's fire spell which we will use much later.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/Z3.jpg' | relative_url }}"
+                  alt="Z3"
+                  class="guide-art">
+          </figure>
+          <p>
+          After that head back out of the castle and go to the entrance to the right of Kakariko to get into Zora's River, blow up the boulder blocking your way and you'll see a chicken and a bean salesman, eventually you'll have to buy beans which you can do now though they aren't cheap you can farm money by jumping off the Hyrule Castle chains in Hyrule field as long as its day. From there pick up the chicken and start to follow the river upwards until you come across a waterfall with a Triforce symbol infront of it then play Zelda's lullaby and the waterfall will open and let you in.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/Z4.jpg' | relative_url }}"
+                  alt="Z4"
+                  class="guide-art">
+          </figure>
+          <p>
+          Once in Zora's domain proper your first thing you should do is go up till you see the King Zora and go left into a cavern sorta thing and talk to the zora up top who will drop ruppees down for you to gather when you do go back to him for your prize The Silver Scale allowing you to dive deeper than before. From here dive back down the waterfall and you'll see an opening deep in the water, dive down and go through you will end up in Lake Hylia and not too far infront of you you'll see a bottle letting out some bubbles in the water, dive down and collect the bottle with a letter in it return to King Zora and show him the letter where he will then "mweeep" out of the way for you to get by, before going past him go back down into the shallow water in the domain and pick up some fish with that handy dandy bottle you now have then go back up past the King.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/Z5.jpg' | relative_url }}"
+                  alt="Z5"
+                  class="guide-art">
+          </figure>
+          <p>
+          Let the fish out of your bottle in front of Lord Jabu-Jabu who will open his mouth and suck you in granting access to the third temple of the game Inside Jabu-Jabu's Belly. Walk forward either defeating or ignoring the two octoroks that come up and hit the yellow dangly thing in the chamber to unlock the door forward continue into the dungeon till you encounter a cutscene with the zora princess Ruto where after she will fall down a pit, which you then must dive down straight after her.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/Z6.jpg' | relative_url }}"
+                  alt="Z6"
+                  class="guide-art">
+          </figure>
+          <p>
+          Where after talking to her again she'll give you the honour of carrying her around, go in the door next to you and youll come to a room with a pit, throw Ruto up the opposite ledge before hitting the switch then hit the switch letting the water raise and follow her up where you can actually throw her into the next dangly yellow switch to activate it. From that room dodge or kill the octorok till the lift comes down then jump on with Ruto to continue your journey. 
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/Z7.jpg' | relative_url }}"
+                  alt="Z7"
+                  class="guide-art">
+          </figure>
+          <p>
+          Going past the room where she first fell down you'll come to an intersection which ends up being 5 different paths so take a right and go in the right most door to get the boomerang the item of this dungeon. From there come all the way back and head into the left most room and use the boomerang to defeat the parasite tentacle thing and get the dungeon map,then you can come out to the room directly on your left and get the compass. From there go back to the start of the room go the  right path towards where you got the boomerang then go into the other door to defeat another tentacle, then finally go into the center room on the split path to kill one final tentacle. Then go back to the room Ruto fell down and youll notice the path that was blocked by a tentacle is now unblocked so dive straight down the hole.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/Z8.jpg' | relative_url }}"
+                  alt="Z8"
+                  class="guide-art">
+          </figure>
+          <p>
+          Go through the hallway on the platform you land on into a room and throw Ruto onto the platform from there she's captured and a miniboss starts against the Big Octo. You have to use the boomerang which will then stun him and he will spin around where I usually boomeranag again immedietly when he stops spinning and hope his backside is facing me as when he is stunned that is his weak point and after that a couple times the fight is basically over. 
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/Z9.jpg' | relative_url }}"
+                  alt="Z9"
+                  class="guide-art">
+          </figure>
+          <p>
+          Now get onto it's platform get raised up and go through the hallways stunning the jelly blocks in the next room to get past till a platform drops with you on it giving you access to a new path, in this room find a box and drop that on the blue switch now that Ruto is gone to get through the next door. Climb up the vines in this next room and target the dangly switch while throwing your boomeranag to curve the shot and hit the switch granting you access to the boss, Barinade. In the first phase cut the three tentacles connecting him to the ceiling, then he will start swinging the upper jellyfish around him you need to hit his main bod with a boomerang to make them killable, once you do quickly hit the jellyfish or use a deku nut which can hit a few at once which I prefer, next he will start flying around the room with the last few jellyfish around him , keep spaming your boomerang till you stun him again and use a well placed deku nut to deal with the jellyfish, Finally he will fly around again this time stun him with your boomerang and hit him, repeat this again and again till you win. Congrats!
+          </p>
         </ul>
       </details>
     </li>
@@ -165,13 +277,29 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <summary>It's About Time</summary>
         <ul>
           <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
-                    alt="T1"
-                    class="guide-art">
-            </figure>
-            <p>
-            Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
-            </p>
+             <img src="{{ '/assets/images/ootn64/AT1.jpg' | relative_url }}"
+                  alt="AT1"
+                  class="guide-art">
+          </figure>
+          <p>
+          Make your way back to Hyrule Castle where a cutscene will play of Zelda fleeing and she throws the ocarina of time into the water which you have to dive in after where it will hold onto a memory teaching you the Song of Time.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/AT2.jpg' | relative_url }}"
+                  alt="AT2"
+                  class="guide-art">
+          </figure>
+          <p>
+          From here go back into the market and this time take the right exit to go to the Temple of Time and when inside by the alter play the newly learned Song of Time to open up the door of time and acquire the Master Sword. From inside Link takes the Master Sword and travels 7 years into the future until he is ready to wield the blade of evils bane. You meet a mysterious male sheikah who tells you to go to Kakariko before tackling the forest temple which I agree on. 
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/AT3.jpg' | relative_url }}"
+                  alt="AT3"
+                  class="guide-art">
+          </figure>
+          <p>
+          Make your way to the graveyard in Kakariko town and there will be a new grave on the very left which will have a grotto underneath when you pull it. Down there you will find a ghost version of Dampe the grave keeper, race your way to the end before you get locked out and you will get the hookshot as a reward then play the song of time to exit through the windmills upper section.
+          </p>
         </ul>
       </details>
     </li>
@@ -180,13 +308,69 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <summary>The Forest Temple</summary>
         <ul>
           <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
-                    alt="T1"
-                    class="guide-art">
-            </figure>
-            <p>
-            Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
-            </p>
+             <img src="{{ '/assets/images/ootn64/FT1.jpg' | relative_url }}"
+                  alt="FT1"
+                  class="guide-art">
+          </figure>
+          <p>
+          Make your way from Kakariko all the way back to the Kokiri Forest and enter the lost woods making your way through, you will eventually encounter Mido who will block your way until you play Saria's song for him to show he shoulf trust you since Saria trusted you enough to teach you her song. Once past him make your way to the Sacred Forest Meadow and sneak your way past the moblins and once up top you will be taught the warp song to come back here using fast travel at any time.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/FT2.jpg' | relative_url }}"
+                  alt="FT2"
+                  class="guide-art">
+          </figure>
+          <p>
+          Hookshot up onto the tree to enter. Climb your way up top in the first room as you need to open the chest to get your first key needed to progress, through this doorway you will meat the poe sisters, four ghosts you have to defeat to gain access to the dungeon boss. For now head straight on and go through the northern door and eventually fight sone stalfos to get another small key. Head back to the main room and from their enter the north western doorway blocked boy a block of time, go right and climb the vines with two skulltulas and you'll be brought into the room with the map.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/FT3.jpg' | relative_url }}"
+                  alt="FT3"
+                  class="guide-art">
+          </figure>
+          <p>
+          From there leave the opposite door and hookshot across the gap to hit a switch lowering well water in the room below you to find another key within. Go back to the main lobby and head through the westernmost door into a room with a block you have to push and pull, continue through this room till you have to unlock a door up top leading you into a twisted hallway.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/FT4.jpg' | relative_url }}"
+                  alt="FT4"
+                  class="guide-art">
+          </figure>
+          <p>
+          Go across to the door across the way and ignore the vanishing pictures of one of the poe sisters for now and in the next room you will encounter one stalfos then two more and once they are defeated you can finally get the bow. Instead of continueing forward double back and you can shoot the first poe sister paintings we first ignored to summon and slay her. Go all the way back through the twisted room and into the block puzzle room to shoot the eye switch above the door to straighten out the room where you can now go back in and jump down to open the gilded chest and get the boss key of the temple, there is a pit behind you so jump down it now. 
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/FT5.jpg' | relative_url }}"
+                  alt="FT5"
+                  class="guide-art">
+          </figure>
+          <p>
+          Defeat two flaming skulls that are called "Bubbles" and go through the unlocked door continueing on to the right where you will enter a room withe giant hand called a "Floormaster", defeat it and grab the small key that spawns after. Make your way back to the block puzzle room and re-shoot the eye to twist the hallway again, and if you havent now defeat the first red poe sister and collect the key that spawns in her room then go through the stalfos miniboss room to find and defeat the blue poe sister and collect the compass that spawns.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/FT6.jpg' | relative_url }}"
+                  alt="FT6"
+                  class="guide-art">
+          </figure>
+          <p>
+          Go through the next door and you will find a similar room to the one prior but this time go down the hallway with the green skull enemies and go into a room with spinning platforms and a frozen eye switch, stand on the spinning platforms and shoot through the fire into the eye switch. Now back track through the room and jump down the pit into the long chessboard like room.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/FT7.jpg' | relative_url }}"
+                  alt="FT7"
+                  class="guide-art">
+          </figure>
+          <p>
+          Make your way through this room until your into the green poe sister room and shoot her painting causing blocks to fall, match the correct blocks up to summon and defeat her. And fianlly returning to the center room to find the purple poe sister and defeat her by shooting the one that spins with your bow before she attacks. 
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/FT8.jpg' | relative_url }}"
+                  alt="FT8"
+                  class="guide-art">
+          </figure>
+          <p>
+          Now decending down the elevator your in a room where you can rotate the walls, simply keep rotating until you hit three switches then proceed into the boss room. The boss of this dungeon is Phantom Ganon, shoot him as he is riding his horse out of the paintings with your bow and sometimes there will be a fake one to throw you off so look out for the one with the lightest mask as he's the one you have to hit. After he gets off of his mount you will basically play tennis with a ball of light back and forth and when his is stunned just slash away till he is defeated. 
+          </p>
         </ul>
       </details>
     </li>
@@ -195,13 +379,85 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <summary>The Fire Temple</summary>
         <ul>
           <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
-                    alt="T1"
-                    class="guide-art">
-            </figure>
-            <p>
-            Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
-            </p>
+             <img src="{{ '/assets/images/ootn64/FI1.jpg' | relative_url }}"
+                  alt="FI1"
+                  class="guide-art">
+          </figure>
+          <p>
+          From finishing forest temple make your way back to the temple of time to talk to sheik again who will teach you a fast travel song to return to here anytime and that you can return the master sword to the pedestal to return to being child Link at any time. Make your way back to the familiar goron city now to find it empty except for a single rolling goron that you need to explode to stop him rolling like the big one when you were a child.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/FI2.jpg' | relative_url }}"
+                  alt="FI2"
+                  class="guide-art">
+          </figure>
+          <p>
+          Once stopped talk to him to obtain the goron tunic allowing you to withstand greater heat, make your way to Darunia's room and pull the big statue where he once stood to reveal a secret way into death mountain crater's lower area. There is a broken bridge ahead of you so hookshot across and Sheik will appear once more teaching you the Bolero of Fire warp song. Now onto one of the more annoying temples in my opinion but definitely not the most annoying The Fire Temple.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/FI3.jpg' | relative_url }}"
+                  alt="FI3"
+                  class="guide-art">
+          </figure>
+          <p>
+          Starting out from the main room go up the stairs and left into a room to see Darunia speak to you and the boss door, go to the left section of this room to release a sealed goron and the chest in his cell will have a small key for you to claim. Go back to the main room and enter the right door this time which will lead you into a more open room with a left, right, and straight path. Go left to see a door which has another trapped goron and small key for you then head to the right side of the room blowing up a fake wall to claim another key. 
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/FI4.jpg' | relative_url }}"
+                  alt="FI4"
+                  class="guide-art">
+          </figure>
+          <p>
+          In the next area after claim both keys and continuing straight you will see a grated wall and a giant flaming pillar. Climb the wall and push a block down onto the flames which you can use as an elevator to launch yourself upward to the next room. In this room climb up the giant steps on the left and eventually push down a block again, follow it down and pull it out so you can climb up higher in the room. Drop a bomb down to hit the crystal switch that will turn off the flames blocking your next path up then climb up into the boulder maze room.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/FI5.jpg' | relative_url }}"
+                  alt="FI5"
+                  class="guide-art">
+          </figure>
+          <p>
+          On the lower levels of this boulder maze there is a key of the left and right walls with two more trapped gorons and two more small keys. On the top half of this room there is a locked door in the center you can enter but be careful as to not fall down and shoot the eye switch in this room to open it up and have a door open which you can go in and get the map for the dungeon. Come back into the room with the thin walkways and exit the right door where you have to run across grates away from a wall of fire toget up to the top of the boulder maze. 
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/FI6.jpg' | relative_url }}"
+                  alt="FI6"
+                  class="guide-art">
+          </figure>
+          <p>
+          Bomb the floor infront of you to drop down getting a shortcut and freeing the goron from earlier along with another small key. Back up in the upper area of the maze room hit the switch and jump your way to the corner to free yet another goron and get yet another small key. Return to the room with the flaming wall that was chasing you and jump up onto the ledge with the locked door.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/FI7.jpg' | relative_url }}"
+                  alt="FI7"
+                  class="guide-art">
+          </figure>
+          <p>
+          You will enter like an arch shaped room and head right first which is eventually a dead end but you find the dungeon compass here, then head right through a short maze and go through the door and straight out the other side. On this side you will need to hit a switch to lower a flaming wall so you can pass by in time. Bomb the fake door ahead of you and you will meet a flare dancer a new miniboss. Use your hookshot while targetting on him to take him out of the flame that it's in and then swing with yuor sword, repeat until dead.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/FI8.jpg' | relative_url }}"
+                  alt="FI8"
+                  class="guide-art">
+          </figure>
+          <p>
+          From there you will get lifted up on the flare dancers platform and brought into a big chamber where you have to drop a bomb down onto a switch like earlier in the dungeon. Then you will climb into an almost circular room, hit the switch near the entrance and you have to carefully make your way up the circular stairs in time to open the chest and get the megaton hammer. Go back down enar where this room began and hammer the weird bit of raised floor with the face on it and follow it down. Hammer the statue out of the doorway and then hammer a stairs down bring one of the boxes from the top to hold the switch down at the bottom to escape.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/FI9.jpg' | relative_url }}"
+                  alt="FI9"
+                  class="guide-art">
+          </figure>
+          <p>
+          Then when you drop down with the next pillar climb up and hit the rusted switch behind you and go through the door that opens up, play the song of time on the upper ledge to move the block across the gap and hit the now uncovered switch to release another goron and small key. Come back out the door you entered from the rusted switch and hammer down the block to be brought back down into the room with the boss door.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/FI10.jpg' | relative_url }}"
+                  alt="FI10"
+                  class="guide-art">
+          </figure>
+          <p>
+          Come out to the main lobby and hammer at the statuette blocking a doorway and continue on through a couple room seven encountering another flare dancer. And eventually the boss key. Then finally go to the boss room to fight Volvagia. This fight is pretty simple, use the hammer on him when he peeks his head out of a pit and then slash at him when hes flying watch out for falling boldours and repeat the cycle over and over.
+          </p>
         </ul>
       </details>
     </li>
@@ -210,13 +466,125 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <summary>The Ice Cavern & Water Temple</summary>
         <ul>
           <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
-                    alt="T1"
-                    class="guide-art">
-            </figure>
-            <p>
-            Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
-            </p>
+             <img src="{{ '/assets/images/ootn64/WA1.jpg' | relative_url }}"
+                  alt="WA1"
+                  class="guide-art">
+          </figure>
+          <p>
+          Next make your way to Zora's Domain where Jabu Jabu way as you can't do anything in the domain proper yet, you will notice the big fish is gone and ice blocks are replacing it. Jump across the ice into an opening in the cliff to enter ice cavern which is mainly straight forward.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/WA2.jpg' | relative_url }}"
+                  alt="WA2"
+                  class="guide-art">
+          </figure>
+          <p>
+          Continue on till you enter a room with a spinning blade of ice and five silver ruppees, collect them all to open the door forward. In this room use a bottle to collect blue fire and use the blue fire on the red ice in the room to open the big chest and obtain this mini dungeon's map.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/WA3.jpg' | relative_url }}"
+                  alt="WA3"
+                  class="guide-art">
+          </figure>
+          <p>
+          Collect more blue fire and exit this room back the way you came and head into the room on your left using the blue fire to find more blue fire and the compass in a chest in that room. Come back out and head directly across to the next exit from the blade room and eventually you will be in a room where you need to push a huge block of ice while collecting silver ruppees to unlock the way forward.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/WA4.jpg' | relative_url }}"
+                  alt="WA4"
+                  class="guide-art">
+          </figure>
+          <p>
+          From there the dungeon doesn't have much left just for you to finish and claim the iron boots as your own. Once free form the dungeon bring a blue fire to King Zora and talk to him to get the zora tunic for free.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/WA5.jpg' | relative_url }}"
+                  alt="WA5"
+                  class="guide-art">
+          </figure>
+          <p>
+          So now for the most annoying hellscape in this entire game, The Water Temple. Play the Serenade of Water that Sheik taught you at the end of Ice Cavern to warp to Lake Hylia and equip the zora tunic and iron boots to sink to the bottom of the mostly drained lake and use the hookshot to open the entrance of the temple. 
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/WA6.jpg' | relative_url }}"
+                  alt="WA6"
+                  class="guide-art">
+          </figure>
+          <p>
+          Now the first place to go is at the very bottom level of the temple through the right hand side of the room with the two troches, you will talk to Ruto then follow her to the top level and go into the room up top and defeat the spike ball enemies within to get the dungeon map. Come back out and play Zelda's Lullaby against the symbol on the wall to lower the water level to it's lowest and jump down the pit you floated up after talking to Ruto. Light the two torches to unlock the room down here and defeat the shell like enemies within to get a small key before returning to the main room. 
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/WA7.jpg' | relative_url }}"
+                  alt="WA7"
+                  class="guide-art">
+          </figure>
+          <p>
+          When you get back to the main room head west where the pushable block is and eventually uou will enter a room with a crystal that raises some water spouts which you have to jump across.Using your iron boots stand on the dragon like statue and hit the crystal with the hookshot and continue into the grate that opened to get another small key. Suprise suprize you have to head back to the main room and enter the central pillar.  
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/WA8.jpg' | relative_url }}"
+                  alt="WA8"
+                  class="guide-art">
+          </figure>
+          <p>
+          Hookshot a bit of the ways up the central pillar to find another triforce symbol to raise the water level midway, though before you leave float down till you go underneath the central pillar to find a bit of a hidden small key I always seem to miss. Now with the water raised to the mid level go through to the eastern room which is the one with two jars next to it. 
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/WA9.jpg' | relative_url }}"
+                  alt="WA9"
+                  class="guide-art">
+          </figure>
+          <p>
+          When there you will need to hookshot up out of the water then over some spikes, shoot the crystal with an arrow to lower the water around the chest and claim the compass as your prize. Go back to the room where we met Ruto and lowered the water for the first time which is the lowest level east entrance and float up in that room to find a cracked wall which you can blow up to get another small key.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/WA10.jpg' | relative_url }}"
+                  alt="WA10"
+                  class="guide-art">
+          </figure>
+          <p>
+          Next back on the mid level of the central room you can go west into a room where you have to get risen up by water by shooting a crystal across form it once above you will find another triforce symbol to raise the water to it's original height. Now for the final stretch on the top most level head west into a long room where you have to use the hookshot over and over to make your way across the gap.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/WA11.jpg' | relative_url }}"
+                  alt="WA11"
+                  class="guide-art">
+          </figure>
+          <p>
+          In the next room you have to use the crystal in the center to bring the water up and down, so that you can make your way across into a room with a tree in the centre and the miniboss of this dungeon Dark Link. If you have Din's fire or the biggoron sword you can spam those to demolish the boss or if you just use the master sword I reccomend slashing without targetting and hoping it works. In the next room you can get the longshot which is basically just and upgraded hookshot, play the song of time to remove the block in the back of the room and drop down this pit. 
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/WA12.jpg' | relative_url }}"
+                  alt="WA12"
+                  class="guide-art">
+          </figure>
+          <p>
+          Next is a long cavern like room where most of the way across you will encounter a golden eye switch which will open up a grate you can hookshot to a chest within containing a small key. From here make your way back to the main room then lower the water back to it's lowest point through the Ruto room and then back in the central pillar make it go to its midpoint.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/WA13.jpg' | relative_url }}"
+                  alt="WA13"
+                  class="guide-art">
+          </figure>
+          <p>
+          Now on the mid height version of the main room you can shoot a golden eye switch on the southern wall and hookshot through making your way into the room with the final small key. Now from the main room head into the bottom levels northern path using your iron boots and hookshot across the spikes. 
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/WA14.jpg' | relative_url }}"
+                  alt="WA14"
+                  class="guide-art">
+          </figure>
+          <p>
+          In the next room make your way across the currents without hitting tektites or boulders. Then you will be in a room with two bombable walls where you have to push a giant block through so that it hits a switch making the water fully rise. Similar to the one early in this temple jump your way across three water pillars, to get to the door on the other side bringing you to the room where the boulders come out head right down with your iron boots to claim the boss key. 
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/WA15.jpg' | relative_url }}"
+                  alt="WA15"
+                  class="guide-art">
+          </figure>
+          <p>
+          Finally back in the main room head to the mid levels west door to raise the temples water one last time and hookshot the dragon statue on the north side of the top floor walk straight without slowing or rolling and you'll eventually dodge the spikes and make it to the boss door. The boss of this dungeon Morpha, when it swings at you dodge and hookshot the red orb of the boss out of the liquid body then attack it. That's really all that their is to it so just rinse and repeat until you beat it and collect the water medillion from Ruto. I strongly reccomend getting fire arrows here by shooting the sun as it's rising as the Lake Hylia warp song takes you basically right next to the podium you have to stand on for it.
+          </p>
         </ul>
       </details>
     </li>
@@ -225,13 +593,101 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <summary>The Bottom Of The Well & Shadow Temple</summary>
         <ul>
           <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
-                    alt="T1"
-                    class="guide-art">
-            </figure>
-            <p>
-            Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
-            </p>
+             <img src="{{ '/assets/images/ootn64/SH1.jpg' | relative_url }}"
+                  alt="SH1"
+                  class="guide-art">
+          </figure>
+          <p>
+          Next make your way back to Kakariko village and you will encounter a cutscene with sheik and a spirit crawling out of the well after which he will tech you the Nocturne of Shadow. Wait before using that we can do a mini dungeon first, go to the windmill and show the ocarina to the music box man and he will teach you the Song of Storms and now finally return to the temple of time to change back to child Link.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/SH2.jpg' | relative_url }}"
+                  alt="SH2"
+                  class="guide-art">
+          </figure>
+          <p>
+          Return to Kakariko and play the Song of Storms for the music box man to make the well drain in the village and dive in to enter the next mini dungeon of the game. Enter the dungeon and pass the normal big skulltula go through the fake wall and you will be in a retangular room with waterways strewn about.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/SH3.jpg' | relative_url }}"
+                  alt="SH3"
+                  class="guide-art">
+          </figure>
+          <p>
+          Follow the waterways till you find a triforce symbol and play zelda's lullaby to lower the water. Next head back to near the start where you entered the room and crawl through the crawlspace down in a small pit and you will encounter Dead Hand in the next room this dungeons boss, let the grounded hands grab you and he will come up from the floor to try and bite you, when he lowers his head swing at him to damage him. Once defeated a chest spawns which has the lens of truth allowing you to see through fake walls and pits. 
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/SH4.jpg' | relative_url }}"
+                  alt="SH4"
+                  class="guide-art">
+          </figure>
+          <p>
+          The rest of this dungeon doesn't have much but if you want the map, it's in the lowest path when you are in the underground section. The compass is in the bottom left room in the central hidden area which you have to enter through a fake wall from the outside hallway. Small keys are in a left hand coffin room in  the dungeon as well as two in small rooms near the front of the hallway.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/SH5.jpg' | relative_url }}"
+                  alt="SH5"
+                  class="guide-art">
+          </figure>
+          <p>
+          Now! We can return to an adult and play the Nocturne of Shadown and use Din's fire to enter the shadow temple through the sealed door in the graveyard. Immediately there is a long pit to hookshot across, do that and you'll be in a room with a puzzle where you have to turn the dial to face the right podium with a skull on it that you can see with the lens of truth, but first head through the skull designed wall on the same wall you entered this room. You will enter a square shaped room with two other exits the first hidden one on the right housing the map of the temple and the one forward leading to another square room with an exit to a slightly harder Dead Hand fight which will give you the item of the dungeon the Hover Boots. Now with the hover boots equipped, move the skull puzzle in the earlier room to unlock the grate forward and hover across the gap to go into the next room with a beamos and three pathways forward, left, and right.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/SH6.jpg' | relative_url }}"
+                  alt="SH6"
+                  class="guide-art">
+          </figure>
+          <p>
+          Head right first to get the compass from that room then head to the left path and collect the silver ruppees in the room to get a small key needed to progress. Bomb the forward wall in the beamos room to progress through a long winding room with a lot of skulltula's until you get into a big cavern like room with guillotines falling.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/SH7.jpg' | relative_url }}"
+                  alt="SH7"
+                  class="guide-art">
+          </figure>
+          <p>
+          Pass the blades and when you are on the stalfos platform the invisible left path has a gold skulltula but that's it. The right path is where we have to go, gather the silver ruppees on the big platform and make your way into the room that opens with two big dropping spikes. Pull a block out of a fake wall and drag it with you to stop the platforms from slamming down on you and till the end until you can jump on it to get to the upper platfroms. Use a switch to drop a chest down that contains a small key before returning to the main big room.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/SH8.jpg' | relative_url }}"
+                  alt="SH8"
+                  class="guide-art">
+          </figure>
+          <p>
+          When your back on the left across a big pit you will see a doorway, and if you use the lens of truth you will see platforms moving back and forth that you can use to get across and when you do you enter another room with silver ruppees. Collect the five silver ruppees and go through the room that opens where you can throw a bomb into the blue skull lantern to get a small key and return to the previous room and go up to the locked door using the hookshot on an invisible latch point on the ceiling.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/SH9.jpg' | relative_url }}"
+                  alt="SH9"
+                  class="guide-art">
+          </figure>
+          <p>
+          It will lead you into a hallway with a lot of fans you have to work your way through before being let into a long room with a door at the end which isn't important and if you use lens of truth you will see there is a fake wall that the third fan can blow you through, in that room there is a chest with bombs that spawns when you kill the gibdos and if you have the compass there is another chest under a pile in the corner containing a small key. 
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/SH10.jpg' | relative_url }}"
+                  alt="SH10"
+                  class="guide-art">
+          </figure>
+          <p>
+          In the next room with the giant boat you have to pull the block so that you can climb the ladder to get onto the ship, play Zelda's lullaby to make the ship move where you'll have to fight some stalfos before you can jump down to the left and while you could go across the other side using the bombs to lower the statue instead enter the room on this side of the valley to enter a room with an invisible maze with three other doors.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/SH11.jpg' | relative_url }}"
+                  alt="SH11"
+                  class="guide-art">
+          </figure>
+          <p>
+          The first room you should go into has a floormaster like in forest temple with an "X" shaped wooden bars which when you kill it spawns a chest with a small key within. The next room with the three bombable skull jars isn't important but the final room with two wooden walls closing in on you is so use din's fire and take the boss key that's behind the right wall and make your way back to the big room with the ship. 
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/SH12.jpg' | relative_url }}"
+                  alt="SH12"
+                  class="guide-art">
+          </figure>
+          <p>
+          From there blow up the bombs across the way to knock over a pillar so you can get across and go through the door, from there make your way across the invisible pit and enter the boss room where you fight Bongo Bongo. This fight is pretty simple you shoot each hand with a bow to stun it bolue then bongo bongo will lower it's head to charge at you so shoot one more arrow into the eye which is between both hands when he is rushing at you to stun him then attack him over and over and that's basically it and once your done you are done the second last temple and claim the shadow medallion as your own. 
+          </p>
         </ul>
       </details>
     </li>
@@ -240,13 +696,77 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <summary>The Spirit Temple</summary>
         <ul>
           <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
-                    alt="T1"
-                    class="guide-art">
-            </figure>
-            <p>
-            Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
-            </p>
+             <img src="{{ '/assets/images/ootn64/SP1.jpg' | relative_url }}"
+                  alt="SP1"
+                  class="guide-art">
+          </figure>
+          <p>
+          Next in Hyrule Field go to gerudo valley on the west and use the longshot to get across the gap. The capenter leader asks you to go and rescue his men who are trapped in the fortress just ahead. When in the fortress you will find four carpenters hidden around the multiple hallways which you have to defeat the person guarding them to let them out after freeing them all the leader of the fortress will appear and give you a membership card so you can now freely explore without being captured. The Gerudo Training Grounds mini dungeon is currently available but completely optional and you need the item from the spirit temple to complete it.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/SP2.jpg' | relative_url }}"
+                  alt="SP2"
+                  class="guide-art">
+          </figure>
+          <p>
+          So now head out of the fortress towards the desert and hookshot across to the crates to begin yout journey through the desert, for the first half follow the wooden poles with flags on them until you get to a building in the center of the desert. Go to the top of this building and use the lens of truth and a friendly poe will spawn to guide you through the second half of the desert so just follow it and you will get to the Desert Collosus home to the final main dungeon of the game. Now this temple is a bit special as when you enter you can't do anything so leave and you will be taught the warp song of the area by sheik and you have to come back as a child to do the first half of the dungeon.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/SP3.jpg' | relative_url }}"
+                  alt="SP3"
+                  class="guide-art">
+          </figure>
+          <p>
+          So return as child Link and enter the dungeon to go through the crawl space after talking to the gerudo woman looking through it. There will be three doorways that you can go through in this room take the left path first to fight a stalfos before using your boomerang to arch around the upright bridge to hit the crystal lowering the bridge for you to get across, head through the next room to fight an anubis where you have to guide it into the flame you spawn as it mirrors your movements. In this next room you need to collect five silver ruppees to lower the bridge so you can grab some fire and bring it to the torches on the side you entered to spawn a chest containing a small key.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/SP4.jpg' | relative_url }}"
+                  alt="SP4"
+                  class="guide-art">
+          </figure>
+          <p>
+          Go back to the center crawl space to use your small key and climb up the long wall to get to a room where two lizalfos spawn, deal with them and slingshot a crystal on the wall to spawn a chest containing bombchu's. Collect them and use them to blow up the rocks blocking the sunlight in the wall opposing the door, next you enter a room with a giant snake statue, as soon as you enter push the armos next to you down so it holds down a switch and go to the top of the stairs to enter the newly opened room. This next room has a couple of puzzles actually, firstly destroy the three beamos in the room and collect the silver ruppees to make the torch light, then carry the flame to the other torches in the room to spawn a small key and then drag some blocks into the sun to open the way forward. Continueing on you will find the boss of the child portion of the dungeon an Iron Knuckle, which is actually one of my favourite enemies in all of Zelda. Just bait it into attacking and retaliate till it's defeated and continue through the room behind it to get the silver gauntlets and finish the child Link section of the dungeon so change back to adult Link and teturn here to the main lobby.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/SP5.jpg' | relative_url }}"
+                  alt="SP5"
+                  class="guide-art">
+          </figure>
+          <p>
+          Now entering the dungeon as adult Link head to the right and push the giant block with the newly aquired silver gauntlets, you will be in a very similar hallway as before with the three different paths. First go left to get the compass after defeating a wolfos and playing Zelda's lullaby on the triforce symbol. Then the right pathway you will need to collect five silver ruppees while dodging some boulders to get a small key from the next room, next go back and head through the forward path. 
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/SP6.jpg' | relative_url }}"
+                  alt="SP6"
+                  class="guide-art">
+          </figure>
+          <p>
+          Be careful of the Like Like and climb the wall at the end of the room, rotate the snake mirror and the third symbol will unlock the door forward the first two chests that spawn dont matter at all. You now find yourself back in the room with the giant statue and this time drop to the lowest level where you can light the two torches to spawn the dungeon map and then use hover boots while higher up to float onto the statueas left hand to play Zelda's Lullaby which will spawn a chest on it's right hand which holds a small key. If you go up the top of the adult side staircase you can see a chest and rusted switch you can hookshot too which isn't important but the switch unlocks the lower center door for this room which you can use to unlock a shortcut but isn't required. 
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/SP7.jpg' | relative_url }}"
+                  alt="SP7"
+                  class="guide-art">
+          </figure>
+          <p>
+          Now go up the top of the stairs and enter the winding hallway to continue and then into a room where you have to kill 3 anubis in a similar fashion to before or use din's fire in order to continue, in the next room stand near the locked door that isn't near the sun and shoot the farthest armos so it quickly steps on the switch temporarily opening the door behind you. You will come across another Iron Knuckle boss room where after you will find a treasure chest containing the mirror shield dungeon item. Head back to the room with the armos and sunlight and use the mirror shield to reflect it into the sunlight switch and get a small key in the next room. 
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/SP8.jpg' | relative_url }}"
+                  alt="SP8"
+                  class="guide-art">
+          </figure>
+          <p>
+          Go back to the anubis room from here and enter the other locked door and climb this really annoying wall puzzle and you can immediately play Zelda's Lullaby on the triforce symbol through the door up top. Inside that triforce room you will see many fire slugs and doors all fake, kill the fire slugs and blow up the door right on the left of the fire wall chest then you can hookshot to the upper platforms to hit a switch and open the boss key chest.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/SP9.jpg' | relative_url }}"
+                  alt="SP9"
+                  class="guide-art">
+          </figure>
+          <p>
+          In the next room you have to hit a crystal through the bars to proceed forward then guide the light back through the hallways till it ends up in the start of this room  and jump down onto the platform with chains and direct the light onto the sun symbol next to you. The platform will lower and you have to shine the light on the statues face then hookshot in, you will enter the boss room and fight one final iron knuckle in this dungeon before proceeding into the real boss Twinrova. In this first phase you have to reflect the ice magic if its shot at the fire sister and vice versa till they morph into one and phase transition, in phase two you have to collect three shots of the same element in a row in the mirror shield and use it to stun them giving you oppurtunity to attack. Once you rinse and repeat that's the fight. You have finally beaten all the dungeons, now with silver gauntlets in hand you can do the Gerudo Training grounds in the fortress for ice arrows but it is not needed. But if you do basically there is puzzles on the left and right path where you get many small keys for you to use them all on the forward path so do the side paths first.
+          </p>
         </ul>
       </details>
     </li>
@@ -255,13 +775,80 @@ This Guide will cover anything you need to do to 100% the game. I will go over p
         <summary>The Grand Finale</summary>
         <ul>
           <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
-                    alt="T1"
-                    class="guide-art">
-            </figure>
-            <p>
-            Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
-            </p>
+             <img src="{{ '/assets/images/ootn64/G1.jpg' | relative_url }}"
+                  alt="G1"
+                  class="guide-art">
+          </figure>
+          <p>
+          Once more head to the temple of time where Sheik will reveal himself to be Zelda in disguise hidden from ganondorf this whole time while doing her best to aid you and give you the light arrows. Zelda will get captured and make your way to where Hyrule Castle was to find Ganon's tower, when you make your way inside you will be in a big room where six doors have medallions above them and you need to do all six to break the barrier surrounding the central pillar. I'd reccomend doing the shadow trial first because of an item you get here you need for others.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/G2.jpg' | relative_url }}"
+                  alt="G2"
+                  class="guide-art">
+          </figure>
+          <p>
+          Firstly when entering shoot the torch on your right and make your way across the platforms to the centre one but be cautious of the like like. Get to the switch a little lower on the right to spawn a big chest where the like like was to spawn the chest with the golden gauntlets upgrade, hit the rusty switch on the left hand side of the like like platform to make it to the end and shoot the barrier orb with a light arrow.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/G3.jpg' | relative_url }}"
+                  alt="G3"
+                  class="guide-art">
+          </figure>
+          <p>
+          Next you can do them in any order but let's go clockwise so next is the water and ice trial	so you go in to collect some blue fire and kill the enemies in here to open the door forward, you need to move a block in here on a time to melt some ice and unlock the way forward with a switch and finally destroy the water barrier. 
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/G4.jpg' | relative_url }}"
+                  alt="G4"
+                  class="guide-art">
+          </figure>
+          <p>
+          Next the forest trial which is decently easy you have to use din's fire and fire arrows to light all torches in the room to continue forward, the next room you just have to collect the silver ruppees to get to the final room to destroy the forest barrier.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/G5.jpg' | relative_url }}"
+                  alt="G5"
+                  class="guide-art">
+          </figure>
+          <p>
+          The spirit trial is next where you have to collect the silver ruppees in the first room and then bombchus in the second room as well as a sun puzzle where you have to light up the sun face left of the archway you entered and finally break the spirit barrier.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/G6.jpg' | relative_url }}"
+                  alt="G6"
+                  class="guide-art">
+          </figure>
+          <p>
+          The light barrier is next and you have to use the gold gauntlets to lift the huge pillar blocking it, kill all enemies in the first room for a chest containing a small key to drop and the other chests aren't really important, next room you just need to play Zelda's lullaby to get a small key and continue and finally you need to collect silver ruppees in this small boulder room before clearing the trial.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/G7.jpg' | relative_url }}"
+                  alt="G7"
+                  class="guide-art">
+          </figure>
+          <p>
+          Finally the fire trial has only one room where you need to collect five silver ruppees and is really easy if you wear hover boots so do that and finish the trial and we can fianlly accend the central tower.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/G8.jpg' | relative_url }}"
+                  alt="G8"
+                  class="guide-art">
+          </figure>
+          <p>
+          Fistly you will fight two dinolfos which are needed to open the way forward, before leading you to a room with some stalfos and the boss key, then a more fitting fight against two iron knuckes and finally the boss door awaits you. This first phase isn't too bad it's similar to the phantom ganon fight from the forest temple where you need to play tennis with the ball of magic until it hits him but instead of it fully stunning him you then have to use the bow of light on him to stun him properly and just repeat until dead. With Ganondorf's power gone the castle starts to crumble so you go with Zelda in an escape sequence down the castke which isn't too hard and when you finally reach the bottom you start the final confrontation with Ganon.
+          </p>
+          <figure class="image-block">
+             <img src="{{ '/assets/images/ootn64/G9.jpg' | relative_url }}"
+                  alt="G9"
+                  class="guide-art">
+          </figure>
+          <p>
+          For this first phase you don't have the master sword so run up to him and roll through his legs and attack his tail with either the megaton hammer or biggoron sword and rinse and repeat until he falls to the ground giving you time to go grab the master sword before rushing back into the fight. Now with master sword in hand you HAVE to use this to kill him as the biggoron sword does not deal the final blow, just rinse and repeat through his legs slashing his tail until Zelda uses her powers to stun him and you can deal the final blow. 
+          </p>
+          <p>
+            Congratulations you have beaten The Legend Of Zelda: Ocarina Of Time
+          </p>
         </ul>
       </details>
     </li>
