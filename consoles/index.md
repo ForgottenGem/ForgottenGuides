@@ -18,6 +18,13 @@ title: Consoles
             </a>
           </li>
         </ul>
+        <ul>
+          <li>
+            <a class="button-link" href="{{ '/switch2/' | relative_url }}">
+              Switch 2
+            </a>
+          </li>
+        </ul>
       </details>
     </li>
     <li>
