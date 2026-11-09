@@ -21,7 +21,7 @@ title: Ocarina of Time (2026)
 </figure>
 
 
-Released: 5/Nov/2020 Worldwide
+Released: 5/Nov/2026 Worldwide
 
 Genre: Action-Adventure
 
