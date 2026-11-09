@@ -13,7 +13,7 @@ title: Ocarina of Time (2026)
 
 
 <figure class="image-block">
-  <img src="{{ '/assets/images/oot2026/maincover.jpg' | relative_url }}"
+  <img src="{{ '/assets/images/oot2026/box art.png' | relative_url }}"
        alt="oot2026"
        class="box-art">
 
