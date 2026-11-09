@@ -36,7 +36,7 @@ This is where you will find all the Switch 2 games I have currently made guides 
 
 ## Games
 
-<a class="button-link" href="{{ '/n64/oot/' | relative_url }}">
-  temp
+<a class="button-link" href="{{ '/switch2/oot/' | relative_url }}">
+  The Legend Of Zelda: Ocarina Of Time (2026)
 </a>
 
