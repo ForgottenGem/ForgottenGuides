@@ -4,16 +4,16 @@ title: 100% Guide
 ---
 
 <nav class="breadcrumbs" aria-label="Breadcrumb">
-  <a href="{{ '/n64/' | relative_url }}">Nintendo 64</a>
+  <a href="{{ '/switch2/' | relative_url }}">Switch 2</a>
   <span>/</span>
-  <a href="{{ '/n64/oot/' | relative_url }}">Ocarina of Time</a>
+  <a href="{{ '/switch2/oot/' | relative_url }}">Ocarina of Time (2026)</a>
   <span>/</span>
   <span class="current">100% Guide</span>
 </nav>
 
-# The Legend Of Zelda: Ocarina Of Time - 100% Guide
+# The Legend Of Zelda: Ocarina Of Time (2026) - 100% Guide
 
-This Guide will cover anything you need to do to 100% the game. I will go over progression and flag anything if it is missable otherwise the guide will follow this format: Progression, upgrades, and collectibles.
+This Guide will cover anything you need to do to 100% the game. I will go over similar stuff as the original Zelda OOT guide only now changed to suit the new remake.
 
 ## 100% Entails
 
