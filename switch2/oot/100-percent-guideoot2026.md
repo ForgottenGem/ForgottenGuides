@@ -13,7 +13,7 @@ title: 100% Guide
 
 # The Legend Of Zelda: Ocarina Of Time (2026) - 100% Guide
 
-This Guide will cover anything you need to do to 100% the game. I will go over similar stuff as the original Zelda OOT guide only now changed to suit the new remake.
+This Guide will cover anything you need to do to 100% the game. I will go over similar stuff as the original Zelda OOT guide only now changed to suit the new remake. As well as showing all listings in the Hall of Fallen Foes.
 
 ## 100% Entails
 
@@ -21,6 +21,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
 - Get All Weapons/Ability Upgrades/Items
 - All Heart Pieces
 - All Golden Skulltulas
+- Completing The Hall Of Fallen Foes
 
 <details class="console-guide-section">
   <summary>Progression</summary>
@@ -35,7 +36,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Wake up and start the game before going into a maze through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
+          Wake up and start the game before going outside and talking to Saria then go into a maze on your left through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/T2.jpg' | relative_url }}"
@@ -43,7 +44,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          When inside the Deku Tree make your way up one layer and you'll see a big chest which stores the map and then continue across till you find a door with a deku scrub inside after deflecting its shot with your new shield enter he next room to get the fairy slingshot.
+          When inside the Deku Tree make your way up one layer and you'll see a big chest which stores the map and then continue across till you find a door with a deku scrub inside after deflecting its shot with your new shield enter he next room to get the fairy slingshot then shoot the eye switch to leave.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/T3.jpg' | relative_url }}"
@@ -51,7 +52,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Go back out and climb even higher to the top layer of the tree entering a room where youll get your compass from a big chest, light a torch with a deku stick to leave the room then jump off from the top to break the webbing blocking the bottom floors.
+          Go back out and climb even higher to the top layer of the tree entering a room where you'll get your compass from a big chest, feel free to grab the skulltula though there will be a section for skulltula tokens down below, then jump off from the top to break the webbing blocking the bottom floors.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/T4.jpg' | relative_url }}"
@@ -59,7 +60,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Burn the webs blocking a door the defeat the deku scrub within to learn the code 2.3.1 before shooting the eye above the door to continue, in the next room youll need to lower the water by diving to a switch then use the platform to go under the spike.
+          Burn the webs blocking a door using the torch across the room, then defeat the deku scrub within to learn the code 2.3.1 before shooting the eye above the door to continue, in the next room youll need to lower the water by diving to a switch then use the platform to go under the spike and you'll come into a small room where you have to light 3 unlit torches.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/T5.jpg' | relative_url }}"
@@ -67,7 +68,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Avoiding the center of the next room so enemies dont drop on you circle around the wall and burn the webbing covering a crawlspace to then push a block down in the next room as a form of shortcut using the torch from earlier light a stick on fire and quickly jump back across the shortcut block then roll on the webbed floor with the fiery stick to drop down.
+          Enemies will drop on you so you have to grab the torch and burn the webbing covering a crawlspace to then push a block down in the next room as a form of shortcut using the torch from earlier light a stick on fire and quickly jump back across the shortcut block then roll on the webbed floor with the fiery stick to drop down.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/T6.jpg' | relative_url }}"
@@ -75,7 +76,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          From there reflect the deku nuts back in the order 2.3.1 to gain access to your first boss Queen Gohma. Shoot her with your slingshot when her eye is red to stun her and slash away that's all there is to it.
+          From there reflect the deku nuts back in the order 2.3.1 to gain access to your first boss Queen Gohma. Shoot her with your slingshot in her eye to stun her and slash away that's all there is to it. Claim your first Heart Container & leave to obtain the Kokiri Emerald.
           </p>
         </ul>
       </details>
