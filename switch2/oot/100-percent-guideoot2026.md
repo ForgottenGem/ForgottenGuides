@@ -469,7 +469,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Continue on till you enter a room with a spinning blade of ice and five silver tokens, collect them all to open the door forward. In this room use a bottle to collect blue fire and use the blue fire on the red ice in the room to open the big chest and obtain this mini dungeon's map.
+          Go and defeat the 3 Freezards in the first room then continue on till you enter a room with a spinning blade of ice and five silver tokens, collect them all to open the door forward. In this room use a bottle to collect blue fire and use the blue fire on the red ice in the room to open the big chest and obtain this mini dungeon's map.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/WA3.jpg' | relative_url }}"
@@ -477,7 +477,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Collect more blue fire and exit this room back the way you came and head into the room on your left using the blue fire to find more blue fire and the compass in a chest in that room. Come back out and head directly across to the next exit from the blade room and eventually you will be in a room where you need to push a huge block of ice while collecting silver ruppees to unlock the way forward.
+          Collect more blue fire and exit this room back the way you came and head into the room on your left using the blue fire to find more blue fire and the compass in a chest in that room. Come back out and head directly across to the next exit from the blade room and eventually you will be in a room where you need to push a huge block of ice while collecting silver tokens to unlock the way forward.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/WA4.jpg' | relative_url }}"
@@ -485,7 +485,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          From there the dungeon doesn't have much left just for you to finish and claim the iron boots as your own. Once free form the dungeon bring a blue fire to King Zora and talk to him to get the zora tunic for free.
+          From there the dungeon doesn't have much left just for you to finish and claim the iron boots as your own. Once free from the dungeon bring a blue fire before leaving to King Zora and talk to him to get the zora tunic for free.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/WA5.jpg' | relative_url }}"
@@ -493,7 +493,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          So now for the most annoying hellscape in this entire game, The Water Temple. Play the Serenade of Water that Sheik taught you at the end of Ice Cavern to warp to Lake Hylia and equip the zora tunic and iron boots to sink to the bottom of the mostly drained lake and use the hookshot to open the entrance of the temple. 
+          So now for the most annoying hellscape in this entire game is what I would say if the Remake didn't help it a TON, The Water Temple. Play the Serenade of Water that Sheik taught you at the end of Ice Cavern to warp to Lake Hylia and equip the zora tunic and iron boots to sink to the bottom of the mostly drained lake and use the hookshot to open the entrance of the temple. 
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/WA6.jpg' | relative_url }}"
@@ -501,7 +501,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Now the first place to go is at the very bottom level of the temple through the right hand side of the room with the two troches, you will talk to Ruto then follow her to the top level and go into the room up top and defeat the spike ball enemies within to get the dungeon map. Come back out and play Zelda's Lullaby against the symbol on the wall to lower the water level to it's lowest and jump down the pit you floated up after talking to Ruto. Light the two torches to unlock the room down here and defeat the shell like enemies within to get a small key before returning to the main room. 
+          Now the first place to go is at the very bottom level of the temple through the right hand side of the room with the blue lights on the outside and two torches inside, you will talk to Ruto then follow her to the top level to get the dungeon map. And play Zelda's Lullaby against the symbol on the wall to lower the water level to it's lowest and jump down the pit you floated up after talking to Ruto. Light the two torches to unlock the room down here and defeat the spiked enemies within to get a small key before returning to the main room. 
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/WA7.jpg' | relative_url }}"
@@ -509,7 +509,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          When you get back to the main room head west where the pushable block is and eventually uou will enter a room with a crystal that raises some water spouts which you have to jump across.Using your iron boots stand on the dragon like statue and hit the crystal with the hookshot and continue into the grate that opened to get another small key. Suprise suprize you have to head back to the main room and enter the central pillar.  
+          When you get back to the main room head right across where the push-able block is and you will enter a room with a crystal in a whirlpool in the water. Shoot the crystal and float through to the upper ledge to get a small key. You have to now head back to the main room and enter the central pillar.  
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/WA8.jpg' | relative_url }}"
@@ -517,15 +517,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Hookshot a bit of the ways up the central pillar to find another triforce symbol to raise the water level midway, though before you leave float down till you go underneath the central pillar to find a bit of a hidden small key I always seem to miss. Now with the water raised to the mid level go through to the eastern room which is the one with two jars next to it. 
-          </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/WA9.jpg' | relative_url }}"
-                  alt="WA9"
-                  class="guide-art">
-          </figure>
-          <p>
-          When there you will need to hookshot up out of the water then over some spikes, shoot the crystal with an arrow to lower the water around the chest and claim the compass as your prize. Go back to the room where we met Ruto and lowered the water for the first time which is the lowest level east entrance and float up in that room to find a cracked wall which you can blow up to get another small key.
+          Hookshot a bit of the ways up the central pillar to find another triforce symbol to raise the water level midway, though before you leave float down till you go underneath the central pillar to find a bit of a hidden red ruppee if you want to. Now with the water raised to the mid level go through to the  room with the bombable wall and two jars next to it, in the next room raise and lower the water to claim a small key.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/WA10.jpg' | relative_url }}"
@@ -533,7 +525,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Next back on the mid level of the central room you can go west into a room where you have to get risen up by water by shooting a crystal across form it once above you will find another triforce symbol to raise the water to it's original height. Now for the final stretch on the top most level head west into a long room where you have to use the hookshot over and over to make your way across the gap.
+          Next back on the mid level of the central room you can go into the door bordered with red lights and raise yourself up the waterspout to find another triforce symbol to return the water to it's original height. Now for the final stretch on the top most level head into the only locked room where you have to use the hookshot to get you up each platform.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/WA11.jpg' | relative_url }}"
@@ -541,7 +533,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          In the next room you have to use the crystal in the center to bring the water up and down, so that you can make your way across into a room with a tree in the centre and the miniboss of this dungeon Dark Link. If you have Din's fire or the biggoron sword you can spam those to demolish the boss or if you just use the master sword I reccomend slashing without targetting and hoping it works. In the next room you can get the longshot which is basically just and upgraded hookshot, play the song of time to remove the block in the back of the room and drop down this pit. 
+          In the next room you have to use the crystal in the center to bring the water up and down, so that you can make your way across into a room with a tree in the centre and the miniboss of this dungeon Dark Link. Fight well and wait for him to give you an opening by dodging side to side then I usually jump slash and thrust twice. In the next room you can get the longshot which is basically just and upgraded hookshot, hookshot up to the top of this room and you'll end up in a cavern like area. 
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/WA12.jpg' | relative_url }}"
@@ -549,7 +541,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Next is a long cavern like room where most of the way across you will encounter a golden eye switch which will open up a grate you can hookshot to a chest within containing a small key. From here make your way back to the main room then lower the water back to it's lowest point through the Ruto room and then back in the central pillar make it go to its midpoint.
+          Near the end of the cavern will be an eye switch, just hit it and hookshot through to return back to the central room down the bottom floor head into the southern room and hookshot across to a chest all the way at the end of the room for the compass then return to the main room and set it back to medium water level using the blue then green doorways to do so.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/WA13.jpg' | relative_url }}"
@@ -557,7 +549,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Now on the mid height version of the main room you can shoot a golden eye switch on the southern wall and hookshot through making your way into the room with the final small key. Now from the main room head into the bottom levels northern path using your iron boots and hookshot across the spikes. 
+          Now on the mid height version of the main room you can shoot a eye switch on the and hookshot through into the room then figure out the block puzzle and get the final small key. Now from the main room head into the bottom levels northern path right below the room you were just in. 
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/WA14.jpg' | relative_url }}"
@@ -565,7 +557,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          In the next room make your way across the currents without hitting tektites or boulders. Then you will be in a room with two bombable walls where you have to push a giant block through so that it hits a switch making the water fully rise. Similar to the one early in this temple jump your way across three water pillars, to get to the door on the other side bringing you to the room where the boulders come out head right down with your iron boots to claim the boss key. 
+          In the next room make your way across the currents without hitting tektites or boulders. Then you will be in a room with three bombable walls where you have to pull a giant block slightly out of the middle path then using one of the other two push it fully into the water to make your way into the next room once the water rises. Jump your way across three water pillars, to get to the door on the other side bringing you to the room where the boulders come out head left to claim the boss key. 
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/WA15.jpg' | relative_url }}"
@@ -573,7 +565,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Finally back in the main room head to the mid levels west door to raise the temples water one last time and hookshot the dragon statue on the north side of the top floor walk straight without slowing or rolling and you'll eventually dodge the spikes and make it to the boss door. The boss of this dungeon Morpha, when it swings at you dodge and hookshot the red orb of the boss out of the liquid body then attack it. That's really all that their is to it so just rinse and repeat until you beat it and collect the water medillion from Ruto. I strongly reccomend getting fire arrows here by shooting the sun as it's rising as the Lake Hylia warp song takes you basically right next to the podium you have to stand on for it.
+          Finally back in the main room head to the mid level door with the red borders to raise the temples water one last time and hookshot the dragon statue on the north side of the top floor, use iron boots to walk and roll up the slope and make it to the boss door. The boss of this dungeon Morpha, when it swings at you dodge and hookshot the orb of the boss out of the liquid body then attack it. That's really all that their is to it so just rinse and repeat until you beat it and collect the water medallion from Ruto. I strongly reccomend getting fire arrows here by shooting the sun as it's rising as the Lake Hylia warp song takes you basically right next to the podium you have to stand on for it.
           </p>
         </ul>
       </details>
