@@ -288,7 +288,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Make your way to the graveyard in Kakariko town and there will be a new grave on the very left which will have a grotto underneath when you pull it. Down there you will find a ghost version of Dampe the grave keeper, race your way to the end before you get locked out and you will get the hookshot as a reward then play the song of time to exit through the windmills upper section.
+          Make your way to the graveyard in Kakariko town and there will be a new grave on the very left which will have a grotto underneath when you pull it. Down there you will find a ghost version of Dampe the grave keeper, make your way to the end by following Dampe and you will get the hookshot as a reward then exit through the upper section with the Hookshot upper section.
           </p>
         </ul>
       </details>
