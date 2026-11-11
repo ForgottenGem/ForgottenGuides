@@ -204,20 +204,12 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
           Back outside Dodongo's Cavern I recommend going up the mountain rather than down as when your just past the city you'll notice some rocks that you can blow up to go further up the mountain with your new bomb bag and when your all the way up blow the bombable wall to get into a Great Fairy Fountain where when you play Zelda's lullaby on the Triforce symbol you'll get the magic meter and Din's Fire.
           </p>
           <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/Z2.jpg' | relative_url }}"
-                  alt="Z2"
-                  class="guide-art">
-          </figure>
-          <p>
-          Then trek your way back down the mountain into Kakariko then out of Kakariko and head back to Hyrule Castle where you snuck past the guards and then this time go a little to the right to blow up a boulder blocking another fairy fountain this time granting you the Din's fire spell which we will use much later.
-          </p>
-          <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/Z3.jpg' | relative_url }}"
                   alt="Z3"
                   class="guide-art">
           </figure>
           <p>
-          After that head back out of the castle and go to the entrance to the right of Kakariko to get into Zora's River, blow up the boulder blocking your way and you'll see a chicken and a bean salesman, eventually you'll have to buy beans which you can do now though they aren't cheap you can farm money by jumping off the Hyrule Castle chains in Hyrule field as long as its day. From there pick up the chicken and start to follow the river upwards until you come across a waterfall with a Triforce symbol infront of it then play Zelda's lullaby and the waterfall will open and let you in.
+          After that head back out of Death Mountain & Kakariko and go to the entrance to the right of Kakariko to get into Zora's River, blow up the boulder blocking your way and you'll see a bean salesman, eventually you'll have to buy beans which you can do now though they aren't cheap. From there start to follow the river upwards until you come across a waterfall with a Triforce symbol infront of it then play Zelda's lullaby and the waterfall will open and let you in.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/Z4.jpg' | relative_url }}"
@@ -225,7 +217,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Once in Zora's domain proper your first thing you should do is go up till you see the King Zora and go left into a cavern sorta thing and talk to the zora up top who will drop ruppees down for you to gather when you do go back to him for your prize The Silver Scale allowing you to dive deeper than before. From here dive back down the waterfall and you'll see an opening deep in the water, dive down and go through you will end up in Lake Hylia and not too far infront of you you'll see a bottle letting out some bubbles in the water, dive down and collect the bottle with a letter in it return to King Zora and show him the letter where he will then "mweeep" out of the way for you to get by, before going past him go back down into the shallow water in the domain and pick up some fish with that handy dandy bottle you now have then go back up past the King.
+          Once in Zora's domain proper your first thing you should do is go up till you see the King Zora and go left into a cavern sorta thing and talk to the zora up top who will drop scales down for you to gather when you do you'll be sent back to him for your prize The Silver Scale allowing you to dive deeper than before. From here dive back down the waterfall and you'll see an opening deep in the water, dive down and go through you will end up in Lake Hylia and not too far infront of you you'll see a bottle letting out some bubbles in the water, dive down and collect the bottle with a letter in it return to King Zora and show him the letter where he will then "mweeep" out of the way for you to get by, before going past him go back down into the shallow water in the domain and pick up some fish with that handy dandy bottle you now have then go back up past the King.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/Z5.jpg' | relative_url }}"
@@ -241,7 +233,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Where after talking to her again she'll give you the honour of carrying her around, go in the door next to you and youll come to a room with a pit, throw Ruto up the opposite ledge before hitting the switch then hit the switch letting the water raise and follow her up where you can actually throw her into the next dangly yellow switch to activate it. From that room dodge or kill the octorok till the lift comes down then jump on with Ruto to continue your journey. 
+          Where after talking to her again she'll give you the honour of carrying her around, go in the door next to you and you'll come to a room with a pit, throw Ruto up the opposite ledge before hitting the switch letting the water raise and get the big chest on the left for the map. Then follow her up where you can actually throw her into the next dangly yellow switch to activate it. From that room dodge the octorok and hit the dangly switch till the lift comes down then jump on with Ruto to continue your journey. 
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/Z7.jpg' | relative_url }}"
@@ -249,7 +241,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Going past the room where she first fell down you'll come to an intersection which ends up being 5 different paths so take a right and go in the right most door to get the boomerang the item of this dungeon. From there come all the way back and head into the left most room and use the boomerang to defeat the parasite tentacle thing and get the dungeon map,then you can come out to the room directly on your left and get the compass. From there go back to the start of the room go the  right path towards where you got the boomerang then go into the other door to defeat another tentacle, then finally go into the center room on the split path to kill one final tentacle. Then go back to the room Ruto fell down and youll notice the path that was blocked by a tentacle is now unblocked so dive straight down the hole.
+          Going past the room where she first fell down you'll come to along room which ends up being 5 different paths so take a left and go into the first door to defeat four fish and obtain the boomerang, then go forward and put Ruto onto the button to head into the right side door and use the boomerang to defeat the parasitic tentacle within, with that dead head the left path to face another tentacle enemy, then come out and head straight there's a small door on the right where you can kill bubbles to get the compass then head into the main door straight ahead. Then go back to the room Ruto fell down and you'll notice the path that was blocked by a tentacle is now unblocked so dive straight down the hole.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/Z8.jpg' | relative_url }}"
@@ -257,7 +249,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Go through the hallway on the platform you land on into a room and throw Ruto onto the platform from there she's captured and a miniboss starts against the Big Octo. You have to use the boomerang which will then stun him and he will spin around where I usually boomeranag again immedietly when he stops spinning and hope his backside is facing me as when he is stunned that is his weak point and after that a couple times the fight is basically over. 
+          Go through the hallway on the platform you land on into a room and throw Ruto onto the platform from there she's captured and a miniboss starts against the Big Octo. You have to use the boomerang which will then stun him and run around to his backside when he is stunned that is his weak point and after that a couple times the fight is basically over. 
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/Z9.jpg' | relative_url }}"
@@ -265,7 +257,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Now get onto it's platform get raised up and go through the hallways stunning the jelly blocks in the next room to get past till a platform drops with you on it giving you access to a new path, in this room find a box and drop that on the blue switch now that Ruto is gone to get through the next door. Climb up the vines in this next room and target the dangly switch while throwing your boomeranag to curve the shot and hit the switch granting you access to the boss, Barinade. In the first phase cut the three tentacles connecting him to the ceiling, then he will start swinging the upper jellyfish around him you need to hit his main bod with a boomerang to make them killable, once you do quickly hit the jellyfish or use a deku nut which can hit a few at once which I prefer, next he will start flying around the room with the last few jellyfish around him , keep spaming your boomerang till you stun him again and use a well placed deku nut to deal with the jellyfish, Finally he will fly around again this time stun him with your boomerang and hit him, repeat this again and again till you win. Congrats!
+          Now get onto it's platform get raised up and go through the hallway stun the two jiggly blocks with your boomerang to continue, grab a stone block on the right to have it hold down a switch to let you into the next room. Climb up the vines in this next room and target the dangly switch while throwing your boomerang to curve the shot and hit the switch granting you access to the boss, Barinade. In the first phase cut the three tentacles connecting him to the ceiling, then he will start swinging the upper jellyfish around him you need to dodge until they become vulnerable then use your boomerang to kill the small jellyfish, next he will start charging you with the last few around him, keep spamming your boomerang till you stun him again and use the boomerang to deal with the jellyfish, Finally he will fly around again this time stun him with your boomerang and hit him, repeat this again and again till you win. Congrats! Now claim your Heart Container & Zora Sapphire.
           </p>
         </ul>
       </details>
