@@ -303,7 +303,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Make your way from Kakariko all the way back to the Kokiri Forest and enter the lost woods making your way through, you will eventually encounter Mido who will block your way until you play Saria's song for him to show he shoulf trust you since Saria trusted you enough to teach you her song. Once past him make your way to the Sacred Forest Meadow and sneak your way past the moblins and once up top you will be taught the warp song to come back here using fast travel at any time.
+          Make your way from Kakariko all the way back to the Kokiri Forest and enter the lost woods making your way through like before (Right, Left, Right, Left, Straight, Left, Right) , you will eventually encounter Mido who will block your way until you play Saria's song for him to show he should trust you since Saria trusted you enough to teach you her song. Once past him make your way to the Sacred Grove and sneak your way past the moblins and once up top you will be taught the warp song to come back here using fast travel at any time.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/FT2.jpg' | relative_url }}"
@@ -311,7 +311,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Hookshot up onto the tree to enter. Climb your way up top in the first room as you need to open the chest to get your first key needed to progress, through this doorway you will meat the poe sisters, four ghosts you have to defeat to gain access to the dungeon boss. For now head straight on and go through the northern door and eventually fight sone stalfos to get another small key. Head back to the main room and from their enter the north western doorway blocked boy a block of time, go right and climb the vines with two skulltulas and you'll be brought into the room with the map.
+          Hookshot up onto the tree to enter. Climb your way up top in the first room as you need to open the chest to get your first key needed to progress, through this doorway you will meat the poe sisters, four ghosts you have to defeat to gain access to the dungeon boss. For now head straight on and go through the northern door and eventually fight some stalfos to get another small key. Head back to the main room and from their enter the north western doorway blocked by a block of time, go right and climb the vines with three skulltulas and hookshot across to lower the water for the well to claim another small key. Once up the well hookshot to the point across from you to get the map.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/FT3.jpg' | relative_url }}"
@@ -319,7 +319,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          From there leave the opposite door and hookshot across the gap to hit a switch lowering well water in the room below you to find another key within. Go back to the main lobby and head through the westernmost door into a room with a block you have to push and pull, continue through this room till you have to unlock a door up top leading you into a twisted hallway.
+          Go back to the main lobby and head through the westernmost door into a room with two blocks you have to push and pull, continue through this room until your are up top and can activator a shortcut on the left to use in the future, you then have to unlock a door up top leading you into a twisted hallway.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/FT4.jpg' | relative_url }}"
@@ -327,7 +327,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Go across to the door across the way and ignore the vanishing pictures of one of the poe sisters for now and in the next room you will encounter one stalfos then two more and once they are defeated you can finally get the bow. Instead of continueing forward double back and you can shoot the first poe sister paintings we first ignored to summon and slay her. Go all the way back through the twisted room and into the block puzzle room to shoot the eye switch above the door to straighten out the room where you can now go back in and jump down to open the gilded chest and get the boss key of the temple, there is a pit behind you so jump down it now. 
+          Go across the twisted hall way to the door across the way and ignore the vanishing pictures of one of the poe sisters for now and in the next room you will encounter one stalfos then two more and once they are defeated you can finally get the bow. Instead of continuing forward double back and you can shoot the first poe sister paintings we first ignored to summon and slay her to get a small key. Go all the way back through the twisted room and into the block puzzle room to shoot the eye switch above the door to straighten out the room where you can now go back in and jump down to open the gilded chest and get the boss key of the temple, there is a pit behind you so jump down it now. 
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/FT5.jpg' | relative_url }}"
@@ -335,7 +335,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Defeat two flaming skulls that are called "Bubbles" and go through the unlocked door continueing on to the right where you will enter a room withe giant hand called a "Floormaster", defeat it and grab the small key that spawns after. Make your way back to the block puzzle room and re-shoot the eye to twist the hallway again, and if you havent now defeat the first red poe sister and collect the key that spawns in her room then go through the stalfos miniboss room to find and defeat the blue poe sister and collect the compass that spawns.
+          Go through the unlocked door continueing on to the right where you will enter a room with giant hand called a "Floormaster", defeat it and grab the small key that spawns after. Make your way back to the block puzzle room and re-shoot the eye to twist the hallway again, and if you havent now defeat the first red poe sister and collect the key that spawns in her room then go through the stalfos miniboss room to find and defeat the blue poe sister and collect the compass that spawns.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/FT6.jpg' | relative_url }}"
@@ -343,7 +343,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Go through the next door and you will find a similar room to the one prior but this time go down the hallway with the green skull enemies and go into a room with spinning platforms and a frozen eye switch, stand on the spinning platforms and shoot through the fire into the eye switch. Now back track through the room and jump down the pit into the long chessboard like room.
+          Go through the next door at the top of the blue poe room and you will find a similar room to the one prior but this time go down the hallway with the green skull enemies and go into a room with a frozen eye switch use the flame to unfreeze and hit the switch. Now back track through the room and jump down the pit into the long chessboard like room.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/FT7.jpg' | relative_url }}"
@@ -351,7 +351,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Make your way through this room until your into the green poe sister room and shoot her painting causing blocks to fall, match the correct blocks up to summon and defeat her. And fianlly returning to the center room to find the purple poe sister and defeat her by shooting the one that spins with your bow before she attacks. 
+          Make your way through this room until your into the green poe sister room and shoot her painting causing blocks to fall, match the correct blocks up to summon and defeat her. And finally leave this room to the center room to find the purple poe sister and defeat her by shooting the one with the purple torch first, then only the one with the lit torch, and finally the one with her eyes open wider than the others. 
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/FT8.jpg' | relative_url }}"
@@ -359,7 +359,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Now decending down the elevator your in a room where you can rotate the walls, simply keep rotating until you hit three switches then proceed into the boss room. The boss of this dungeon is Phantom Ganon, shoot him as he is riding his horse out of the paintings with your bow and sometimes there will be a fake one to throw you off so look out for the one with the lightest mask as he's the one you have to hit. After he gets off of his mount you will basically play tennis with a ball of light back and forth and when his is stunned just slash away till he is defeated. 
+          Now decending down the elevator your in a room where you can rotate the walls, simply keep rotating until you hit a switch to light a flame then line the flame up to shoot a frozen eye switch, then proceed into the boss room. The boss of this dungeon is Phantom Ganon, shoot him as he is riding his horse out of the paintings with your bow and sometimes there will be a fake ones to throw you off with his staff in HIS right hand as he's the one you have to hit. After he gets off of his mount you will basically play tennis with a ball of light back and forth and when his is stunned just slash away till he is defeated to claim another Heart Container and the Forest Medallion. 
           </p>
         </ul>
       </details>
@@ -374,7 +374,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          From finishing forest temple make your way back to the temple of time to talk to sheik again who will teach you a fast travel song to return to here anytime and that you can return the master sword to the pedestal to return to being child Link at any time. Make your way back to the familiar goron city now to find it empty except for a single rolling goron that you need to explode to stop him rolling like the big one when you were a child.
+          From finishing forest temple make your way back to the temple of time to talk to sheik again who will teach you a fast travel song to return to here anytime and that you can return the master sword to the pedestal to return to being child Link at any time. Then make your way back to the familiar goron city now to find it empty except for a single rolling goron that you need to explode to stop him rolling.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/FI2.jpg' | relative_url }}"
@@ -390,7 +390,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Starting out from the main room go up the stairs and left into a room to see Darunia speak to you and the boss door, go to the left section of this room to release a sealed goron and the chest in his cell will have a small key for you to claim. Go back to the main room and enter the right door this time which will lead you into a more open room with a left, right, and straight path. Go left to see a door which has another trapped goron and small key for you then head to the right side of the room blowing up a fake wall to claim another key. 
+          Starting out from the main room go up the stairs and left into a room to see Darunia speak to you and the boss door, go to the left section of this room to release a sealed goron and the chest in his cell will have a small key for you to claim. Go back to the main room and enter the right door this time which will lead you into a more open room with a left, right, and straight path. Go left to see a path which has another trapped goron and small key for you then head to the right side of the room blowing up a bombable wall to claim another key. 
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/FI4.jpg' | relative_url }}"
@@ -398,7 +398,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          In the next area after claim both keys and continuing straight you will see a grated wall and a giant flaming pillar. Climb the wall and push a block down onto the flames which you can use as an elevator to launch yourself upward to the next room. In this room climb up the giant steps on the left and eventually push down a block again, follow it down and pull it out so you can climb up higher in the room. Drop a bomb down to hit the crystal switch that will turn off the flames blocking your next path up then climb up into the boulder maze room.
+          In the next area after claim both keys and continuing straight you will see a giant flaming pillar. Enter the next locked door and climb the wall and push a block down onto the flames which you can use as an elevator to launch yourself upward to the next room. In this room climb up the giant steps leading right and eventually pull out a block so you can climb up higher in the room. Use your bow to hit the crystal switch that will turn off the flames blocking your next path up then climb up into the boulder maze room.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/FI5.jpg' | relative_url }}"
@@ -406,7 +406,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          On the lower levels of this boulder maze there is a key of the left and right walls with two more trapped gorons and two more small keys. On the top half of this room there is a locked door in the center you can enter but be careful as to not fall down and shoot the eye switch in this room to open it up and have a door open which you can go in and get the map for the dungeon. Come back into the room with the thin walkways and exit the right door where you have to run across grates away from a wall of fire toget up to the top of the boulder maze. 
+          On the lower levels of this boulder maze there is a Map on the left and a key on the right wall with another trapped goron. There is a locked door in the center you can enter but be careful as to not fall down and shoot the eye switch in this room to open it up and have a door open which you can go in and get the compass for the dungeon. Come back into the room with the thin walkways and exit the right door where you have to run across grates away from a wall of fire to get up to the top of the boulder maze. 
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/FI6.jpg' | relative_url }}"
@@ -414,7 +414,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Bomb the floor infront of you to drop down getting a shortcut and freeing the goron from earlier along with another small key. Back up in the upper area of the maze room hit the switch and jump your way to the corner to free yet another goron and get yet another small key. Return to the room with the flaming wall that was chasing you and jump up onto the ledge with the locked door.
+          Bomb the floor at the center of the upper section to drop down getting a shortcut and freeing the goron from earlier along with another small key. Back up in the upper area of the maze room and jump your way to the corner to free yet another goron and get yet another small key. Return to the room with the flaming wall that was chasing you and jump up onto the ledge with the locked door.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/FI7.jpg' | relative_url }}"
@@ -422,7 +422,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          You will enter like an arch shaped room and head right first which is eventually a dead end but you find the dungeon compass here, then head right through a short maze and go through the door and straight out the other side. On this side you will need to hit a switch to lower a flaming wall so you can pass by in time. Bomb the fake door ahead of you and you will meet a flare dancer a new miniboss. Use your hookshot while targetting on him to take him out of the flame that it's in and then swing with yuor sword, repeat until dead.
+          You will enter like an arch shaped room first go right to get a small key and goron, then left through a short maze and go through the door and straight out the other side. On this side you will need to put a block onto a switch to lower a large flaming wall. Enter the now accesible locked door, you will meet a flare dancer a new miniboss. Use your hookshot while targeting on him to take him out of the flame that it's in and then swing with your sword, repeat until dead.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/FI8.jpg' | relative_url }}"
@@ -430,7 +430,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          From there you will get lifted up on the flare dancers platform and brought into a big chamber where you have to drop a bomb down onto a switch like earlier in the dungeon. Then you will climb into an almost circular room, hit the switch near the entrance and you have to carefully make your way up the circular stairs in time to open the chest and get the megaton hammer. Go back down enar where this room began and hammer the weird bit of raised floor with the face on it and follow it down. Hammer the statue out of the doorway and then hammer a stairs down bring one of the boxes from the top to hold the switch down at the bottom to escape.
+          From there you will get lifted up on the flare dancers platform and brought into a big chamber where you have to drop a bomb down onto a switch. Then you will climb into an almost circular room, hit the switch near the entrance and you have to carefully make your way up the circular stairs in time to open the chest and get the megaton hammer. Go back down near where this room began and hammer the giant pin like thing and follow it down. Hammer the statue out of the doorway and then hammer a stairs down.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/FI9.jpg' | relative_url }}"
@@ -438,7 +438,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Then when you drop down with the next pillar climb up and hit the rusted switch behind you and go through the door that opens up, play the song of time on the upper ledge to move the block across the gap and hit the now uncovered switch to release another goron and small key. Come back out the door you entered from the rusted switch and hammer down the block to be brought back down into the room with the boss door.
+          Then when you drop down with the next pillar hit the iron chunks behind you and go through the door that opens up, play the song of time on the upper ledge to move the block and drop down to release another goron and small key. Continue forward slightly and hammer down the block to be brought back down into the room with the boss door.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/FI10.jpg' | relative_url }}"
@@ -446,7 +446,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Come out to the main lobby and hammer at the statuette blocking a doorway and continue on through a couple room seven encountering another flare dancer. And eventually the boss key. Then finally go to the boss room to fight Volvagia. This fight is pretty simple, use the hammer on him when he peeks his head out of a pit and then slash at him when hes flying watch out for falling boldours and repeat the cycle over and over.
+          Come out to the main lobby and hammer at the statuette blocking a doorway and continue on through a couple room even encountering another flare dancer. And eventually the boss key. Then finally go to the boss room to fight Volvagia. This fight is pretty simple, use the hammer on him when he peeks his head out of a pit and then slash at him when stunned, when hes flying watch out for falling bolders and repeat the cycle over and over.
           </p>
         </ul>
       </details>
