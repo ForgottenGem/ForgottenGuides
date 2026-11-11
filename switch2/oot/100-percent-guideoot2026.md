@@ -122,7 +122,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          But before making your way to Kakariko or the following mountain make your way back into Kokiri forest where the game started and into the lost woods then make your way through the path shown above till you get into the sacred forest meadow then making your way through the maze like area you'll find Saria who will teach you Saria's Song.
+          But before making your way to Kakariko or the following mountain make your way back into Kokiri forest where the game started and into the lost woods on the top left of the area and follow this path when you enter: Right, Left, Right, Left, Straight, Left, Right untill you get into the Sacred Grove then making your way through the maze like area you'll find Saria who will teach you Saria's Song.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/DDC2.jpg' | relative_url }}"
@@ -130,10 +130,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Now you can make your way back to Kakariko once you enter run through to the back wall through an archway of sorts to enter the graveyard and as long as it's night you can pull one of the graves with flowers in front to get a hylian shield for free or buy one from the Hyrule Market Shop which I reccomend equipping.
-          </p>
-          <p>
-          (If its not night just wait in Hyrule field till night or get the sun's song which is in the upgrades section of the guide.)
+          Now you can make your way back to Kakariko once you enter run through to the back wall through an archway of sorts to enter the graveyard and as long as it's night you can pull one of the graves with flowers in front to get a Hylian shield for free or buy one from the Hyrule Market Shop which I recommend equipping instead of the Deku Shield.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/DDC3.jpg' | relative_url }}"
@@ -141,7 +138,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Then go up to the guard blocking the gate to Death Mountain and show him the letter from zelda so he lets you through, make your way up the mountain into Goron City getting down to the lowest tier of the city play Zelda's lullaby infront of the door down there to open it and meet the upset goron chief Darunia now using  Saria's song that we got earlier play it infront of darunia to help him calm down where he will recognize you as a messenger from Zelda and grant you the goron bracelet as a sign of trust basically.
+          Then go up to the guard blocking the gate to Death Mountain and show him the letter from zelda so he lets you through, make your way up the mountain into Goron City getting down to the lowest tier of the city play Zelda's lullaby infront of the door down there to open it and meet the upset goron chief Darunia now using Saria's song that we got earlier play it infront of darunia to help him calm down where he will recognize you as a messenger from Zelda and grant you the goron bracelet as a sign of trust basically.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/DDC4.jpg' | relative_url }}"
@@ -149,7 +146,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Make your way out of the city's main exit and then go instantly right and throw the bomb infront of you over the railing to break the bolder blocking the entrance to Dodongo's Cavern and make your way down and into the dungeon.
+          Make your way out of the city's main exit and then go instantly right and throw the bomb infront of you over the railing to break the boulder blocking the entrance to Dodongo's Cavern and make your way down and into the dungeon.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/DDC5.jpg' | relative_url }}"
@@ -165,7 +162,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Continue through the door that unlocks to step on a switch unlocking another door across the way then go through that door and you'll be in a room with a lot of bombs, firstly bomb the bombable wall and go into the room to find the compass for the temple. Now head back into the previous room and place a bomb into the gap in the line of bombs to blow them all up and lower the staircase. From there go up the stairs into the next room and be careful of the keese while moving the armos to then climb up and use the switch to unlock this rooms door.
+          Continue through the door that unlocks to step on a switch unlocking another door across the way then go through that door and you'll be in a room with a lot of bombs, firstly bomb the bombable wall on your left and go into the room to find the compass for the temple. Now head back into the previous room and place a bomb into the gap in the line of bombs to blow them all up and lower the staircase. From there go up the stairs into the next room and be careful of the keese while moving the armos to then climb up and use the switch to unlock this rooms door.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/DDC7.jpg' | relative_url }}"
@@ -173,7 +170,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Next make your way through this annoyingly shaped room before blowing up a tricky bombable wall and continue hitting the eye switches with your slingshot to get further in before fighting two more lizalfos. When you get through you'll notice a bombable wall down the bottom but ignore it as it has nothing important just jump straight across to the big chest and open it to get the bomb bag.
+          Next make your way through this annoyingly shaped room before blowing up a bombable wall and continue hitting the eye switches with your slingshot to get further in before fighting two more lizalfos. When you get through just go straight to the big chest and open it to get the bomb bag.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/DDC8.jpg' | relative_url }}"
@@ -189,7 +186,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Go into the next room with a pit in the middle and two keese go into the right doorway and make your way through the next room with the big walls dividing up the room, then in the next hallway push the block down and drag it into the pit in the center of the room to open the way into the next boss King Dodongo. Dodge his rolls or flame breath until you see him start breathing in and then from there throw a bomb into his mouth to stun him and attack, repeat ad nauseam untill defeated.
+          Go into the next room with a pit in the middle and two keese go into the straight pathway and make your way through the next room with the big walls dividing up the room, then in the next hallway push the block down and drag it into the pit in the center of the room to open the way into the next boss King Dodongo. Dodge his rolls or flame breath until you see him start breathing in and then from there throw a bomb into his mouth to stun him and attack, repeat ad nauseam until defeated. Then claim your new Heart Container & The Goron Ruby once you leave.
           </p>
         </ul>
       </details>
@@ -204,7 +201,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Back outside Dodongo's Cavern I reccomend going up the mountain rather than down as when your nearly at the city you'll notice some rocks that you can blow up to go further up the mountain with youe new bomb bag and when your all the up blow the bombable wall to get into a Great Fairy Fountain where when you play Zelda's lullaby on the Triforce symbol you'll get the magic meter.
+          Back outside Dodongo's Cavern I recommend going up the mountain rather than down as when your just past the city you'll notice some rocks that you can blow up to go further up the mountain with your new bomb bag and when your all the way up blow the bombable wall to get into a Great Fairy Fountain where when you play Zelda's lullaby on the Triforce symbol you'll get the magic meter and Din's Fire.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/Z2.jpg' | relative_url }}"
