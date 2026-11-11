@@ -461,7 +461,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Next make your way to Zora's Domain where Jabu Jabu way as you can't do anything in the domain proper yet, you will notice the big fish is gone and ice blocks are replacing it. Jump across the ice into an opening in the cliff to enter ice cavern which is mainly straight forward.
+          Next make your way to Zora's Domain where Jabu Jabu was as you can't do anything in the domain proper yet, you will notice the jabu jabu is gone and ice blocks are replacing it. Run across the ice into an opening in the cliff to enter ice cavern which is mainly straight forward.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/WA2.jpg' | relative_url }}"
@@ -469,7 +469,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Continue on till you enter a room with a spinning blade of ice and five silver ruppees, collect them all to open the door forward. In this room use a bottle to collect blue fire and use the blue fire on the red ice in the room to open the big chest and obtain this mini dungeon's map.
+          Continue on till you enter a room with a spinning blade of ice and five silver tokens, collect them all to open the door forward. In this room use a bottle to collect blue fire and use the blue fire on the red ice in the room to open the big chest and obtain this mini dungeon's map.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/WA3.jpg' | relative_url }}"
