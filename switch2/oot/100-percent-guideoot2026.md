@@ -280,7 +280,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          From here go back into the market and this time take the right exit to go to the Temple of Time and when inside by the alter play the newly learned Song of Time to open up the door of time and acquire the Master Sword. From inside Link takes the Master Sword and travels 7 years into the future until he is ready to wield the blade of evils bane. You meet a mysterious male sheikah who tells you to go to Kakariko before tackling the forest temple which I agree on. 
+          From here go back into the market speak with Malon immediately on your left to make her move to the Ranch and then take the right exit to go to the Temple of Time and when inside by the alter play the newly learned Song of Time to open up the door of time and acquire the Master Sword. From inside Link takes the Master Sword and travels 7 years into the future until he is ready to wield the blade of evils bane. You meet a mysterious male sheikah who tells you to go to Kakariko before tackling the forest temple which I agree on. 
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/AT3.jpg' | relative_url }}"
