@@ -91,7 +91,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Leaving kokiri forest your childhood friend Saria gives you the ocarina as a parting gift, then entering Hyrule Field proper our goal is Hyrule Castle on the far end of the field if you get there before night congrats if not just wait it out.
+          Leaving kokiri forest your childhood friend Saria gives you the ocarina as a parting gift, then entering Hyrule Field proper our goal is Hyrule Castle on the far end of the field.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/HF2.jpg' | relative_url }}"
@@ -99,7 +99,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Walk into the market then again straight to go to the castle proper, then turn right back around to go back to the market and you'll see a girl is gone then turn around again towards the castle and you'll see the girl who you can now speak to and she goes by the name Malon, she asks you to go check on her dad who was delivering milk to the castle and gives you an egg. Make your way around the castle grounds sneaking past all the guards until you make your way to a sleeping man and time should have passed and the egg will hatch just use the new chicken on the man to wake him, now you can move milk crates to make your way into the castle courtyards. 
+          Walk into the market then again straight to go to the castle proper, there is a girl who you can speak to and she goes by the name Malon, she asks you to go check on her dad who was delivering milk to the castle and gives you an egg. Make your way around the castle grounds sneaking past all the guards until you make your way to a sleeping man and time should have passed and the egg will hatch just use the new chicken on the man to wake him, now you can move milk crates to make your way into the castle courtyards. 
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/HF3.jpg' | relative_url }}"
@@ -107,7 +107,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Sneak your way past the guards until you make your way to Zelda and after speaking with her and obtaining her letter you can leave and see her royal guard Impa there who teaches you a song before escorting you out and saying you should go through Kakariko Village to Death Mountain.
+          Sneak your way past the guards until you make your way to Zelda and after speaking with her and obtaining her letter you can leave and see Impa there who teaches you a song before escorting you out and saying you should go through Kakariko Village to Death Mountain.
           </p>
         </ul>
       </details>
