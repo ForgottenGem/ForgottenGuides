@@ -818,7 +818,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          For this first phase you don't have the master sword so using the megaton hammer dodge his horizontal slashes backwards or vertical ones to the side to run up to his tail and hit it a few times per vertical dodge, when his tail explodes the second phase will start with Zelda returning the sword to Link. Phase two you need to hit his wrists this time be mindful of lightning circles on the floor while dodging the same attacks as before and after each vertical slash dodge and rush in to get a few hits on each wrist, at this point begins the final phase keep dodging and live until Zelda uses her powers to stun him and you can deal the final blows. 
+          For this first phase you don't have the master sword so using the megaton hammer dodge his horizontal slashes backwards or vertical ones to the side to run up to his tail and hit it a few times per vertical dodge, when his tail explodes the second phase will start with Zelda returning the sword to Link. Phase two you need to hit his wrists this time be mindful of lightning circles on the floor while dodging the same attacks as before and after each vertical slash dodge and rush in to get a few hits on each wrist, at this point begins the final phase keep dodging and live until Zelda uses her powers to stun him use light arrows to hit the opening on his forehead until he kneels and you can deal the final blows. 
           </p>
           <p>
             Congratulations you have beaten The Legend Of Zelda: Ocarina Of Time Switch 2
