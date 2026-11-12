@@ -762,7 +762,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Firstly when entering shoot the torch on your right and make your way across the platforms to the centre one but be cautious of the like like. Get to the switch a little lower on the right to spawn a big chest where the like like was to spawn the chest with the golden gauntlets upgrade, hit the rusty switch on the left hand side of the like like platform to make it to the end and shoot the barrier orb with a light arrow.
+          Firstly the forest trial which is decently easy you have to use din's fire and fire arrows to light all torches in the room to continue forward, the next room you just have to collect the silver tokens to get to the final room to destroy the forest barrier with the new light arrows.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/G3.jpg' | relative_url }}"
@@ -770,7 +770,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Next you can do them in any order but let's go clockwise so next is the water and ice trial	so you go in to collect some blue fire and kill the enemies in here to open the door forward, you need to move a block in here on a time to melt some ice and unlock the way forward with a switch and finally destroy the water barrier. 
+          Next is the water and ice trial	so you go in to collect some blue fire and use it to open the door forward before grabbing another, you then need to move a block in here to melt some ice and unlock the way forward with a pin switch and finally destroy the water barrier. 
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/G4.jpg' | relative_url }}"
@@ -778,7 +778,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Next the forest trial which is decently easy you have to use din's fire and fire arrows to light all torches in the room to continue forward, the next room you just have to collect the silver ruppees to get to the final room to destroy the forest barrier.
+          Next is the Shadow Trial, when entering shoot the torch on your right and make your way across the platforms to the centre one but be cautious of the like like. Get to the next platform with the hover boots then hit the switch a little lower on the right to spawn a big chest the golden gauntlets upgrade, pick up the gauntlet pillar on your left with the new gloves to make it to the end and shoot the barrier orb with a light arrow.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/G5.jpg' | relative_url }}"
@@ -786,7 +786,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          The spirit trial is next where you have to collect the silver ruppees in the first room and then bombchus in the second room as well as a sun puzzle where you have to light up the sun face left of the archway you entered and finally break the spirit barrier.
+          Now the fire trial has only one room where you need to collect five silver tokens and is really easy if you wear hover boots so do that and finish the trial and move onto the light path.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/G6.jpg' | relative_url }}"
@@ -794,7 +794,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          The light barrier is next and you have to use the gold gauntlets to lift the huge pillar blocking it, kill all enemies in the first room for a chest containing a small key to drop and the other chests aren't really important, next room you just need to play Zelda's lullaby to get a small key and continue and finally you need to collect silver ruppees in this small boulder room before clearing the trial.
+          The light barrier is next and you have to use the gold gauntlets to lift the huge pillar blocking it, kill all enemies in the first room to open the door forward and the chests aren't really important, next room you just need to play Zelda's lullaby to get a small key from an invisible chest opposite the one that appears and continue and finally you need to collect silver tokens in this small boulder room before clearing the trial by moving through a fake wall.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/G7.jpg' | relative_url }}"
@@ -802,7 +802,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Finally the fire trial has only one room where you need to collect five silver ruppees and is really easy if you wear hover boots so do that and finish the trial and we can fianlly accend the central tower.
+          The spirit trial is final where you have to collect the silver tokens in the first room and then bombchus in the second room to send over the grate to hit a switch as well as a sun puzzle where you have to light up the sun face right of the archway you entered if your facing it and finally break the spirit barrier.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/G8.jpg' | relative_url }}"
@@ -810,7 +810,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Fistly you will fight two dinolfos which are needed to open the way forward, before leading you to a room with some stalfos and the boss key, then a more fitting fight against two iron knuckes and finally the boss door awaits you. This first phase isn't too bad it's similar to the phantom ganon fight from the forest temple where you need to play tennis with the ball of magic until it hits him but instead of it fully stunning him you then have to use the bow of light on him to stun him properly and just repeat until dead. With Ganondorf's power gone the castle starts to crumble so you go with Zelda in an escape sequence down the castke which isn't too hard and when you finally reach the bottom you start the final confrontation with Ganon.
+          Now proceed into the central pillar you will fight two dinolfos which are needed to open the way forward, before leading you to a room with some stalfos, then a more fitting fight against two iron knuckles to get the boss key and finally the boss door awaits you. This first phase isn't too bad it's similar to the phantom ganon fight from the forest temple where you need to play tennis with the ball of magic until it hits him but instead of it fully stunning him you then have to use the bow of light on him to stun him properly and just repeat until dead. With Ganondorf's power gone the castle starts to crumble so you go with Zelda in an escape sequence down the castke which isn't too hard and when you finally reach the bottom you start the final confrontation with Ganon.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/G9.jpg' | relative_url }}"
@@ -818,10 +818,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          For this first phase you don't have the master sword so run up to him and roll through his legs and attack his tail with either the megaton hammer or biggoron sword and rinse and repeat until he falls to the ground giving you time to go grab the master sword before rushing back into the fight. Now with master sword in hand you HAVE to use this to kill him as the biggoron sword does not deal the final blow, just rinse and repeat through his legs slashing his tail until Zelda uses her powers to stun him and you can deal the final blow. 
+          For this first phase you don't have the master sword so using the megaton hammer dodge his horizontal slashes backwards or vertical ones to the side to run up to his tail and hit it a few times per vertical dodge, when his tail explodes the second phase will start with Zelda returning the sword to Link. Phase two you need to hit his wrists this time be mindful of lightning circles on the floor while dodging the same attacks as before and after each vertical slash dodge and rush in to get a few hits on each wrist, at this point begins the final phase keep dodging and live until Zelda uses her powers to stun him and you can deal the final blows. 
           </p>
           <p>
-            Congratulations you have beaten The Legend Of Zelda: Ocarina Of Time
+            Congratulations you have beaten The Legend Of Zelda: Ocarina Of Time Switch 2
           </p>
         </ul>
       </details>
