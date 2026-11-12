@@ -754,7 +754,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Once more head to the temple of time where Sheik will reveal himself to be Zelda in disguise hidden from ganondorf this whole time while doing her best to aid you and give you the light arrows. Zelda will get captured and make your way to where Hyrule Castle was to find Ganon's tower, when you make your way inside you will be in a big room where six doors have medallions above them and you need to do all six to break the barrier surrounding the central pillar. I'd reccomend doing the shadow trial first because of an item you get here you need for others.
+          Once more head to the temple of time where Sheik will reveal himself to be Zelda in disguise hidden from ganondorf this whole time while doing her best to aid you and give you the light arrows. Zelda will get captured and make your way to where Hyrule Castle was to find Ganon's tower, when you make your way inside you will be in a big room where six doors have medallions above them and you need to do all six to break the barrier surrounding the central pillar. I'd recommend doing them in an anti clockwise order.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/G2.jpg' | relative_url }}"
