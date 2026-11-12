@@ -201,7 +201,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Back outside Dodongo's Cavern I recommend going up the mountain rather than down as when your just past the city you'll notice some rocks that you can blow up to go further up the mountain with your new bomb bag and when your all the way up blow the bombable wall to get into a Great Fairy Fountain where when you play Zelda's lullaby on the Triforce symbol you'll get the magic meter and Din's Fire.
+          Back outside Dodongo's Cavern I recommend going up the mountain rather than down as when your just past the city you'll notice some rocks that you can blow up to go further up the mountain with your new bomb bag and when your all the way up blow the bombable wall to get into a Great Fairy Fountain where when you play Zelda's lullaby on the Triforce symbol you'll get the magic meter and Din's Fire in exchange for 25 Ruppees.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/Z3.jpg' | relative_url }}"
@@ -596,15 +596,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Follow the waterways till you find a triforce symbol and play zelda's lullaby to lower the water. Next head back to near the start where you entered the room and crawl through the crawlspace down in a small pit and you will encounter Dead Hand in the next room this dungeons boss, let the grounded hands grab you and he will come up from the floor to try and bite you, when he lowers his head swing at him to damage him. Once defeated a chest spawns which has the lens of truth allowing you to see through fake walls and pits. 
-          </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/SH4.jpg' | relative_url }}"
-                  alt="SH4"
-                  class="guide-art">
-          </figure>
-          <p>
-          The rest of this dungeon doesn't have much but if you want the map, it's in the lowest path when you are in the underground section. The compass is in the bottom left room in the central hidden area which you have to enter through a fake wall from the outside hallway. Small keys are in a left hand coffin room in  the dungeon as well as two in small rooms near the front of the hallway.
+          Follow the waterways till you find a triforce symbol and play zelda's lullaby to lower the water. Next head forward through the crawlspace and you will encounter Dead Hand in the next room, this dungeons boss, "kill" the hands from the floor with out jump slash and a jab after baiting them to attack you and he will come up from the floor to try and bite you, when he lowers his head swing at him to damage him. Once defeated a chest spawns which has the lenses of truth allowing you to see through fake walls and pits. 
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/SH5.jpg' | relative_url }}"
@@ -612,7 +604,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Now! We can return to an adult and play the Nocturne of Shadown and use Din's fire to enter the shadow temple through the sealed door in the graveyard. Immediately there is a long pit to hookshot across, do that and you'll be in a room with a puzzle where you have to turn the dial to face the right podium with a skull on it that you can see with the lens of truth, but first head through the skull designed wall on the same wall you entered this room. You will enter a square shaped room with two other exits the first hidden one on the right housing the map of the temple and the one forward leading to another square room with an exit to a slightly harder Dead Hand fight which will give you the item of the dungeon the Hover Boots. Now with the hover boots equipped, move the skull puzzle in the earlier room to unlock the grate forward and hover across the gap to go into the next room with a beamos and three pathways forward, left, and right.
+          Now! We can return to an adult and play the Nocturne of Shadown and use Din's fire to enter the shadow temple through the sealed door in the graveyard. Immediately there is a long pit to hookshot across, do that and you'll be in a room with a puzzle where you have to turn the dial to face the right podium with a skull on it that you can see with the lenses of truth, but first head through the skull designed wall on the same wall you entered this room. You will enter a square shaped room with two other exits the first hidden one on the right housing the map of the temple and the one forward leading to another square room with an exit to a slightly harder Dead Hand fight which will give you the item of the dungeon the Hover Boots. Now with the hover boots equipped, move the skull puzzle in the earlier room to unlock the grate forward and hover across the gap to go into the next room with a beamos and three pathways forward, left, and right.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/SH6.jpg' | relative_url }}"
@@ -620,7 +612,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Head right first to get the compass from that room then head to the left path and collect the silver ruppees in the room to get a small key needed to progress. Bomb the forward wall in the beamos room to progress through a long winding room with a lot of skulltula's until you get into a big cavern like room with guillotines falling.
+          Head right first to get the compass from that room then head to the left path and collect the silver tokens in the room to get a small key needed to progress. Bomb the forward wall in the beamos room to progress through a long winding room with a lot of skulltula's until you get into a big cavern like room with guillotines falling.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/SH7.jpg' | relative_url }}"
@@ -628,7 +620,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Pass the blades and when you are on the stalfos platform the invisible left path has a gold skulltula but that's it. The right path is where we have to go, gather the silver ruppees on the big platform and make your way into the room that opens with two big dropping spikes. Pull a block out of a fake wall and drag it with you to stop the platforms from slamming down on you and till the end until you can jump on it to get to the upper platfroms. Use a switch to drop a chest down that contains a small key before returning to the main big room.
+          Pass the blades and when you are on the stalfos platform the invisible left path has a gold skulltula but that's it. The right path is where we have to go, gather the silver tokens on the big platform and make your way into the room that opens with two big dropping spikes. Pull a block out of a fake wall and drag it with you to stop the platforms from slamming down on you and till the end until you can jump on it to get to the upper platfroms. Open a chest that contains a small key before returning to the main big room.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/SH8.jpg' | relative_url }}"
@@ -636,7 +628,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          When your back on the left across a big pit you will see a doorway, and if you use the lens of truth you will see platforms moving back and forth that you can use to get across and when you do you enter another room with silver ruppees. Collect the five silver ruppees and go through the room that opens where you can throw a bomb into the blue skull lantern to get a small key and return to the previous room and go up to the locked door using the hookshot on an invisible latch point on the ceiling.
+          When your back on the left across a big pit you will see a doorway, and if you use the lenses of truth you will see a platform moving back and forth that you can use to get across and when you do you enter another room with silver tokens Collect the five silver tokens and go through the room that opens where you can throw a bomb into the skull lantern to get a small key and return to the previous room and go up to the locked door using the hookshot on an invisible latch point on the ceiling.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/SH9.jpg' | relative_url }}"
@@ -644,7 +636,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          It will lead you into a hallway with a lot of fans you have to work your way through before being let into a long room with a door at the end which isn't important and if you use lens of truth you will see there is a fake wall that the third fan can blow you through, in that room there is a chest with bombs that spawns when you kill the gibdos and if you have the compass there is another chest under a pile in the corner containing a small key. 
+          It will lead you into a hallway with a lot of fans you have to work your way through before being let into a long room with a door at the end which isn't important and if you use lens of truth you will see there is a fake wall that the third fan can blow you through, in that room there is a chest with a ruppee that spawns when you kill the gibdos and a chest behind a bombable wall with a small key within. 
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/SH10.jpg' | relative_url }}"
@@ -652,7 +644,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          In the next room with the giant boat you have to pull the block so that you can climb the ladder to get onto the ship, play Zelda's lullaby to make the ship move where you'll have to fight some stalfos before you can jump down to the left and while you could go across the other side using the bombs to lower the statue instead enter the room on this side of the valley to enter a room with an invisible maze with three other doors.
+          In the next room with the giant boat you have to pull the block so that you can get onto the ship, play Zelda's lullaby to make the ship move where you'll have to fight some stalfos before you can jump down to the left and while you could go across the other side using bombs to lower the statue instead enter the room on this side of the valley to enter a room with an invisible maze with three other doors.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/SH11.jpg' | relative_url }}"
@@ -668,7 +660,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          From there blow up the bombs across the way to knock over a pillar so you can get across and go through the door, from there make your way across the invisible pit and enter the boss room where you fight Bongo Bongo. This fight is pretty simple you shoot each hand with a bow to stun it bolue then bongo bongo will lower it's head to charge at you so shoot one more arrow into the eye which is between both hands when he is rushing at you to stun him then attack him over and over and that's basically it and once your done you are done the second last temple and claim the shadow medallion as your own. 
+          Get across and go through the door, from there make your way across the invisible pit and enter the boss room where you fight Bongo Bongo. This fight is pretty simple you shoot each hand with a bow to stun it when it isn't glowing purple then bongo bongo will lower it's head to charge at you so shoot one more arrow into the eye which is between both hands when he is rushing at you to stun him then attack him over and over and that's basically it and once your done you are done the second last temple and claim the shadow medallion as your own. 
           </p>
         </ul>
       </details>
