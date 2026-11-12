@@ -675,7 +675,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   class="guide-art">
           </figure>
           <p>
-          Next in Hyrule Field go to gerudo valley on the west and use the longshot to get across the gap. The capenter leader asks you to go and rescue his men who are trapped in the fortress just ahead. When in the fortress you will find four carpenters hidden around the multiple hallways which you have to defeat the person guarding them to let them out after freeing them all the leader of the fortress will appear and give you a membership card so you can now freely explore without being captured. The Gerudo Training Grounds mini dungeon is currently available but completely optional and you need the item from the spirit temple to complete it.
+          Next in Hyrule Field go to gerudo valley on the west and use the longshot to get across the gap. The carpenter leader asks you to go and rescue his men who are trapped in the fortress just ahead. When in the fortress you will find four carpenters hidden around the multiple hallways which you have to defeat the person guarding them to let them out after freeing them all the leader of the fortress will appear and give you a membership card so you can now freely explore without being captured. The Gerudo Training Grounds mini dungeon is currently available but completely optional and you need the item from the spirit temple to complete it.
           </p>
           <figure class="image-block">
              <img src="{{ '/assets/images/ootn64/SP2.jpg' | relative_url }}"
