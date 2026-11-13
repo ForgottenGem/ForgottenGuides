@@ -28,7 +28,14 @@ I stream daily whenever I get the time to and will likely be playing lots of the
    href="https://youtube.com/@forgottengem?si=9o8NXLva64p2nFmo" 
    target="_blank" 
    rel="noopener">
-   Visit My Channel
+   Youtube Channel
+</a>
+
+<a class="button-link" 
+   href="https://www.twitch.tv/forgottengem_" 
+   target="_blank" 
+   rel="noopener">
+   Twitch Channel
 </a>
 
 <a class="button-link" 
