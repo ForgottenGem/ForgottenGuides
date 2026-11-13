@@ -30,11 +30,49 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
       <details class="console-guide-section">
         <summary>Kokiri Forest & The Deku Tree</summary>
         <ul>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/T1.jpg' | relative_url }}"
-                  alt="T1"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel">
+  <button class="carousel-btn" onclick="changeBoxArt(-1)">‹</button>
+  <figure class="image-block">
+    <img id="box-art-image"
+         src="{{ '/assets/images/misc/N64.png' | relative_url }}"
+         alt="PAL/JP/NA Nintendo 64"
+         class="box-art">
+    <figcaption id="box-art-caption">PAL/JP/NA Nintendo64</figcaption>
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(1)">›</button>
+</div>
+<script>
+  const boxArts = [
+    {
+      src: "{{ '/assets/images/misc/N64.png' | relative_url }}",
+      caption: "PAL/JP/NA Nintendo 64",
+      alt: "PAL/JP/NA Nintendo 64"
+    },
+    {
+      src: "{{ '/assets/images/misc/N64DD.png' | relative_url }}",
+      caption: "Nintendo 64 With Disk Drive Attachment",
+      alt: "Nintendo 64 With Disk Drive Attachment"
+    },
+    {
+      src: "{{ '/assets/images/misc/N64IQUE.png' | relative_url }}",
+      caption: "The iQue Player (N64 In Mainland China)",
+      alt: "The iQue Player (N64 In Mainland China)"
+    }
+  ];
+  let currentBoxArt = 0;
+  function changeBoxArt(direction) {
+    currentBoxArt += direction;
+    if (currentBoxArt < 0) {
+      currentBoxArt = boxArts.length - 1;
+    }
+    if (currentBoxArt >= boxArts.length) {
+      currentBoxArt = 0;
+    }
+    document.getElementById("box-art-image").src = boxArts[currentBoxArt].src;
+    document.getElementById("box-art-image").alt = boxArts[currentBoxArt].alt;
+    document.getElementById("box-art-caption").textContent = boxArts[currentBoxArt].caption;
+  }
+</script>
           <p>
           Wake up and start the game before going outside and talking to Saria then go into a maze on your left through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
           </p>
