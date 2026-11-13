@@ -3553,8 +3553,8 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
   <summary>Hall Of Fallen Foes</summary>
   <ul>
     <div class="box-art-carousel">
-    <button class="carousel-btn" onclick="changeBoxArt(-1)">‹</button>
-    <figure class="image-block">
+  <button class="carousel-btn" onclick="changeBoxArt(-1)">‹</button>
+  <figure class="image-block">
       <img id="box-art-image"
            src="{{ '/assets/images/misc/N64.png' | relative_url }}"
            class="box-art">
