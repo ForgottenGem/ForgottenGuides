@@ -1047,7 +1047,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                     class="guide-art">
             </figure>
             <p>
-            After you wake up Malon's dad Talon at hyrule castle he will move back to his house in Lon Lon Ranch where you can play a minigame where he throws three new cuccoos into the pile of them that are in the room and when you find all three before the time is up he will give you a bottle as a reward.
+            After you wake up Malon's dad Talon at hyrule castle and he moves back to his house in Lon Lon Ranch where you can play a minigame where he throws three new cuccoos into the pile of them that are in the room and when you find all three before the time is up he will give you a bottle as a reward.
             </p>
           </li>
           <li>
