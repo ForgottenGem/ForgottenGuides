@@ -3544,9 +3544,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
           </li>
         </ul>
       </details>
-      <details class="guide-section">
+<details class="guide-section">
   <summary>Hall Of Fallen Foes</summary>
   <ul>
+    <li>
     <div class="box-art-carousel">
   <button class="carousel-btn" onclick="changeBoxArt(-1)">‹</button>
   <figure class="image-block">
@@ -3593,7 +3594,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
       </p>
     </li>
   </ul>
-      </details>
+</details>
    </li>
   </ul>
 </details>
