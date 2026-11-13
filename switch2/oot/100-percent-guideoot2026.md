@@ -3561,6 +3561,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
   </figure>
   <button class="carousel-btn" onclick="changeHallBoxArt(1)">❯</button>
 </div>
+<script>  
 (function() {
   const boxArts = [
     {
@@ -3573,7 +3574,6 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
       src: "{{ '/assets/images/misc/N64IQUE.png' | relative_url }}"
     }
   ];
-
   let currentBoxArt = 0;
   const carousel = document.querySelector(
     '.box-art-carousel'
@@ -3590,6 +3590,8 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
     image.src = boxArts[currentBoxArt].src;
   };
 })();
+
+</script>
           <p>
           Here above are images of each section within the Hall of Fallen Foes fully completed to see who your missng.
           </p>
