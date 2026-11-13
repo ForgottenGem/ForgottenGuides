@@ -931,14 +931,14 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
       </p>
     </li>
     <li>
-      <h3 class="guide-subtitle">Spooky Mask</h3>
+      <h3 class="guide-subtitle">Bunny Mask</h3>
       <figure class="image-block">
          <img src="{{ '/assets/images/ootn64/CT4.jpg' | relative_url }}"
               alt="ct4"
               class="guide-art">
       </figure>
       <p>
-      The final mask you have to hand over is to the Running Man who is usually found running around lon lon ranch in Hyrule Field. After that you can now just take any mask you want from the Happy Mask Shop at will and the child Link trade sequence is done.
+      The final mask you have to hand over is to the Running Man who is usually found running around lon lon ranch in Hyrule Field after you beat Jabu Jabu. After that you can now just take any mask you want from the Happy Mask Shop at will and the child Link trade sequence is done.
       </p>
     </li>
   </ul>
@@ -960,7 +960,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                     class="guide-art">
             </figure>
             <p>
-            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game.
+            Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game and talk to him to make him move back.
             </p>
           </li>
           <li>
@@ -989,7 +989,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                     class="guide-art">
             </figure>
             <p>
-            As child Link speak to bonooru the scarecrow in Lake Hylia and play a song of 8 notes make sure you can remember it, as adult Link return to bonooru and play the same song and if all works now there are specific spots around the work you can play it and summon a scarecrow you can hookshot onto, navi will fly to a spot and glow green usually when the option is available.
+            As child Link speak to bonooru the scarecrow in Lake Hylia and play a song of 8 notes make sure you can remember it, as adult Link return to bonooru and play the same song and if all works now there are specific spots around the world you can play it and summon a scarecrow you can hookshot onto, there will be hay and music notes swirling on a spot where you can summon him.
             </p>
           </li>
         </ul>
@@ -1000,14 +1000,14 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
         <summary>Epona</summary>
         <ul>
           <li>
-            <h3 class="guide-subtitle">Epona's Song</h3>
+            <h3 class="guide-subtitle">Epona</h3>
             <figure class="image-block">
                <img src="{{ '/assets/images/ootn64/Epona.jpg' | relative_url }}"
                     alt="epona"
                     class="guide-art">
             </figure>
             <p>
-            Firstly to unlock Epona you need to have learned Epons's Song as child Link. Return to  Lon Lon Ranch as adult link and talk to Ingo to ride a horse, don't use the horse he gives you. Instead play Epons's song and get on her while jumping over the hurdles. Talk to Ingo to play again and this time on Epona talk with him and he will offer to race you around the corral. Take the inside line to win decently well just make sure to conserve carrots to boost when needed, He will ask for a rematch and you have to beat him again and this time he will admit that you won Epona but he doesn't want to lose the horse so he locks you inside. From here just jump over the back wall of the ranch while on Epona and now she's all yours whenever you play her song she will be summoned to you.
+            Firstly to unlock Epona you need to have learned Epons's Song as child Link. Return to  Lon Lon Ranch as adult link and talk to Ingo to ride a horse, don't use the horse he gives you. Instead play Epona's song and get on her then talk to Ingo and he will offer to race you around the corral. Take the inside line to win decently well just make sure to conserve carrots to boost when needed, He will ask for a rematch and you have to beat him again and this time he will admit that you won Epona but he doesn't want to lose the horse so he locks you inside. From here just jump over the back wall of the ranch while on Epona and now she's all yours whenever you play her song she will be summoned to you.
             </p>
           </li>
         </ul>
@@ -1017,6 +1017,17 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
       <details class="console-guide-section">
         <summary>Bottles</summary>
         <ul>
+          <li>
+            <h3 class="guide-subtitle">The New Remake Bottle!</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/Bot1.jpg' | relative_url }}"
+                    alt="bot1"
+                    class="guide-art">
+            </figure>
+            <p>
+            As child Link in Hyrule Market go to the potion shop and the guy at the counter will complain about losing his bug just accept the quest and catch his bug in the store and the bottle is all yours.
+            </p>
+          </li>
           <li>
             <h3 class="guide-subtitle">Cuccoo Gathering</h3>
             <figure class="image-block">
@@ -2154,6 +2165,27 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
   <summary>Golden Skulltulas</summary>
   <ul>
     <li>
+      <p>
+      Skulltula Rewards
+      </p>
+      <p>
+      10 : Adult's Wallet (Holds 500 Ruppees)
+      </p>
+      <p>
+      20 : Echo Gem (Helps Find Nearby Skulltulas)
+      </p>
+      <p>
+      30 : Giant's Wallet (Holds 1000 Ruppees)
+      </p>
+      <p>
+      40 : 20 Bombchus
+      </p>
+      <p>
+      50 : Piece of Heart
+      </p>
+      <p>
+      100 : Unlimited Gold Ruppees
+      </p>
       <details class="console-guide-section">
         <summary>Child Link</summary>
         <ul>
