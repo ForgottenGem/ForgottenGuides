@@ -3553,28 +3553,33 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
   <summary>Hall Of Fallen Foes</summary>
         <ul>
           <div class="box-art-carousel">
-  <button class="carousel-btn" onclick="changeBoxArt(-1)">‹</button>
+  <button class="carousel-btn" onclick="changeHallBoxArt(-1)">❮</button>
   <figure class="image-block">
     <img id="box-art-image"
          src="{{ '/assets/images/misc/N64.png' | relative_url }}"
          class="box-art">
   </figure>
-  <button class="carousel-btn" onclick="changeBoxArt(1)">›</button>
+  <button class="carousel-btn" onclick="changeHallBoxArt(1)">❯</button>
 </div>
-<script>
+(function() {
   const boxArts = [
     {
-      src: "{{ '/assets/images/misc/N64.png' | relative_url }}",
+      src: "{{ '/assets/images/misc/N64.png' | relative_url }}"
     },
     {
-      src: "{{ '/assets/images/misc/N64DD.png' | relative_url }}",
+      src: "{{ '/assets/images/misc/N64DD.png' | relative_url }}"
     },
     {
-      src: "{{ '/assets/images/misc/N64IQUE.png' | relative_url }}",
+      src: "{{ '/assets/images/misc/N64IQUE.png' | relative_url }}"
     }
   ];
+
   let currentBoxArt = 0;
-  function changeBoxArt(direction) {
+  const carousel = document.querySelector(
+    '.box-art-carousel'
+  );
+  const image = carousel.querySelector('#box-art-image');
+  window.changeHallBoxArt = function(direction) {
     currentBoxArt += direction;
     if (currentBoxArt < 0) {
       currentBoxArt = boxArts.length - 1;
@@ -3582,11 +3587,9 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
     if (currentBoxArt >= boxArts.length) {
       currentBoxArt = 0;
     }
-    document.getElementById("box-art-image").src = boxArts[currentBoxArt].src;
-    document.getElementById("box-art-image").alt = boxArts[currentBoxArt].alt;
-    document.getElementById("box-art-caption").textContent = boxArts[currentBoxArt].caption;
-  }
-</script>
+    image.src = boxArts[currentBoxArt].src;
+  };
+})();
           <p>
           Here above are images of each section within the Hall of Fallen Foes fully completed to see who your missng.
           </p>
