@@ -1294,53 +1294,6 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
     </li>
     <li>
       <details class="console-guide-section">
-        <summary>Double Defense</summary>
-        <ul>
-          <li>
-            <h3 class="guide-subtitle">Double Defense</h3>
-            <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/DoubleDefense.jpg' | relative_url }}"
-                    alt="doubdef"
-                    class="guide-art">
-            </figure>
-            <p>
-            You obtain double defence by going to the Great Fairy Fountain outside Ganon's castle once you have the golden gauntlets to move the giant pillar blocking the way.
-            </p>
-          </li>
-        </ul>
-      </details>
-    </li>
-    <li>
-      <details class="console-guide-section">
-        <summary>Magic Meter</summary>
-        <ul>
-          <li>
-            <h3 class="guide-subtitle">Initial Magic Meter</h3>
-            <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Magic1.jpg' | relative_url }}"
-                    alt="mag1"
-                    class="guide-art">
-            </figure>
-            <p>
-            The first magic meter you get through the story playthrough from the Great Fairy at the top of death mountain.
-            </p>
-          </li>
-          <li>
-            <h3 class="guide-subtitle">Magic Meter Upgrade</h3>
-            <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Magic2.jpg' | relative_url }}"
-                    alt="mag2"
-                    class="guide-art">
-            </figure>
-            <p>
-            The upgrade to your magic meter is gotten from the fairy in death mountain crater after you have obtained the megaton hammer.
-            </p>
-          </li>
-        </ul>
-      </details>
-    </li>
-    <li>
-      <details class="console-guide-section">
         <summary>Bow / Quiver</summary>
         <ul>
           <li>
