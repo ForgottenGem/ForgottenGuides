@@ -945,6 +945,42 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
     </li>
     <li>
       <details class="console-guide-section">
+        <summary>Scarecrow's Song</summary>
+        <ul>
+          <li>
+            <h3 class="guide-subtitle">Scarecrow's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/ScareCrows.jpg' | relative_url }}"
+                    alt="scarecrows"
+                    class="guide-art">
+            </figure>
+            <p>
+            As child Link speak to bonooru the scarecrow in Lake Hylia and play a song of 8 notes make sure you can remember it, as adult Link return to bonooru and play the same song and if all works now there are specific spots around the work you can play it and summon a scarecrow you can hookshot onto, navi will fly to a spot and glow green usually when the option is available.
+            </p>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
+        <summary>Epona</summary>
+        <ul>
+          <li>
+            <h3 class="guide-subtitle">Epona's Song</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/Epona.jpg' | relative_url }}"
+                    alt="epona"
+                    class="guide-art">
+            </figure>
+            <p>
+            Firstly to unlock Epona you need to have learned Epons's Song as child Link. Return to  Lon Lon Ranch as adult link and talk to Ingo to ride a horse, don't use the horse he gives you. Instead play Epons's song and get on her while jumping over the hurdles. Talk to Ingo to play again and this time on Epona talk with him and he will offer to race you around the corral. Take the inside line to win decently well just make sure to conserve carrots to boost when needed, He will ask for a rematch and you have to beat him again and this time he will admit that you won Epona but he doesn't want to lose the horse so he locks you inside. From here just jump over the back wall of the ranch while on Epona and now she's all yours whenever you play her song she will be summoned to you.
+            </p>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details class="console-guide-section">
         <summary>Bottles</summary>
         <ul>
           <li>
@@ -996,43 +1032,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
     </li>
     <li>
       <details class="console-guide-section">
-        <summary>Scarecrow's Song</summary>
-        <ul>
-          <li>
-            <h3 class="guide-subtitle">Scarecrow's Song</h3>
-            <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/ScareCrows.jpg' | relative_url }}"
-                    alt="scarecrows"
-                    class="guide-art">
-            </figure>
-            <p>
-            As child Link speak to bonooru the scarecrow in Lake Hylia and play a song of 8 notes make sure you can remember it, as adult Link return to bonooru and play the same song and if all works now there are specific spots around the work you can play it and summon a scarecrow you can hookshot onto, navi will fly to a spot and glow green usually when the option is available.
-            </p>
-          </li>
-        </ul>
-      </details>
-    </li>
-    <li>
-      <details class="console-guide-section">
-        <summary>Epona</summary>
-        <ul>
-          <li>
-            <h3 class="guide-subtitle">Epona's Song</h3>
-            <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Epona.jpg' | relative_url }}"
-                    alt="epona"
-                    class="guide-art">
-            </figure>
-            <p>
-            Firstly to unlock Epona you need to have learned Epons's Song as child Link. Return to  Lon Lon Ranch as adult link and talk to Ingo to ride a horse, don't use the horse he gives you. Instead play Epons's song and get on her while jumping over the hurdles. Talk to Ingo to play again and this time on Epona talk with him and he will offer to race you around the corral. Take the inside line to win decently well just make sure to conserve carrots to boost when needed, He will ask for a rematch and you have to beat him again and this time he will admit that you won Epona but he doesn't want to lose the horse so he locks you inside. From here just jump over the back wall of the ranch while on Epona and now she's all yours whenever you play her song she will be summoned to you.
-            </p>
-          </li>
-        </ul>
-      </details>
-    </li>
-    <li>
-      <details class="console-guide-section">
-        <summary>Magic Spells</summary>
+        <summary>Great Fairy Fountains</summary>
         <ul>
           <li>
             <h3 class="guide-subtitle">Din's Fire</h3>
