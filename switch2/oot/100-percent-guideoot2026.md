@@ -69,13 +69,13 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
           Wake up and start the game before going outside and talking to Saria then go into a maze on your left through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
           </p>
           <div class="box-art-carousel">
-  <button class="carousel-btn" onclick="changeBoxArt(-1)">‹</button>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">❮</button>
   <figure class="image-block">
     <img id="box-art-image"
          src="{{ '/assets/images/misc/N64.png' | relative_url }}"
          class="box-art">
   </figure>
-  <button class="carousel-btn" onclick="changeBoxArt(1)">›</button>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">❯</button>
 </div>
 <script>
   const boxArts = [
@@ -90,18 +90,20 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
     }
   ];
   let currentBoxArt = 0;
-  function changeBoxArt(direction) {
-    currentBoxArt += direction;
-    if (currentBoxArt < 0) {
-      currentBoxArt = boxArts.length - 1;
-    }
-    if (currentBoxArt >= boxArts.length) {
-      currentBoxArt = 0;
-    }
-    document.getElementById("box-art-image").src = boxArts[currentBoxArt].src;
-    document.getElementById("box-art-image").alt = boxArts[currentBoxArt].alt;
-    document.getElementById("box-art-caption").textContent = boxArts[currentBoxArt].caption;
+  function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
   }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt].src;
+}
 </script>
           <p>
           When inside the Deku Tree make your way up one layer and you'll see a big chest which stores the map and then continue across till you find a door with a deku scrub inside after deflecting its shot with your new shield enter he next room to get the fairy slingshot then shoot the eye switch to leave.
