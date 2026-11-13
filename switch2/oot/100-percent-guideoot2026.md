@@ -3544,11 +3544,15 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
           </li>
         </ul>
       </details>
+    </li>
+  </ul>
+</details>
 
       
 <details class="guide-section">
   <summary>Hall Of Fallen Foes</summary>
         <ul>
+          <li>
           <div class="box-art-carousel">
           <button class="carousel-btn" onclick="changeBoxArt(-1)">‹</button>
           <figure class="image-block">
@@ -3593,5 +3597,6 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
           <p>
           Some enemies I miss are the purple leever which you get by killing leevers over and over in the Evil Desert Colossus, the fake doors in Fire Temple I sometimes forget. When It comes to the 3 Owl Statue Boss Rushes just practice and do your best you'll get them done.
           </p>
+    </li>
   </ul>
 </details>
