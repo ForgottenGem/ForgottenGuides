@@ -35,9 +35,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
   <figure class="image-block">
     <img id="box-art-image"
          src="{{ '/assets/images/misc/N64.png' | relative_url }}"
-         alt="PAL/JP/NA Nintendo 64"
          class="box-art">
-    <figcaption id="box-art-caption">PAL/JP/NA Nintendo64</figcaption>
   </figure>
   <button class="carousel-btn" onclick="changeBoxArt(1)">›</button>
 </div>
@@ -45,18 +43,12 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
   const boxArts = [
     {
       src: "{{ '/assets/images/misc/N64.png' | relative_url }}",
-      caption: "PAL/JP/NA Nintendo 64",
-      alt: "PAL/JP/NA Nintendo 64"
     },
     {
       src: "{{ '/assets/images/misc/N64DD.png' | relative_url }}",
-      caption: "Nintendo 64 With Disk Drive Attachment",
-      alt: "Nintendo 64 With Disk Drive Attachment"
     },
     {
       src: "{{ '/assets/images/misc/N64IQUE.png' | relative_url }}",
-      caption: "The iQue Player (N64 In Mainland China)",
-      alt: "The iQue Player (N64 In Mainland China)"
     }
   ];
   let currentBoxArt = 0;
