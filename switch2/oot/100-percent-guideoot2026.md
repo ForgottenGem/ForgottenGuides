@@ -31,13 +31,13 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
         <summary>Kokiri Forest & The Deku Tree</summary>
         <ul>
           <div class="box-art-carousel">
-  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">❮</button>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
   <figure class="image-block">
     <img id="box-art-image"
          src="{{ '/assets/images/misc/N64.png' | relative_url }}"
          class="box-art">
   </figure>
-  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">❯</button>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
 </div>
 <script>
   const boxArts = [
@@ -71,13 +71,13 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
           Wake up and start the game before going outside and talking to Saria then go into a maze on your left through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
           </p>
           <div class="box-art-carousel">
-  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">❮</button>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
   <figure class="image-block">
     <img id="box-art-image"
          src="{{ '/assets/images/misc/N64.png' | relative_url }}"
          class="box-art">
   </figure>
-  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">❯</button>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
 </div>
 <script>
   const boxArts = [
@@ -3587,13 +3587,13 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
   <summary>Hall Of Fallen Foes</summary>
         <ul>
           <div class="box-art-carousel">
-  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">❮</button>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
   <figure class="image-block">
     <img id="box-art-image"
          src="{{ '/assets/images/misc/N64.png' | relative_url }}"
          class="box-art">
   </figure>
-  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">❯</button>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
 </div>
 <script>
   const boxArts = [
