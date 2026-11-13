@@ -3551,43 +3551,42 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
       
 <details class="guide-section">
   <summary>Hall Of Fallen Foes</summary>
-        <ul>
-          <li>
-          <div class="box-art-carousel">
-          <button class="carousel-btn" onclick="changeBoxArt(-1)">‹</button>
-          <figure class="image-block">
-            <img id="box-art-image"
-                 src="{{ '/assets/images/misc/N64.png' | relative_url }}"
-                 class="box-art">
-          </figure>
-          <button class="carousel-btn" onclick="changeBoxArt(1)">›</button>
-        </div>
-        <script>
-          const boxArts = [
-            {
-              src: "{{ '/assets/images/misc/N64.png' | relative_url }}",
-            },
-            {
-              src: "{{ '/assets/images/misc/N64DD.png' | relative_url }}",
-            },
-            {
-              src: "{{ '/assets/images/misc/N64IQUE.png' | relative_url }}",
-            }
-          ];
-          let currentBoxArt = 0;
-          function changeBoxArt(direction) {
-            currentBoxArt += direction;
-            if (currentBoxArt < 0) {
-              currentBoxArt = boxArts.length - 1;
-            }
-            if (currentBoxArt >= boxArts.length) {
-              currentBoxArt = 0;
-            }
-            document.getElementById("box-art-image").src = boxArts[currentBoxArt].src;
-            document.getElementById("box-art-image").alt = boxArts[currentBoxArt].alt;
-            document.getElementById("box-art-caption").textContent = boxArts[currentBoxArt].caption;
-          }
-        </script>
+  <ul>
+    <div class="box-art-carousel">
+    <button class="carousel-btn" onclick="changeBoxArt(-1)">‹</button>
+    <figure class="image-block">
+      <img id="box-art-image"
+           src="{{ '/assets/images/misc/N64.png' | relative_url }}"
+           class="box-art">
+    </figure>
+    <button class="carousel-btn" onclick="changeBoxArt(1)">›</button>
+  </div>
+  <script>
+    const boxArts = [
+      {
+        src: "{{ '/assets/images/misc/N64.png' | relative_url }}",
+      },
+      {
+        src: "{{ '/assets/images/misc/N64DD.png' | relative_url }}",
+      },
+      {
+        src: "{{ '/assets/images/misc/N64IQUE.png' | relative_url }}",
+      }
+    ];
+    let currentBoxArt = 0;
+    function changeBoxArt(direction) {
+      currentBoxArt += direction;
+      if (currentBoxArt < 0) {
+        currentBoxArt = boxArts.length - 1;
+      }
+      if (currentBoxArt >= boxArts.length) {
+        currentBoxArt = 0;
+      }
+      document.getElementById("box-art-image").src = boxArts[currentBoxArt].src;
+      document.getElementById("box-art-image").alt = boxArts[currentBoxArt].alt;
+      document.getElementById("box-art-caption").textContent = boxArts[currentBoxArt].caption;
+    }
+  </script>
           <p>
           Here above are images of each section within the Hall of Fallen Foes fully completed to see who your missng.
           </p>
@@ -3597,6 +3596,5 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
           <p>
           Some enemies I miss are the purple leever which you get by killing leevers over and over in the Evil Desert Colossus, the fake doors in Fire Temple I sometimes forget. When It comes to the 3 Owl Statue Boss Rushes just practice and do your best you'll get them done.
           </p>
-    </li>
   </ul>
 </details>
