@@ -1211,7 +1211,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                     class="guide-art">
             </figure>
             <p>
-            The first upgrade is gotten through the bombchu bowling minigame in the Hyrule Castle Market, every time you play one out of four prizes is chosen at random that you will get if you hit all three goals.
+            The first upgrade is gotten through the bombchu bowling minigame in the Hyrule Castle Market, every time you play she tells you what your prize is if you will get if you hit all three goals.
             </p>
           </li>
           <li>
@@ -1222,7 +1222,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                     class="guide-art">
             </figure>
             <p>
-            The last bomb bag you get in goron city, as child Link down in the middle layer of the city you will see a big goron rolling around and every so often he goes behind an alcove in the back of the city. Whenever he does you have to bomb him to get the bomb bag upgrade.
+            The last bomb bag you get in goron city, as child Link down in the middle layer of the city you will see a big goron rolling around and every so often he goes behind an alcove in the back of the city. Whenever he does you have to bomb him next to the sign to get the bomb bag upgrade.
             </p>
           </li>
         </ul>
@@ -1251,7 +1251,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                     class="guide-art">
             </figure>
             <p>
-            The first upgrade is found in the Lost Woods, upon entering go right until you see a railing with a target across the way and hit the center getting 100 points until you get the uprgrade.
+            The first upgrade is found in the Lost Woods, upon entering go right until you see a railing with a target across the way and hit the center of the target until you get the uprgrade.
             </p>
           </li>
           <li>
@@ -1286,7 +1286,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                     class="guide-art">
             </figure>
             <p>
-            The first upgrade is sold by a scrub in a grotto under a boulder in the lost woods.
+            The first upgrade is sold by a scrub in a grotto under a boulder in the lost woods right outside the sacred grove.
             </p>
           </li>
           <li>
@@ -1297,10 +1297,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                     class="guide-art">
             </figure>
             <p>
-            The third upgrade is gotten for wearing the Mask Of Truth in the forest stage grotton in the lost woods.
-            </p>
-            <p>
-            (This HAS to be gotten before finishing the adult Link trading sequence as it is bugged in the N64 Version)
+            The third upgrade is gotten for wearing the Mask Of Truth in the forest stage grotto in the lost woods to find it head from the sacred grove and go left, right, and right then fall into the grotto in the back of the room.
             </p>
           </li>
         </ul>
@@ -1324,7 +1321,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                     class="guide-art">
             </figure>
             <p>
-            A business scrub at the end of the long bridge room in the Lost Woods sells you the first upgrade.
+            A business scrub at the end of the long bridge room in the Lost Woods sells you the first upgrade go left, and left from kokiri forest to get to the bridge room.
             </p>
           </li>
           <li>
@@ -1335,7 +1332,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                     class="guide-art">
             </figure>
             <p>
-            To get the final upgrad to your deku stick capacity you must wear the skull mask at the forest stage.
+            To get the final upgrade to your deku stick capacity you must wear the skull mask at the forest stage.
             </p>
           </li>
         </ul>
