@@ -1659,7 +1659,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Adult Link
                   </p>
                   <p>
-                  Just outside hyrule market walk left along the outside of the walls to find a grotto, talk to the scrub inside and you wont know the password so exit the grotto and return back here as an adult
+                  Just outside hyrule market walk left along the outside of the walls to find a grotto, talk to the scrub inside and you wont know the password so exit the grotto and return back here as an adult and read the fairy note on the tree behind the grotto return to the grotto as a child with the password "Sell Somethin', Will Ya?" to purchase the heart piece.
                   </p>
                 </li>
               </ul>
@@ -1704,7 +1704,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Nothing
                   </p>
                   <p>
-                  In the market at night go near the white dog near the exit to the field and itll start to follow you, go into the back alley and take it into one of the houses to find its owner and she will give you the piece of heart.
+                  In the market at night go near the white dog usually in the alley interact and it'll start to follow you, find its owner near the market entrance and she will give you the piece of heart.
                   </p>
                 </li>
                 <li>
@@ -1717,7 +1717,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Bombs
                   </p>
                   <p>
-                  In the market when you have bombs you can play the bombchu bowling minigame on the left side of the market through the door at the bottom of the stairs. When you pay for a round a random prize is chosen so whenever it is the heart pieces win and you'll get it.
+                  In the market when you have bombs you can play the bombchu bowling minigame on the left side of the market through the door at the bottom of the stairs. When you pay for the third round the reward will be a heart piece.
                   </p>
                 </li>
                 <li>
@@ -1730,7 +1730,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Lens Of Truth
                   </p>
                   <p>
-                  In the market there is a door right next to the alley with the treasure chest guessing game and technicall yyou can get insanely lucky and beat it without the lens but if you have the lens you can make it all the way easily by seeing where the keys are and get the heart piece for winning.
+                  In the market there is a door right at the back of the alley with the treasure chest guessing game and technically you can get insanely lucky and beat it without the lenses but if you have the lenses you can make it all the way easily by seeing where the keys are and get the heart piece for winning.
                   </p>
                 </li>
               </ul>
@@ -1742,19 +1742,6 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP8.jpg' | relative_url }}"
-                          alt="hp8"
-                          class="guide-art">
-                  </figure>
-                  <p>
-                  Requires: Sun's Song
-                  </p>
-                  <p>
-                  In the Kakariko Graveyard go into the flowered grave with the ReDead inside and kill it then on the steps play the sun's song making a chest spawn.
-                  </p>
-                </li>
-                <li>
-                  <figure class="image-block">
                      <img src="{{ '/assets/images/ootn64/HP9.jpg' | relative_url }}"
                           alt="hp9"
                           class="guide-art">
@@ -1763,7 +1750,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Ruppees
                   </p>
                   <p>
-                  In the Kakariko Graveyard at night talk to Dampe on soft pathes of soil along the paths he walks and if your lucky he will dig up a heart piece after you pay him if not just try again.
+                  In the Kakariko Graveyard at night talk to Dampe and guide him to soft pathes of soil along the paths he walks and I usually get it from the dirt patch closest to me in the pic above.
                   </p>
                 </li>
               </ul>
@@ -1783,7 +1770,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Goron Bracelet or Bombs
                   </p>
                   <p>
-                  Using deku stick in Darunia's chamber light then flames outside on the lowest level to make the goron pot star to spin, either using your own bombs or bombs from the second level of the city throw one into the pot and when it spins and lands on the happy face it will spit out the heart piece if not just try again.
+                  Using deku stick in Darunia's chamber light then flames outside on the lowest level to make the goron pot start to spin, either using your own bombs or bombs from the second level of the city throw one into the pot and when it spins and lands on the happy face it will spit out the heart piece if not just try again.
                   </p>
                 </li>
                 <li>
@@ -1796,7 +1783,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Bombs
                   </p>
                   <p>
-                  Using bombs get up to the top of death mountain and go into death mountain crater where you can hang off the left ledge and go into a little alcove to get the next heart piece.
+                  Using bombs get up to the top of death mountain and go into death mountain crater where you can hang off the ledge ahead of you and go into a little alcove to get the next heart piece.
                   </p>
                 </li>
                 <li>
@@ -1809,7 +1796,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Bombs
                   </p>
                   <p>
-                  From the previous piece talk to the owl at the top of the mountain and itll bring you back into Kakariko on a buildings roof, look over the edge and drop down onto a canopy of sorts and go into the hole in the wall to get the heart piece.
+                  If the owl is not there you can do this as an adult instead.
+                  </p>
+                  <p>
+                  From the previous piece talk to the owl at the top of the mountain and itll bring you back into Kakariko on a buildings roof, look over the edge and drop down and make your way to the heart piece.
                   </p>
                 </li>
               </ul>
@@ -2034,6 +2024,22 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   </p>
                   <p>
                   The next heart piece is a 50 Gold Skulltula reward.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP12.jpg' | relative_url }}"
+                          alt="hp12"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Bombs
+                  </p>
+                  <p>
+                  If the owl is not there you can do this as an adult instead.
+                  </p>
+                  <p>
+                  From the previous piece talk to the owl at the top of the mountain and itll bring you back into Kakariko on a buildings roof, look over the edge and drop down and make your way to the heart piece.
                   </p>
                 </li>
               </ul>
