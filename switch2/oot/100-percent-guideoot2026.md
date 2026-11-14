@@ -1069,7 +1069,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                     class="guide-art">
             </figure>
             <p>
-            The Final bottole is for turning in all ten ghosts to the ghost shop as adult link. Ride around the field on epona in certain spots to get each poe to spawn. Then shoot them with your bow and capture them in a bottle to give to the poe salesman guy.
+            The Final bottle is for turning in 5/10 big poe to the poe shop as adult link (If you return all 10 you get 200 Ruppees). Ride around the field on epona and jump glowing purple hurdles to spawn a poe and hit them twice with your bow to get each poe. Then capture them in a bottle to give to the poe salesman guy.
             </p>
           </li>
         </ul>
@@ -1080,36 +1080,69 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
         <summary>Great Fairy Fountains</summary>
         <ul>
           <li>
-            <h3 class="guide-subtitle">Din's Fire</h3>
+            <h3 class="guide-subtitle">The First: Din's Fire & The Magic Meter</h3>
             <figure class="image-block">
                <img src="{{ '/assets/images/ootn64/DinFire.jpg' | relative_url }}"
                     alt="dinfire"
                     class="guide-art">
             </figure>
             <p>
-            Din's Fire is the first and only mandatory spell to get in the game as the other two are nice but not needed in any way you get it from the great fairy at Hyrule Castle which is covered already in the guide.
+            After finishing Dodongo's Cavern head up the mountain and at the very top blow up the wall on the left to attain get this fairy's rewards for 25 Ruppees.
             </p>
           </li>
           <li>
-            <h3 class="guide-subtitle">Farore's Wind</h3>
+            <h3 class="guide-subtitle">The Second: Gift of Improved Spin</h3>
             <figure class="image-block">
                <img src="{{ '/assets/images/ootn64/FaroreWind.jpg' | relative_url }}"
                     alt="farorewind"
                     class="guide-art">
             </figure>
             <p>
-            Farore's Wind you get from the great fairy in Zora's Fountain far back near the silver boulder.
+            After obtaining bombs head back to where you snuck into hyrule castle and blow up the bomb wall to get to the next fairy and get her reward for 50 Ruppees.
             </p>
           </li>
           <li>
-            <h3 class="guide-subtitle">Nayru's Love</h3>
+            <h3 class="guide-subtitle">The Third: Farore's Wind</h3>
             <figure class="image-block">
                <img src="{{ '/assets/images/ootn64/NayrusLove.jpg' | relative_url }}"
                     alt="nayrulove"
                     class="guide-art">
             </figure>
             <p>
-            Nayru's Love you get from the great fairy at the Desert Collosus through a bombable wall near the desert entrance.
+            Go to Zora's Fountain and blow up the wall behind Jabu Jabu to access the next fairy fountain and pay 100 to get Farore's Wind.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">The Fourth: Gift of Doubled Magic</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/NayrusLove.jpg' | relative_url }}"
+                    alt="nayrulove"
+                    class="guide-art">
+            </figure>
+            <p>
+            Go to Death Mountain Crater as an adult using Bolero of Fire and hookshot back towards Goron City and slightly left of the city entrance there will be a chunk of iron to break with the megaton hammer and summon the fairy and obtain a bigger magic meter in exchange for 200 Ruppees.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">The Fifth: Nayru's Love</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/NayrusLove.jpg' | relative_url }}"
+                    alt="nayrulove"
+                    class="guide-art">
+            </figure>
+            <p>
+            Go to the Evil Desert Colossus and along the wall to your bottom right from the warp pad will have a bombable wall to get the next fairy to give you Nayru's Love for 300 Ruppees.
+            </p>
+          </li>
+          <li>
+            <h3 class="guide-subtitle">The Sixth: Gift of Halved Damage</h3>
+            <figure class="image-block">
+               <img src="{{ '/assets/images/ootn64/NayrusLove.jpg' | relative_url }}"
+                    alt="nayrulove"
+                    class="guide-art">
+            </figure>
+            <p>
+            Go to Ganon's Tower and lift the gold gauntlet pillar outside to gain access to the final fairy and pay 500 Ruppees to get your final reward.
             </p>
           </li>
         </ul>
