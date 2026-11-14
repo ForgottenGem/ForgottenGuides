@@ -2023,7 +2023,6 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                 </li>
               </ul>
             </details>
-          </li>
           <li>
             <details class="console-guide-section">
               <summary>Death Mountain</summary>
