@@ -1613,7 +1613,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Ocarina
                   </p>
                   <p>
-                  In the Lost Woods go to the target room with the slingshot and jump down, stand on the log platform and play the mimic minigame with the skull kids to get the heart piece.
+                  In the Lost Woods go to the target room with the slingshot and jump down, stand on the log platform and play the mimic minigame with the skull kids three times to get the heart piece.
                   </p>
                 </li>
                 <li>
@@ -1643,10 +1643,23 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Bombs
+                  Requires: Adult Link
                   </p>
                   <p>
-                  In the fenced off section outside Lake Hylia bomb in the center of the four fences to buy a piece of heart from the deku scrubs within.
+                  Just outside gerudo valley their will be a chest under an archway, interact with it to find out it's locked then come back here as an adult and interact with the fairy secrets next to the chest then come back as a child and you can open it.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP3.jpg' | relative_url }}"
+                          alt="hp3"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Adult Link
+                  </p>
+                  <p>
+                  Just outside hyrule market walk left along the outside of the walls to find a grotto, talk to the scrub inside and you wont know the password so exit the grotto and return back here as an adult
                   </p>
                 </li>
               </ul>
