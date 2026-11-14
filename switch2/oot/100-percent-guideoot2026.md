@@ -1816,10 +1816,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Cuccoo or Boomerang
+                  Requires: Cuccoo
                   </p>
                   <p>
-                  Using the cuccoo at the start of Zora River take it to the end and jump off from the highest platform to float down onto the heart piece or use the boomerang to get it from a distance.
+                  Using the cuccoo at the start of Zora River past the gate take it to the end and jump off from the platforms to float down onto the heart piece.
                   </p>
                 </li>
                 <li>
@@ -1829,10 +1829,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Cuccoo or Boomerang
+                  Requires: Cuccoo
                   </p>
                   <p>
-                  Using the cuccoo at the start of Zora River take it to the mid section where if you tuen around you can float over to a platform behind a wall to climb up a ladder where you will find another cuccoo, pick that one up and walk carefully across to the gossip stone and from there you can float down to this heart piece.
+                  Using the cuccoo at the start of Zora River take it to the mid section where if you turn around you can float over to a platform behind a wall to climb up a ladder where you will find another cuccoo in a grotto here so take it out with you, walk across to the gossip stone and from there you can float down to this heart piece.
                   </p>
                 </li>
                 <li>
@@ -1845,7 +1845,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Sticks
                   </p>
                   <p>
-                  Carry the flame in Zora's Domain all the way from the Kings chamber down and around the domain goinf anti clockwise and when you light them all quick enough a chest will spawn behind the watefall, the final two torches are behind the waterfall.
+                  Carry the flame in Zora's Domain all the way from the Kings chamber down and around the domain going anti clockwise and when you light them all quick enough a chest will spawn behind the watefall, the final two torches are behind the waterfall.
                   </p>
                 </li>
                 <li>
@@ -1858,7 +1858,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Song of Storms
                   </p>
                   <p>
-                  Near the halfway point of Zora River stand up onto a log and when you pull out your ocarina some frogs will appear when you play song of storms you will get a heart piece.
+                  Near the halfway point of Zora River stand up onto a stone and when you pull out your ocarina some frogs will appear when you play song of storms you will get a heart piece.
                   </p>
                 </li>
                 <li>
@@ -1868,10 +1868,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Zelda's Lullaby, Saria's Song, Epona's Song, Sun's Song, Song of Time
+                  Requires: Zelda's Lullaby, Saria's Song, Epona's Song, Sun's Song, Song of Time, Song of Storms
                   </p>
                   <p>
-                  Same as last time with the frogs but this time play Zelda's Lullaby, Saria's Song, Epona's Song, Sun's Song, Song of Time and all five frogs will have grown by now and now you can play where the butterflys appear above the frogs in quick succession , the order is A, Left, Right, Down, Left, Right, Down, A, Down, A, Down, Right, Left, A
+                  Same as last time with the frogs but this time play Zelda's Lullaby, Saria's Song, Epona's Song, Sun's Song, Song of Time and all five frogs will have stayed on their podiums then play song of storms first cause you need to to get the next heart piece and now you can play where the butterfly's appear above the frogs in quick succession. The back two frogs are L, R and the front three are Y, X, A from left to right.
                   </p>
                 </li>
               </ul>
@@ -1891,7 +1891,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Ruppees
                   </p>
                   <p>
-                  In the fishing spot go and catch a ten pound fish as child Link and turn it in to get the heart piece.
+                  In the fishing spot go and catch a fish bigger than 50cm fish as child Link and turn it in to get the heart piece.
                   </p>
                 </li>
               </ul>
@@ -1911,7 +1911,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Nothing
                   </p>
                   <p>
-                  In the valley grab the cuccoo and fly across to the box that's about half way up on the left hand side and roll into it to find the heart piece.
+                  In the valley grab the cuccoo and fly across to the chest that's about half way up on the left hand side to find the heart piece.
                   </p>
                 </li>
                 <li>
@@ -1937,27 +1937,6 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
       <details class="console-guide-section">
         <summary>Adult Link</summary>
         <ul>
-          <li>
-            <details class="console-guide-section">
-              <summary>Hyrule Field</summary>
-              <ul>
-                <li>
-                  <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP21.jpg' | relative_url }}"
-                          alt="hp21"
-                          class="guide-art">
-                  </figure>
-                  <p>
-                  Requires: Golden Scale or Iron Boots
-                  </p>
-                  <p>
-                  On hyrule field between Gerudo Valley and Hyrule Castle theres a lone tree, put a bomb at it's base and it will reveal a grotto, go to the bottom of the pool inside to get the next heart piece.
-                  </p>
-                </li>
-              </ul>
-            </details>
-          </li>
-          <li>
             <details class="console-guide-section">
               <summary>Kakariko Village</summary>
               <ul>
