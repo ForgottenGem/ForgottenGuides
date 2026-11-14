@@ -1361,7 +1361,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                     class="guide-art">
             </figure>
             <p>
-            Then to get the Gold Scale as adult Link you must fish up a fish of 15 pounds or more in the Lake Hylia fishing hut and turn it in to claim your prize.
+            Then to get the Gold Scale as adult Link you must fish up a fish of 60cm or more in the Lake Hylia fishing hut and turn it in to claim your prize.
             </p>
           </li>
         </ul>
@@ -1401,7 +1401,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                     class="guide-art">
             </figure>
             <p>
-            The second and final upgrade, and easily the most annoying is gotten from scoring 1500 point in the horseback archery mini game in Gerudo's Fortress.
+            The second and final upgrade, and easily the one that was made much better with the remake is gotten from scoring 1400 point in the horseback archery mini game in Gerudo's Fortress.
             </p>
           </li>
         </ul>
@@ -1508,7 +1508,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
               class="guide-art">
       </figure>
       <p>
-      Take Cojiro to the man sleeping in Lost Woods to start the next piece of the sequence, he will give you the odd mushroom to take to granny in Kakariko within 3 minutes.
+      Take Cojiro to the man sleeping in Lost Woods to start the next piece of the sequence, he will give you the odd mushroom to take to granny in Kakariko within 4 minutes who lives behind the potion shop in kakariko.
       </p>
     </li>
     <li>
@@ -1563,7 +1563,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
               class="guide-art">
       </figure>
       <p>
-      Then you have to take it to the scientist in Lake Hylia within 3 minutes, I reccomend using Epona to make it in time.
+      Then you have to take it to the scientist in Lake Hylia within 2:30 minutes, It is made trivial if you do this after the Water Temple as the underwater warp is active again to Lake Hylia.
       </p>
     </li>
     <li>
@@ -1574,18 +1574,18 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
               class="guide-art">
       </figure>
       <p>
-      Bring the eye drops to the giant goron at the top of death mountain to get the claim check.
+      Bring the eye drops to the giant goron at the top of death mountain within 3:30 to get the claim check.
       </p>
     </li>
     <li>
-      <h3 class="guide-subtitle">Claim Check</h3>
+      <h3 class="guide-subtitle">Biggoron Receipt</h3>
       <figure class="image-block">
          <img src="{{ '/assets/images/ootn64/AT10.jpg' | relative_url }}"
               alt="at10"
               class="guide-art">
       </figure>
       <p>
-      After three days return to the goron to get the Biggoron Sword and finish the trade sequence.
+      After three days (use sun song 7 times then head in and out of the crater) return to the goron to get the Biggoron Sword and finish the trade sequence.
       </p>
     </li>
   </ul>
