@@ -1950,20 +1950,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Planted Bean In Graveyard As Child
                   </p>
                   <p>
-                  Return to the graveyard as an adult and the bean plant should be grown so step on it to get lifted up to the heart pices in the box.
-                  </p>
-                </li>
-                <li>
-                  <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP23.jpg' | relative_url }}"
-                          alt="hp23"
-                          class="guide-art">
-                  </figure>
-                  <p>
-                  Requires: Nothing
-                  </p>
-                  <p>
-                  After racing Dampe's ghost play the song of time and go up the stairs to the windmill and jump your way across to the heart piece.
+                  Return to the graveyard as an adult and the bean plant should be grown so step on it to get lifted up to the heart piece in the box.
                   </p>
                 </li>
                 <li>
@@ -1981,6 +1968,19 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                 </li>
                 <li>
                   <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP23.jpg' | relative_url }}"
+                          alt="hp23"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  After racing Dampe's ghost play go up the stairs to the windmill and jump your way across to the heart piece.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
                      <img src="{{ '/assets/images/ootn64/HP25.jpg' | relative_url }}"
                           alt="hp25"
                           class="guide-art">
@@ -1989,7 +1989,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Hookshot
                   </p>
                   <p>
-                  Hookshot onto granny's potion shot from some location around Kakariko a few will let you reach, talk to the man on top who will igve you the piece of heart.
+                  Hookshot onto granny's potion shot from some location around Kakariko a few will let you reach, talk to the man on top who will give you the piece of heart.
                   </p>
                 </li>
                 <li>
@@ -2012,13 +2012,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Bombs
+                  Requires: Hookshot
                   </p>
                   <p>
-                  If the owl is not there you can do this as an adult instead.
-                  </p>
-                  <p>
-                  From the previous piece talk to the owl at the top of the mountain and itll bring you back into Kakariko on a buildings roof, look over the edge and drop down and make your way to the heart piece.
+                  If not gotten as a child with the owl hookshot onto vines on the back left of Impa's house and make your way to the back to get the heart piece.
                   </p>
                 </li>
               </ul>
@@ -2037,7 +2034,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Planted Bean Outside Dodongo's Cavern As Child
                   </p>
                   <p>
-                  Take the plant as an adult and it will basically bring you to the heart piece above you. Or you can jump from the top where you through the bomb down by back flipping over the railing.
+                  Take the plant as an adult and it will basically bring you to the heart piece above you.
                   </p>
                 </li>
                 <li>
@@ -2070,20 +2067,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Nothing
                   </p>
                   <p>
-                  Jump along the ice blocks leading to ice cavern until you get across to the lone ice block to pick up the next heart piece.
-                  </p>
-                </li>
-                <li>
-                  <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP30.jpg' | relative_url }}"
-                          alt="hp30"
-                          class="guide-art">
-                  </figure>
-                  <p>
-                  Requires: Blue Fire
-                  </p>
-                  <p>
-                  In Ice Cavern in the room with the split path if you go to the right room there is a heart piece locked in some red fire which you have to use blue fire on to collect it.
+                  Walk along the ice blocks leading to ice cavern until you get across to the section with ice platforms to pick up the next heart piece.
                   </p>
                 </li>
                 <li>
@@ -2113,10 +2097,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Planted Bean In Lake Hylia As Child or Scarecrow's Song
+                  Requires: Planted Bean In Lake Hylia As Child
                   </p>
                   <p>
-                  Get on top of the laboratory and climb the ladder being careful about the birds to find the next heart piece.
+                  Get on top of the laboratory and climb the ladder to find the next heart piece.
                   </p>
                 </li>
                 <li>
@@ -2129,7 +2113,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Golden Scale
                   </p>
                   <p>
-                  Once you have the golden scale you can use it to dive down to the bottom of the testing pool and you will hear the like zelda success sound and when you talk to the scientist he will give you the next heart piece.
+                  Once you have the golden scale you can use it to dive down to the bottom of the testing pool, then talk to the scientist he will give you the next heart piece.
                   </p>
                 </li>
               </ul>
