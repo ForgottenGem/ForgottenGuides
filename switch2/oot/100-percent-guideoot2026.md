@@ -1753,6 +1753,19 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   In the Kakariko Graveyard at night talk to Dampe and guide him to soft pathes of soil along the paths he walks and I usually get it from the dirt patch closest to me in the pic above.
                   </p>
                 </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP9.jpg' | relative_url }}"
+                          alt="hp9"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Ruppees
+                  </p>
+                  <p>
+                  In the Kakariko Graveyard pull the grave that is farthest right to find a chest with a piece of heart.
+                  </p>
+                </li>
               </ul>
             </details>
           </li>
@@ -1784,6 +1797,19 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   </p>
                   <p>
                   Using bombs get up to the top of death mountain and go into death mountain crater where you can hang off the ledge ahead of you and go into a little alcove to get the next heart piece.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/HP11.jpg' | relative_url }}"
+                          alt="hp11"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Bombs
+                  </p>
+                  <p>
+                  Using bombs get up to the top of death mountain and go into death mountain crater and go left as a child until you encounter a deku scrub to buy the piece of heart.
                   </p>
                 </li>
                 <li>
