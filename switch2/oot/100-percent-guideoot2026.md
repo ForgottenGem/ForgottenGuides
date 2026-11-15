@@ -2995,16 +2995,16 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
       </details>
     </li>
     <li>
-      <p>
-      Please Note:  
-      </p>
-      <p>
-      The last Hyrule Field Skulltula in the Child Section on this guide is counted in game as an adult one though I found it more fitting to make it a child once since you initiate the paradox to get it.  
-      </p>
       <details class="console-guide-section">
         <summary>Adult Link</summary>
         <ul>
           <li>
+            <p>
+            Please Note:  
+            </p>
+            <p>
+            The last Hyrule Field Skulltula in the Child Section on this guide is counted in game as an adult one though I found it more fitting to make it a child once since you initiate the paradox to get it.  
+            </p>
             <details class="console-guide-section">
               <summary>Kokiri Forest / Lost Woods</summary>
               <ul>
