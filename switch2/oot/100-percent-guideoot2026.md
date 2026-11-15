@@ -2348,10 +2348,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Boomerang
                   </p>
                   <p>
-                  In the field between Lon Lon Ranch and Kokiri Forest there is a Gold Skulltula in a tree you can roll into.
+                  In the field just left if leaving lake hylia there is a grotto next to a peahat that you can bomb and find a gold skulltula within.
                   </p>
                 </li>
                 <li>
@@ -2397,7 +2397,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Nothing
                   </p>
                   <p>
-                  There is a tree right next to the main house in the ranch just roll into it to get the next spider.
+                  There is a tree right next to the main entrance if you go left behind the house just roll into it to get the next spider.
                   </p>
                 </li>
                 <li>
@@ -2410,7 +2410,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Night Time Only
                   </p>
                   <p>
-                  Walk all the way around the big corral to the back of the wooden boards at night time for the next spider.
+                  Walk all the way around the big milk tower to the back of the farm at night time for the next spider.
                   </p>
                 </li>
                 <li>
@@ -2424,19 +2424,6 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   </p>
                   <p>
                   Look up at the windows of the main house at night to see the skulltula you need.
-                  </p>
-                </li>
-                <li>
-                  <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS14.jpg' | relative_url }}"
-                          alt="gs14"
-                          class="guide-art">
-                  </figure>
-                  <p>
-                  Requires: Night Time Only and Boomerang
-                  </p>
-                  <p>
-                  At night look around the western walls of the ranch and you'll find the last skulltula here.
                   </p>
                 </li>
               </ul>
@@ -2469,7 +2456,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Nothing
                   </p>
                   <p>
-                  In the castle area before you climb the vine to sneak in roll into the tree in front of you and the skulltula will spawn.
+                  In the castle area after sneaking past through the first few hedges before you climb the vine to sneak in roll into the tree to the right of you and the skulltula will spawn.
                   </p>
                 </li>
                 <li>
@@ -2479,10 +2466,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Song Of Storms
+                  Requires: Song Of Storms, Bombs, Boomerang
                   </p>
                   <p>
-                  The tree at the corner of the fence inside castle walls play song of storms to find the next skulltula inside.
+                  The tree at the corner of the fence inside castle walls near where you woke talon play song of storms to find the next skulltula inside.
                   </p>
                 </li>
               </ul>
@@ -2502,7 +2489,20 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Bugs In A Bottle
                   </p>
                   <p>
-                  Next is the first of "Bean Patch" skulltulas so collect bugs in your bottle which can be found under a rock behind the skulltula family house, then go to the soft soil spot in the graveyard and let them out. You can quickly pick back up one of the three bugs so you don't have to re collect them every time the skulltula should then spawn when a bug crawls into the soil.
+                  Go to the soft soil spot in the graveyard and let a bug out. The skulltula should then spawn when a bug crawls into the soil.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS18.jpg' | relative_url }}"
+                          alt="gs18"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Night Time Only, Boomerang
+                  </p>
+                  <p>
+                  Go behind Dampe's shack and use your boomerang to grab the Skulltula slightly up on the wall.
                   </p>
                 </li>
                 <li>
@@ -2515,7 +2515,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Night Time Only
                   </p>
                   <p>
-                  In the building site in Kakariko on the stack of bricks.
+                  In the building site in Kakariko on the half built wall.
                   </p>
                 </li>
                 <li>
@@ -2528,7 +2528,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Night Time Only
                   </p>
                   <p>
-                  The next is hanging onto the back of the skulltula house.
+                  The next is hanging onto the front of the skulltula house next to the door.
                   </p>
                 </li>
                 <li>
@@ -2538,7 +2538,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Night Time Only
+                  Requires: None
                   </p>
                   <p>
                   Roll into the tree at the center of town for the next skulltula to drop.
@@ -2551,7 +2551,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Night Time Only
+                  Requires: Night Time Only, Slingshot
                   </p>
                   <p>
                   Near the exit to death mountain there is a pretty large tower and if you look up the ladder you will see the next skulltula.
@@ -2567,20 +2567,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Night Time Only
                   </p>
                   <p>
-                  The last one here for now is on the side of the house closest to the death mountain exit.
-                  </p>
-                </li>
-                <li>
-                  <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS24.jpg' | relative_url }}"
-                          alt="gs24"
-                          class="guide-art">
-                  </figure>
-                  <p>
-                  Requires: Night Time Only and Boomerang
-                  </p>
-                  <p>
-                  At the graveyard at night there will be one on the back right wall which you need to get with your boomerang.
+                  The last one here for now is on the back of the left house leading to the death mountain exit.
                   </p>
                 </li>
                 <li>
@@ -2619,7 +2606,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Nothing
                   </p>
                   <p>
-                  The final skulltula in Bottom of the Well is in the room on the right with the like like and chest.
+                  The final skulltula in Bottom of the Well is in the room on the right with the like like
                   </p>
                 </li>
               </ul>
@@ -2670,6 +2657,19 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                 </li>
                 <li>
                   <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS30.jpg' | relative_url }}"
+                          alt="gs30"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Bombs
+                  </p>
+                  <p>
+                  Right before you blow the eyes of the dodongo skull in the main room go into a room right before the bridge to find another skulltula.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
                      <img src="{{ '/assets/images/ootn64/GS31.jpg' | relative_url }}"
                           alt="gs31"
                           class="guide-art">
@@ -2678,7 +2678,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Bombs
                   </p>
                   <p>
-                  In the room late in the dungeon before you push the block to access the boss, blow up the bombable wall to find the skulltula.
+                  In the room late in the dungeon before you push the block to access the boss, in the maze like room blow up the bombable wall to find the skulltula.
                   </p>
                 </li>
                 <li>
@@ -2717,20 +2717,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Bombs
                   </p>
                   <p>
-                  Blow up the rocks blocking your way to the upper mountain and make your way into death mountain crater and destroy the wooden crate right in the entrance.
-                  </p>
-                </li>
-                <li>
-                  <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS35.jpg' | relative_url }}"
-                          alt="gs35"
-                          class="guide-art">
-                  </figure>
-                  <p>
-                  Requires: Boomerang
-                  </p>
-                  <p>
-                  In dodongo's cavern go into the room with the giant stairs but you have to go the long way so take the pillar all the way to the top floor and work your way around till you get to the room with the stairs still up, go to the left and climb the vines up the side of the stairs then into the alcove to get the skulltula.
+                  Blow up the rocks blocking your way to the upper mountain and make your way into death mountain crater and destroy the wooden crate left after the entrance.
                   </p>
                 </li>
                 <li>
@@ -2760,10 +2747,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Nothing
+                  Requires: Bugs In A Bottle, Bombs
                   </p>
                   <p>
-                  Roll into the tree before the boulder baricade right at the start of Zora River.
+                  Right at the start of Zora River use bugs into the bean spot next to the merchant.
                   </p>
                 </li>
                 <li>
@@ -2776,7 +2763,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Night Time Only
                   </p>
                   <p>
-                  Right by the waterfall leading to the domain on the ladder that leads up will have a skulltula at night time.
+                  Right by the waterfall leading to the domain on the backside of the vines that leads up will have a skulltula at night time.
                   </p>
                 </li>
                 <li>
@@ -2789,7 +2776,20 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Nothing
                   </p>
                   <p>
-                  Roll into the tree next to the great fairy fountain in Zora Fountain, it's also the only tree here.
+                  Roll into the tree next to the great fairy fountain in Zora Fountain.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS44.jpg' | relative_url }}"
+                          alt="gs44"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Night Time Only and Boomerang
+                  </p>
+                  <p>
+                  Stand on the archway to the right of Jabu Jabu and at night a skulltula will be on the wall.
                   </p>
                 </li>
                 <li>
@@ -2802,7 +2802,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Nothing
                   </p>
                   <p>
-                  Inside Jabu Jabu in the room where you have to raise the water after throwing Ruto across there is a skulltula on the climbable vines to the right of the switch.
+                  Inside Jabu Jabu in the room where you have to raise the water after throwing Ruto across there is a skulltula up the climbable vines to the right of the platform.
                   </p>
                 </li>
                 <li>
@@ -2815,7 +2815,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Boomerang
                   </p>
                   <p>
-                  After falling back down the weird pits after destroying the lest tentacle youll find a skulltula right next to you which you have to use the boomerang to grab.
+                  After falling back down the weird pits after destroying the lest tentacle youll find a skulltula to the right of you which you have to use the boomerang to grab.
                   </p>
                 </li>
                 <li>
@@ -2828,7 +2828,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Boomerang
                   </p>
                   <p>
-                  Right to the side of the previous skulltula.
+                  To your left from the previous skulltula just inside the hallway.
                   </p>
                 </li>
                 <li>
@@ -2842,19 +2842,6 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   </p>
                   <p>
                   In the room where you need to hit the switch to access the boss theres a skulltula on the vines.
-                  </p>
-                </li>
-                <li>
-                  <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS44.jpg' | relative_url }}"
-                          alt="gs44"
-                          class="guide-art">
-                  </figure>
-                  <p>
-                  Requires: Night Time Only and Boomerang
-                  </p>
-                  <p>
-                  Stand on the log near Jabu Jabu and at night a skulltula will be on the wall.
                   </p>
                 </li>
               </ul>
@@ -2879,19 +2866,6 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS46.jpg' | relative_url }}"
-                          alt="gs46"
-                          class="guide-art">
-                  </figure>
-                  <p>
-                  Requires: Night Time Only
-                  </p>
-                  <p>
-                  In the middle of the Lake Hylia lake there is a small island with two stone pillars and at night there will be a skulltula there.
-                  </p>
-                </li>
-                <li>
-                  <figure class="image-block">
                      <img src="{{ '/assets/images/ootn64/GS47.jpg' | relative_url }}"
                           alt="gs47"
                           class="guide-art">
@@ -2903,6 +2877,19 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   The skulltula will be on the back of the laboratory which you can nab from the bridge.
                   </p>
                 </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS46.jpg' | relative_url }}"
+                          alt="gs46"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: None
+                  </p>
+                  <p>
+                  At the back of the lake there is a new crawlspace which you can enter to get the next skulltula.
+                  </p>
+                </li>
               </ul>
             </details>
           </li>
@@ -2910,6 +2897,19 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
             <details class="console-guide-section">
               <summary>Gerudo Valley</summary>
               <ul>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS49.jpg' | relative_url }}"
+                          alt="gs49"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Night Time Only and Boomerang
+                  </p>
+                  <p>
+                  Enter the valley at night time and when your crossing the tiny wooden bridge the skulltula will be underneath it.
+                  </p>
+                </li>
                 <li>
                   <figure class="image-block">
                      <img src="{{ '/assets/images/ootn64/GS48.jpg' | relative_url }}"
@@ -2921,19 +2921,6 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   </p>
                   <p>
                   Float down to the bank right by the water at the bottom of the valley and use bugs at the bean spot to spawn the gold skulltula.
-                  </p>
-                </li>
-                <li>
-                  <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS49.jpg' | relative_url }}"
-                          alt="gs49"
-                          class="guide-art">
-                  </figure>
-                  <p>
-                  Requires: Night Time Only and Boomerang
-                  </p>
-                  <p>
-                  Enter the valley at night time and when your crossing the tiny wooden bridge the skulltula will be at the water source on your right.
                   </p>
                 </li>
                 <li>
@@ -2959,20 +2946,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Nothing
                   </p>
                   <p>
-                  The next skulltula can be gotten in the room with the silver ruppees in the child Link section of the temple.
-                  </p>
-                </li>
-                <li>
-                  <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS52.jpg' | relative_url }}"
-                          alt="gs52"
-                          class="guide-art">
-                  </figure>
-                  <p>
-                  Requires: Nothing
-                  </p>
-                  <p>
-                  When you climb up to the room where you need to open the wall to let light in you can look back down the pit to see the next skulltula.
+                  The next skulltula can be gotten in the room with the silver tokens in the child Link section of the temple.
                   </p>
                 </li>
                 <li>
