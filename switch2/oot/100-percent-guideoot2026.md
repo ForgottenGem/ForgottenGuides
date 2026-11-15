@@ -2271,6 +2271,19 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                 </li>
                 <li>
                   <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS8.jpg' | relative_url }}"
+                          alt="gs8"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Slingshot
+                  </p>
+                  <p>
+                  In the big circle basement room in the deku tree burn the webbing and go into the one room we didn't before to find the skulltula.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
                      <img src="{{ '/assets/images/ootn64/GS4.jpg' | relative_url }}"
                           alt="gs4"
                           class="guide-art">
@@ -2321,19 +2334,6 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Go through lost woods all the way to where the forest stage grotto is and put bugs into the bean spot nearby.
                   </p>
                 </li>
-                <li>
-                  <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS8.jpg' | relative_url }}"
-                          alt="gs8"
-                          class="guide-art">
-                  </figure>
-                  <p>
-                  Requires: Boomerang
-                  </p>
-                  <p>
-                  In the big circle basement room in the deku tree burn the webbing and go into the one room we didn't before to find the skulltula.
-                  </p>
-                </li>
               </ul>
             </details>
           </li>
@@ -2348,10 +2348,23 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Boomerang and Din's Fire
+                  Requires: Nothing
                   </p>
                   <p>
-                  In the field by gerudo valley's entrance blow a bomb up in the circle of rocks and use din's fire to break the webs and in the cows section there is a skulltula on the back wall.
+                  In the field between Lon Lon Ranch and Kokiri Forest there is a Gold Skulltula in a tree you can roll into.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS9.jpg' | relative_url }}"
+                          alt="gs9"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the field between Lon Lon Ranch and Kokiri Forest there is a Gold Skulltula in a tree you can roll into.
                   </p>
                 </li>
                 <li>
@@ -2361,10 +2374,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Boomerang
+                  Requires: Adult Link
                   </p>
                   <p>
-                  On the way to Kakariko from the castle you'll have to cross a small bridge blow up the base of the tree right across the bridge to get the next skulltula in the grotto there.
+                  Left of the previous one where the peahats are near the water is a grotto with a normal skulltula in it so kill that skulltula then return here as an adult and there will be a gold one in a crate within.
                   </p>
                 </li>
               </ul>
@@ -2982,6 +2995,12 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
       </details>
     </li>
     <li>
+      <p>
+      Please Note:  
+      </p>
+      <p>
+      The last Hyrule Field Skulltula in the Child Section on this guide is counted in game as an adult one though I found it more fitting to make it a child once since you initiate the paradox to get it.  
+      </p>
       <details class="console-guide-section">
         <summary>Adult Link</summary>
         <ul>
