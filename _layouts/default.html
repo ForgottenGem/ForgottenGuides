@@ -8,6 +8,32 @@
   <link rel="icon" type="image/png" href="{{ '/assets/images/Favicon.png' | relative_url }}">
 </head>
 <body>
+  <div class="side-decorations" id="side-decorations"></div>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const container = document.getElementById("side-decorations");
+
+  for (let side of ["left", "right"]) {
+    for (let i = 0; i < 12; i++) {
+      const img = document.createElement("img");
+
+      img.src = "{{ '/assets/images/side-symbol.png' | relative_url }}";
+
+      img.style.width = (35 + Math.random() * 55) + "px";
+      img.style.top = (Math.random() * 100) + "%";
+      img.style.left = side === "left"
+        ? (Math.random() * 18) + "%"
+        : (82 + Math.random() * 18) + "%";
+
+      img.style.transform = "rotate(" + (Math.random() * 70 - 35) + "deg)";
+      img.style.opacity = (0.04 + Math.random() * 0.06);
+
+      container.appendChild(img);
+    }
+  }
+});
+</script>
+
   <header class="site-header">
     <div class="container">
       <h1 class="site-title"><a href="{{ '/' | relative_url }}">ForgottenGuides</a></h1>
