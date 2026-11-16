@@ -30,28 +30,24 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
       <details class="console-guide-section">
         <summary>Kokiri Forest & The Deku Tree</summary>
         <ul>
-          <div class="box-art-carousel">
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (1).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (4).jpg" | relative_url }}"
+     ]'>
   <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
   <figure class="image-block">
-    <img id="box-art-image"
-         src="{{ '/assets/images/ootswitch2/1 (1).jpg' | relative_url }}"
-         class="box-art">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (1).jpg' | relative_url }}"
+      class="box-art">
   </figure>
   <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
-</div>
+</div>      
 <script>
-  const boxArts = [
-    {
-      src: "{{ '/assets/images/ootswitch2/1 (1).jpg' | relative_url }}",
-    },
-    {
-      src: "{{ '/assets/images/ootswitch2/1 (4).jpg' | relative_url }}",
-    }
-  ];
-  let currentBoxArt = 0;
-  function changeBoxArt(button, direction) {
+function changeBoxArt(button, direction) {
   const carousel = button.closest('.box-art-carousel');
   const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
   let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
   currentBoxArt += direction;
   if (currentBoxArt < 0) {
@@ -61,34 +57,30 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
     currentBoxArt = 0;
   }
   carousel.dataset.currentIndex = currentBoxArt;
-  image.src = boxArts[currentBoxArt].src;
+  image.src = boxArts[currentBoxArt];
 }
 </script>
           <p>
           Wake up and start the game before going outside and talking to Saria then go into a maze on your left through a crawlspace in kokiri forest to get the kokiri sword then explore the city till you have enough money to buy the shield from the shop (40 Ruppees). Then go past mido to the deku tree while killing some upright deku babas to get some deku sticks.
           </p>
-          <div class="box-art-carousel">
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (2).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (3).jpg" | relative_url }}"
+     ]'>
   <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
   <figure class="image-block">
-    <img id="box-art-image"
-         src="{{ '/assets/images/ootswitch2/1 (2).jpg' | relative_url }}"
-         class="box-art">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (2).jpg' | relative_url }}"
+      class="box-art">
   </figure>
   <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
 </div>
 <script>
-  const boxArts = [
-    {
-      src: "{{ '/assets/images/ootswitch2/1 (2).jpg' | relative_url }}",
-    },
-    {
-      src: "{{ '/assets/images/ootswitch2/1 (3).jpg' | relative_url }}",
-    }
-  ];
-  let currentBoxArt = 0;
-  function changeBoxArt(button, direction) {
+function changeBoxArt(button, direction) {
   const carousel = button.closest('.box-art-carousel');
   const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
   let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
   currentBoxArt += direction;
   if (currentBoxArt < 0) {
@@ -98,7 +90,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
     currentBoxArt = 0;
   }
   carousel.dataset.currentIndex = currentBoxArt;
-  image.src = boxArts[currentBoxArt].src;
+  image.src = boxArts[currentBoxArt];
 }
 </script>
           <p>
@@ -128,28 +120,24 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
           <p>
           Enemies will drop on you so you have to grab the torch and burn the webbing covering a crawlspace to then push a block down in the next room as a form of shortcut using the torch from earlier light a stick on fire and quickly jump back across the shortcut block then roll on the webbed floor with the fiery stick to drop down.
           </p>
-          <div class="box-art-carousel">
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (8).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (9).jpg" | relative_url }}"
+     ]'>
   <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
   <figure class="image-block">
-    <img id="box-art-image"
-         src="{{ '/assets/images/ootswitch2/1 (8).jpg' | relative_url }}"
-         class="box-art">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (8).jpg' | relative_url }}"
+      class="box-art">
   </figure>
   <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
 </div>
 <script>
-  const boxArts = [
-    {
-      src: "{{ '/assets/images/ootswitch2/1 (8).jpg' | relative_url }}",
-    },
-    {
-      src: "{{ '/assets/images/ootswitch2/1 (9).jpg' | relative_url }}",
-    }
-  ];
-  let currentBoxArt = 0;
-  function changeBoxArt(button, direction) {
+function changeBoxArt(button, direction) {
   const carousel = button.closest('.box-art-carousel');
   const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
   let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
   currentBoxArt += direction;
   if (currentBoxArt < 0) {
@@ -159,7 +147,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
     currentBoxArt = 0;
   }
   carousel.dataset.currentIndex = currentBoxArt;
-  image.src = boxArts[currentBoxArt].src;
+  image.src = boxArts[currentBoxArt];
 }
 </script>
           <p>
