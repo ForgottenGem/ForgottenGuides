@@ -3672,31 +3672,30 @@ function changeBoxArt(button, direction) {
 <details class="guide-section">
   <summary>Hall Of Fallen Foes</summary>
         <ul>
-          <div class="box-art-carousel">
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (513).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (514).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (515).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (516).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (517).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (518).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (519).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (520).jpg" | relative_url }}"
+     ]'>
   <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
   <figure class="image-block">
-    <img id="box-art-image"
-         src="{{ '/assets/images/misc/N64.png' | relative_url }}"
-         class="box-art">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (513).jpg' | relative_url }}"
+      class="box-art">
   </figure>
   <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
-</div>
+</div>      
 <script>
-  const boxArts = [
-    {
-      src: "{{ '/assets/images/misc/N64.png' | relative_url }}",
-    },
-    {
-      src: "{{ '/assets/images/misc/N64DD.png' | relative_url }}",
-    },
-    {
-      src: "{{ '/assets/images/misc/N64IQUE.png' | relative_url }}",
-    }
-  ];
-  let currentBoxArt = 0;
-  function changeBoxArt(button, direction) {
+function changeBoxArt(button, direction) {
   const carousel = button.closest('.box-art-carousel');
   const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
   let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
   currentBoxArt += direction;
   if (currentBoxArt < 0) {
@@ -3706,7 +3705,7 @@ function changeBoxArt(button, direction) {
     currentBoxArt = 0;
   }
   carousel.dataset.currentIndex = currentBoxArt;
-  image.src = boxArts[currentBoxArt].src;
+  image.src = boxArts[currentBoxArt];
 }
 </script>
           <p>
