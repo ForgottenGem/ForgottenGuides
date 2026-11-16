@@ -113,7 +113,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
           Go back out and climb even higher to the top layer of the tree entering a room where you'll get your compass from a big chest, feel free to grab the skulltula though there will be a section for skulltula tokens down below, then jump off from the top to break the webbing blocking the bottom floors.
           </p>
           <figure class="image-block">
-             <img src="{{ '/assets/images/ootswitch2/1(6).jpg' | relative_url }}"
+             <img src="{{ '/assets/images/ootswitch2/1 (6).jpg' | relative_url }}"
                   alt="T4"
                   class="guide-art">
           </figure>
