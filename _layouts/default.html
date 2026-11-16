@@ -8,7 +8,8 @@
   <link rel="icon" type="image/png" href="{{ '/assets/images/Favicon.png' | relative_url }}">
 </head>
 <body>
-  <div class="side-decorations" id="side-decorations"></div>
+  <header class="site-header">
+    <div class="side-decorations" id="side-decorations"></div>
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   const container = document.getElementById("side-decorations");
@@ -33,8 +34,6 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 });
 </script>
-
-  <header class="site-header">
     <div class="container">
       <h1 class="site-title"><a href="{{ '/' | relative_url }}">ForgottenGuides</a></h1>
       <nav class="site-nav">
