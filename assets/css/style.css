@@ -359,7 +359,7 @@ body > *:not(.side-decorations) {
   z-index: 1;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1800px) {
   .side-decorations {
     display: none;
   }
