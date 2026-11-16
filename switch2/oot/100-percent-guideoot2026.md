@@ -34,7 +34,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
   <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
   <figure class="image-block">
     <img id="box-art-image"
-         src="{{ '/assets/images/misc/N64.png' | relative_url }}"
+         src="{{ '/assets/images/ootswitch2/1 (1).jpg' | relative_url }}"
          class="box-art">
   </figure>
   <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
@@ -42,13 +42,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
 <script>
   const boxArts = [
     {
-      src: "{{ '/assets/images/misc/N64.png' | relative_url }}",
+      src: "{{ '/assets/images/ootswitch2/1 (1).jpg' | relative_url }}",
     },
     {
-      src: "{{ '/assets/images/misc/N64DD.png' | relative_url }}",
-    },
-    {
-      src: "{{ '/assets/images/misc/N64IQUE.png' | relative_url }}",
+      src: "{{ '/assets/images/ootswitch2/1 (2).jpg' | relative_url }}",
     }
   ];
   let currentBoxArt = 0;
