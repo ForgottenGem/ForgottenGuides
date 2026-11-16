@@ -45,7 +45,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
       src: "{{ '/assets/images/ootswitch2/1 (1).jpg' | relative_url }}",
     },
     {
-      src: "{{ '/assets/images/ootswitch2/1 (2).jpg' | relative_url }}",
+      src: "{{ '/assets/images/ootswitch2/1 (4).jpg' | relative_url }}",
     }
   ];
   let currentBoxArt = 0;
@@ -71,7 +71,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
   <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
   <figure class="image-block">
     <img id="box-art-image"
-         src="{{ '/assets/images/misc/N64.png' | relative_url }}"
+         src="{{ '/assets/images/ootswitch2/1 (2).jpg' | relative_url }}"
          class="box-art">
   </figure>
   <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
@@ -79,13 +79,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
 <script>
   const boxArts = [
     {
-      src: "{{ '/assets/images/misc/N64.png' | relative_url }}",
+      src: "{{ '/assets/images/ootswitch2/1 (2).jpg' | relative_url }}",
     },
     {
-      src: "{{ '/assets/images/misc/N64DD.png' | relative_url }}",
-    },
-    {
-      src: "{{ '/assets/images/misc/N64IQUE.png' | relative_url }}",
+      src: "{{ '/assets/images/ootswitch2/1 (3).jpg' | relative_url }}",
     }
   ];
   let currentBoxArt = 0;
@@ -108,7 +105,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
           When inside the Deku Tree make your way up one layer and you'll see a big chest which stores the map and then continue across till you find a door with a deku scrub inside after deflecting its shot with your new shield enter he next room to get the fairy slingshot then shoot the eye switch to leave.
           </p>
           <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/T3.jpg' | relative_url }}"
+             <img src="{{ '/assets/images/ootswitch2/1 (5).jpg' | relative_url }}"
                   alt="T3"
                   class="guide-art">
           </figure>
@@ -116,7 +113,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
           Go back out and climb even higher to the top layer of the tree entering a room where you'll get your compass from a big chest, feel free to grab the skulltula though there will be a section for skulltula tokens down below, then jump off from the top to break the webbing blocking the bottom floors.
           </p>
           <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/T4.jpg' | relative_url }}"
+             <img src="{{ '/assets/images/ootswitch2/1(6).jpg' | relative_url }}"
                   alt="T4"
                   class="guide-art">
           </figure>
@@ -124,18 +121,47 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
           Burn the webs blocking a door using the torch across the room, then defeat the deku scrub within to learn the code 2.3.1 before shooting the eye above the door to continue, in the next room youll need to lower the water by diving to a switch then use the platform to go under the spike and you'll come into a small room where you have to light 3 unlit torches.
           </p>
           <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/T5.jpg' | relative_url }}"
+             <img src="{{ '/assets/images/ootswitch2/1 (7).jpg' | relative_url }}"
                   alt="T5"
                   class="guide-art">
           </figure>
           <p>
           Enemies will drop on you so you have to grab the torch and burn the webbing covering a crawlspace to then push a block down in the next room as a form of shortcut using the torch from earlier light a stick on fire and quickly jump back across the shortcut block then roll on the webbed floor with the fiery stick to drop down.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/T6.jpg' | relative_url }}"
-                  alt="T6"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel">
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img id="box-art-image"
+         src="{{ '/assets/images/ootswitch2/1 (8).jpg' | relative_url }}"
+         class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+  const boxArts = [
+    {
+      src: "{{ '/assets/images/ootswitch2/1 (8).jpg' | relative_url }}",
+    },
+    {
+      src: "{{ '/assets/images/ootswitch2/1 (9).jpg' | relative_url }}",
+    }
+  ];
+  let currentBoxArt = 0;
+  function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt].src;
+}
+</script>
           <p>
           From there reflect the deku nuts back in the order 2.3.1 to gain access to your first boss Queen Gohma. Shoot her with your slingshot in her eye to stun her and slash away that's all there is to it. Claim your first Heart Container & leave to obtain the Kokiri Emerald.
           </p>
