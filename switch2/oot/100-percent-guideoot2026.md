@@ -2992,7 +2992,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Night Time Only and Hookshot
                   </p>
                   <p>
-                  Come to the now infested Kokiri Forest and hookshot the spider on the twins house close to the entrance to the Deku Tree area.
+                  Come to the now infested Kokiri Forest and hookshot the spider on the twins house closest to the entrance to the Deku Tree area.
                   </p>
                 </li>
                 <li>
@@ -3002,7 +3002,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Night Time Only and Planted Bean
+                  Requires: Planted Bean
                   </p>
                   <p>
                   In the room with the forest stage grotto plant the seed as a child and as an adult at night you can use it to rise up to the skulltula.
@@ -3018,7 +3018,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Night Time Only and Hookshot
                   </p>
                   <p>
-                  When you make the way through the Sacred Forest Meadow climb up the ladder to the upper walls and there will be a skulltula to grab with the hookshot.
+                  When you make the way through the Sacred Grove climb up the ladder to the upper walls and there will be a skulltula to grab with the hookshot.
                   </p>
                 </li>
                 <li>
@@ -3054,10 +3054,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Hookshot
+                  Requires: Hookshot, Scarecrow's Song
                   </p>
                   <p>
-                  In one of the outside sections hookshot onto the front of a small chest to get up to the higher ledge with the spider on it.
+                  In the right side outside sections hookshot onto pierre up top to find the next skulltula. (You push down the block to this ledge through the chessboard room)
                   </p>
                 </li>
                 <li>
@@ -3070,7 +3070,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Hookshot
                   </p>
                   <p>
-                  When you get to the upper outside section you can walk along the stone pillars platforms to find the skulltula a little above you.
+                  When you get to the upper outside section through the red twisted hallway drop down you can walk along the edge of the back wall to get another skulltula.
                   </p>
                 </li>
                 <li>
@@ -3083,7 +3083,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Hookshot
                   </p>
                   <p>
-                  In the rotating room before the boss of the forest temple use the rotating walls to find the skulltula in one of the alcoves.
+                  In the rotating room before the boss of the forest temple use the rotating walls to find the skulltula in the alcove opposite the boss.
                   </p>
                 </li>
               </ul>
@@ -3103,7 +3103,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Hookshot
                   </p>
                   <p>
-                  On the outside of Ganon's castle on the back of the big arch there will a golden skulltula you can grab will the hookshot.
+                  On the outside of Ganon's castle on the back of the big castle wall there will a golden skulltula you can grab will the hookshot.
                   </p>
                 </li>
               </ul>
@@ -3123,7 +3123,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Night Time Only and Hookshot
                   </p>
                   <p>
-                  After getting the hookshot from Dampe make your way roof to roof in Kakariko till you get onto the house which the owl brought you down onto as child Link to find the gold skulltula.
+                  After getting the hookshot from Dampe make your way onto the top of Impa's house using the vines near the backside and you can get the next skulltula.
                   </p>
                 </li>
                 <li>
@@ -3149,7 +3149,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Nothing
                   </p>
                   <p>
-                  In the room with the falling spikes and giant block a skulltula will be in one of the cages.
+                  In the room with the falling spikes and giant block a skulltula will be all the way up top.
                   </p>
                 </li>
                 <li>
@@ -3162,7 +3162,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Nothing
                   </p>
                   <p>
-                  In the room with the giant skull pot throw a bomb in to blow it up to get a small key and the skulltula is right behind that pot.
+                  In the hallway with the three fans right after the room with the silver tokens and invisible spikes use iron boots and stop before dropping in front of the last fan to turn around and see the next skulltula.
                   </p>
                 </li>
                 <li>
@@ -3175,7 +3175,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Scarecrow's Song
                   </p>
                   <p>
-                  When you get on the big ship before playing Zelda's Lullaby to prgress stand near the front and play Scarecrow's song to summon pierre to bring you to the next skulltula.
+                  Before you get on the big ship before playing Zelda's Lullaby to progress stand on the scaffolding and play Scarecrow's song to summon pierre to bring you to the next skulltula.
                   </p>
                 </li>
                 <li>
@@ -3188,7 +3188,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Nothing
                   </p>
                   <p>
-                  Finally the last in this temple is behind another one of the giant bombable skull jars at the end through one of the doors in the invisible maze.
+                  Finally the last in this temple is in one of the giant bombable skull jars at the end through the door across from where you enter in the invisible maze.
                   </p>
                 </li>
               </ul>
@@ -3247,7 +3247,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Nothing
                   </p>
                   <p>
-                  In the boulder maze room there is a hidden wall on the top right portion of the room which you can bomb to find a skulltula, hit the walls and a different sound plays if its a fake wall.
+                  In the boulder maze room there is a hidden wall on the right portion of the room which you can bomb to find a skulltula.
                   </p>
                 </li>
                 <li>
@@ -3260,7 +3260,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Scarecrow's Song
                   </p>
                   <p>
-                  Play the scarecrow's song when you enter the upper section of the boulder maze room and hookshot up to pierre and following along that path climb a grate and you should find the skulltula.
+                  Play the scarecrow's song when you enter the upper section of the boulder maze room and hookshot up to pierre and following along that path climb a grate and you should find the skulltula right before you enter the next room.
                   </p>
                 </li>
                 <li>
@@ -3273,7 +3273,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Scarecrow's Song
                   </p>
                   <p>
-                  From the last spider continue on till you get to the room with the big pit, look over the edge on the wall to hookshot the next spider.
+                  From the last spider continue on till you get to the room with the big pit, look over the edge on the wall to the right to hookshot the next spider.
                   </p>
                 </li>
                 <li>
@@ -3286,7 +3286,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Megaton Hammer
                   </p>
                   <p>
-                  At the first room of the temple hammer the pillar and you will enter a room with keese and torch slug enemies continue onto a room with flying tiles and a like like, on the back wall is the next skulltula.
+                  At the first room of the temple hammer the pillar and you will enter a room with torch slug enemies continue onto a room with flying tiles and a like like, on the back wall is the next skulltula under an iron chunk.
                   </p>
                 </li>
                 <li>
@@ -3296,10 +3296,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Night Time Only and Megaton Hammer
+                  Requires: Megaton Hammer
                   </p>
                   <p>
-                  On the section between the mountain top and the lower sections where boulders fall as child Link there will be a redish boulder which you have to destroy with the hammer for the next skulltula.
+                  On the section between the mountain top and the lower sections where fire balls fall as child Link there will be a iron chunk which you have to destroy with the hammer for the next skulltula.
                   </p>
                 </li>
                 <li>
@@ -3309,10 +3309,10 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Night Time Only and Megaton Hammer
+                  Requires: Megaton Hammer
                   </p>
                   <p>
-                  Where you throw the bomb flower as child Link to open dodongo's cavern there will be another boulder to destroy with the hammer.
+                  Where you throw the bomb flower as child Link to open dodongo's cavern there will be another iron chunk to destroy with the hammer.
                   </p>
                 </li>
               </ul>
@@ -3332,7 +3332,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Night Time Only and Hookshot
                   </p>
                   <p>
-                  Climb to the upper sections of the lake from the ladder about midway through and once up turn around and it'll be on the wall behind you.
+                  Climb to the upper sections of the river from the vines about midway through and once up turn around and it'll be on the wall behind you.
                   </p>
                 </li>
                 <li>
@@ -3345,7 +3345,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Night Time Only and Hookshot
                   </p>
                   <p>
-                  On the way to the sleeping waterfall as your crossing the small bridge in the small valley right before you see the waterfall look up and you'll see the skulltula.
+                  On the way to the sleeping waterfall as your about to start going up to the waterfall look up and you'll see the skulltula.
                   </p>
                 </li>
                 <li>
@@ -3355,7 +3355,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Night Time Only and Hookshot
+                  Requires: Hookshot
                   </p>
                   <p>
                   Inside Zora's Domain you can go to where you paid for the zora diving minigame and look over the domain from the top of the waterfall look left and youll find the skulltula.
@@ -3371,7 +3371,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Hookshot
                   </p>
                   <p>
-                  In ice cavern with the giant spinning ice blades and silver ruppees there is a skulltula a little bit high up on the wall you can get with your hookshot.
+                  In ice cavern with the giant spinning ice blades and silver tokens there is a skulltula a little bit high up on the wall you can get with your hookshot.
                   </p>
                 </li>
                 <li>
@@ -3410,7 +3410,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Night Time Only and Silver Gauntlets
                   </p>
                   <p>
-                  Where the fairy fountain is lift the silver boulder and go down the pit below it and make your way through that area to find a skulltula.
+                  Where the fairy fountain is lift the silver boulder and go into the cave and make your way through that area to find a skulltula at the top.
                   </p>
                 </li>
               </ul>
@@ -3443,7 +3443,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Iron Boots
                   </p>
                   <p>
-                  Go to the bottom of the main room and use the south path with the bombable floor and hit the crystal through the grate with the spin attack to get the skulltula.
+                  Go to the bottom of the main room and use the east path with the bombable wall at the mid level where you first followed ruto and there's a skulltula inside.
                   </p>
                 </li>
                 <li>
@@ -3461,19 +3461,6 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS88.jpg' | relative_url }}"
-                          alt="gs88"
-                          class="guide-art">
-                  </figure>
-                  <p>
-                  Requires: Longshot
-                  </p>
-                  <p>
-                  Go to the top most floors left doorway to the long room with platforms going up and down, there is a skulltula on the right wall you can get with the longshot.
-                  </p>
-                </li>
-                <li>
-                  <figure class="image-block">
                      <img src="{{ '/assets/images/ootn64/GS89.jpg' | relative_url }}"
                           alt="gs89"
                           class="guide-art">
@@ -3487,6 +3474,19 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                 </li>
                 <li>
                   <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS89.jpg' | relative_url }}"
+                          alt="gs89"
+                          class="guide-art">
+                  </figure>
+                  <p>
+                  Requires: Longshot
+                  </p>
+                  <p>
+                  In the central chambers of the temple there is a skulltula all the way down the bottom through the hidden area.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
                      <img src="{{ '/assets/images/ootn64/GS90.jpg' | relative_url }}"
                           alt="gs90"
                           class="guide-art">
@@ -3495,7 +3495,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Longshot
                   </p>
                   <p>
-                  In the small boulder corridor next to where you get the boss key look towards the end of the hallway to find the final skulltula of the dungeon.
+                  In the small boulder corridor next to where you get the boss key look towards the end of the hallway where the boulders are going to find the final skulltula of the dungeon.
                   </p>
                 </li>
                 <li>
@@ -3554,7 +3554,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Night Time Only
                   </p>
                   <p>
-                  There is a skulltula at the top of the fortress where you need to summon pierre to cross the gap between the two sections.
+                  There is a skulltula at the top of the fortress between the gap where you need to summon pierre to cross the gap between the two sections.
                   </p>
                 </li>
                 <li>
@@ -3606,7 +3606,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                   Requires: Night Time Only
                   </p>
                   <p>
-                  There is a dried up oasis at the south side of the area where at night there will be a skulltula on one of the trees.
+                  Head right from the temple entrance where the swam of birds are to find this skulltula on the back wall.
                   </p>
                 </li>
                 <li>
@@ -3629,10 +3629,23 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
                           class="guide-art">
                   </figure>
                   <p>
+                  Requires: Nothing
+                  </p>
+                  <p>
+                  In the room with the giant statue at the very bottom next to her left leg is the next skulltula.
+                  </p>
+                </li>
+                <li>
+                  <figure class="image-block">
+                     <img src="{{ '/assets/images/ootn64/GS100.jpg' | relative_url }}"
+                          alt="gs100"
+                          class="guide-art">
+                  </figure>
+                  <p>
                   Requires: Scarecrow's Song
                   </p>
                   <p>
-                  In the room with the giant statue climb up the left side of the room to see the skulltula across the way and play scarecrow's song to reach it.
+                  In the room with the giant statue climb up to the statues right hand and play scarecrow's song to reach it.
                   </p>
                 </li>
               </ul>
@@ -3692,7 +3705,7 @@ This Guide will cover anything you need to do to 100% the game. I will go over s
           Some General Notes:
           </p>
           <p>
-          Some enemies I miss are the purple leever which you get by killing leevers over and over in the Evil Desert Colossus, the fake doors in Fire Temple I sometimes forget. When It comes to the 3 Owl Statue Boss Rushes just practice and do your best you'll get them done.
+          Some enemies I miss are the purple leever which you get by killing leevers over and over in the Evil Desert Colossus, the fake doors in Fire Temple I sometimes forget. When It comes to the 3 Owl Statue Boss Rushes just practice and do your best you'll get them done and get those beautiful Trophies in your house.
           </p>
   </ul>
 </details>
