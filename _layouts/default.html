@@ -15,18 +15,18 @@ document.addEventListener("DOMContentLoaded", function () {
   const container = document.getElementById("side-decorations");
 
   for (let side of ["left", "right"]) {
-    for (let i = 0; i < 12; i++) {
+    for (let i = 0; i < 9; i++) {
       const img = document.createElement("img");
 
       img.src = "{{ '/assets/images/side-symbol.png' | relative_url }}";
 
-      img.style.width = (35 + Math.random() * 55) + "px";
+      img.style.width = (25 + Math.random() * 65) + "px";
       img.style.top = (Math.random() * 100) + "%";
       img.style.left = side === "left"
         ? (Math.random() * 18) + "%"
         : (82 + Math.random() * 18) + "%";
 
-      img.style.transform = "rotate(" + (Math.random() * 70 - 35) + "deg)";
+      img.style.transform = "rotate(" + (Math.random() * 120 - 85) + "deg)";
       img.style.opacity = (0.30 + Math.random() * 0.50);
 
       container.appendChild(img);
