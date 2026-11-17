@@ -160,27 +160,104 @@ function changeBoxArt(button, direction) {
       <details class="console-guide-section">
         <summary>Hyrule Field & The Princess</summary>
         <ul>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/HF1.jpg' | relative_url }}"
-                  alt="HF1"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (10).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (11).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (10).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Leaving kokiri forest your childhood friend Saria gives you the ocarina as a parting gift, then entering Hyrule Field proper our goal is Hyrule Castle on the far end of the field.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/HF2.jpg' | relative_url }}"
-                  alt="HF2"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (12).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (13).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (14).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (12).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Walk into the market then again straight to go to the castle proper, there is a girl who you can speak to and she goes by the name Malon, she asks you to go check on her dad who was delivering milk to the castle and gives you an egg. Make your way around the castle grounds sneaking past all the guards until you make your way to a sleeping man and time should have passed and the egg will hatch just use the new chicken on the man to wake him, now you can move milk crates to make your way into the castle courtyards. 
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/HF3.jpg' | relative_url }}"
-                  alt="HF3"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (15).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (16).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (17).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (15).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Sneak your way past the guards until you make your way to Zelda and after speaking with her and obtaining her letter you can leave and see Impa there who teaches you a song before escorting you out and saying you should go through Kakariko Village to Death Mountain.
           </p>
@@ -191,75 +268,229 @@ function changeBoxArt(button, direction) {
       <details class="console-guide-section">
         <summary>Death Mountain & Dodongo's Cavern</summary>
         <ul>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/DDC1.jpg' | relative_url }}"
-                  alt="DDC1"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (18).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (19).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (20).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (18).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           But before making your way to Kakariko or the following mountain make your way back into Kokiri forest where the game started and into the lost woods on the top left of the area and follow this path when you enter: Right, Left, Right, Left, Straight, Left, Right untill you get into the Sacred Grove then making your way through the maze like area you'll find Saria who will teach you Saria's Song.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/DDC2.jpg' | relative_url }}"
-                  alt="DDC2"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (21).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (22).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (23).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (21).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Now you can make your way back to Kakariko once you enter run through to the back wall through an archway of sorts to enter the graveyard and as long as it's night you can pull one of the graves with flowers in front to get a Hylian shield for free or buy one from the Hyrule Market Shop which I recommend equipping instead of the Deku Shield.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/DDC3.jpg' | relative_url }}"
-                  alt="DDC3"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (24).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (25).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (26).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (24).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Then go up to the guard blocking the gate to Death Mountain and show him the letter from zelda so he lets you through, make your way up the mountain into Goron City getting down to the lowest tier of the city play Zelda's lullaby infront of the door down there to open it and meet the upset goron chief Darunia now using Saria's song that we got earlier play it infront of darunia to help him calm down where he will recognize you as a messenger from Zelda and grant you the goron bracelet as a sign of trust basically.
           </p>
           <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/DDC4.jpg' | relative_url }}"
+             <img src="{{ '/assets/images/ootswitch2/1 (27).jpg' | relative_url }}"
                   alt="DDC4"
                   class="guide-art">
           </figure>
           <p>
           Make your way out of the city's main exit and then go instantly right and throw the bomb infront of you over the railing to break the boulder blocking the entrance to Dodongo's Cavern and make your way down and into the dungeon.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/DDC5.jpg' | relative_url }}"
-                  alt="DDC5"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (28).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (29).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (28).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           When inside the temple you immedietly see a bombable wall which you can use the bomb flowers nearby to get rid of, then when in the temple proper you see a bombable wall on your left, bomb that and open the chest to get the dungeon map. Next go to the bombable wall on the right side of the room nearest the entrance to find the next pathway you need to go. Continue straight till you enter a room with two lizalfos defeat them and move on into the next room where you need to light torches with deku sticks.
           </p>
           <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/DDC6.jpg' | relative_url }}"
+             <img src="{{ '/assets/images/ootswitch2/1 (30).jpg' | relative_url }}"
                   alt="DDC6"
                   class="guide-art">
           </figure>
           <p>
           Continue through the door that unlocks to step on a switch unlocking another door across the way then go through that door and you'll be in a room with a lot of bombs, firstly bomb the bombable wall on your left and go into the room to find the compass for the temple. Now head back into the previous room and place a bomb into the gap in the line of bombs to blow them all up and lower the staircase. From there go up the stairs into the next room and be careful of the keese while moving the armos to then climb up and use the switch to unlock this rooms door.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/DDC7.jpg' | relative_url }}"
-                  alt="DDC7"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (31).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (32).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (31).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Next make your way through this annoyingly shaped room before blowing up a bombable wall and continue hitting the eye switches with your slingshot to get further in before fighting two more lizalfos. When you get through just go straight to the big chest and open it to get the bomb bag.
           </p>
           <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/DDC8.jpg' | relative_url }}"
+             <img src="{{ '/assets/images/ootswitch2/1 (33).jpg' | relative_url }}"
                   alt="DDC8"
                   class="guide-art">
           </figure>
           <p>
           In the next room activate the switch for a handy shortcut and continue across the other bridge with two noticeable gaps in it, I recommend going as close as you can to the gap then drop a bomb down both to open up the dodongo skull doorway to continue into the dungeon.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/DDC9.jpg' | relative_url }}"
-                  alt="DDC9"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (34).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (35).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (36).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (34).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Go into the next room with a pit in the middle and two keese go into the straight pathway and make your way through the next room with the big walls dividing up the room, then in the next hallway push the block down and drag it into the pit in the center of the room to open the way into the next boss King Dodongo. Dodge his rolls or flame breath until you see him start breathing in and then from there throw a bomb into his mouth to stun him and attack, repeat ad nauseam until defeated. Then claim your new Heart Container & The Goron Ruby once you leave.
           </p>
@@ -270,67 +501,252 @@ function changeBoxArt(button, direction) {
       <details class="console-guide-section">
         <summary>Zora's Domain & Inside Jabu-Jabu's Belly</summary>
         <ul>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/Z1.jpg' | relative_url }}"
-                  alt="Z1"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (37).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (38).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (39).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (37).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Back outside Dodongo's Cavern I recommend going up the mountain rather than down as when your just past the city you'll notice some rocks that you can blow up to go further up the mountain with your new bomb bag and when your all the way up blow the bombable wall to get into a Great Fairy Fountain where when you play Zelda's lullaby on the Triforce symbol you'll get the magic meter and Din's Fire in exchange for 25 Ruppees.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/Z3.jpg' | relative_url }}"
-                  alt="Z3"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (40).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (41).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (42).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (40).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           After that head back out of Death Mountain & Kakariko and go to the entrance to the right of Kakariko to get into Zora's River, blow up the boulder blocking your way and you'll see a bean salesman, eventually you'll have to buy beans which you can do now though they aren't cheap. From there start to follow the river upwards until you come across a waterfall with a Triforce symbol infront of it then play Zelda's lullaby and the waterfall will open and let you in.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/Z4.jpg' | relative_url }}"
-                  alt="Z4"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (43).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (44).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (45).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (46).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (47).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (43).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Once in Zora's domain proper your first thing you should do is go up till you see the King Zora and go left into a cavern sorta thing and talk to the zora up top who will drop scales down for you to gather when you do you'll be sent back to him for your prize The Silver Scale allowing you to dive deeper than before. From here dive back down the waterfall and you'll see an opening deep in the water, dive down and go through you will end up in Lake Hylia and not too far infront of you you'll see a bottle letting out some bubbles in the water, dive down and collect the bottle with a letter in it return to King Zora and show him the letter where he will then "mweeep" out of the way for you to get by, before going past him go back down into the shallow water in the domain and pick up some fish with that handy dandy bottle you now have then go back up past the King.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/Z5.jpg' | relative_url }}"
-                  alt="Z5"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (48).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (49).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (48).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Let the fish out of your bottle in front of Lord Jabu-Jabu who will open his mouth and suck you in granting access to the third temple of the game Inside Jabu-Jabu's Belly. Walk forward either defeating or ignoring the two octoroks that come up and hit the yellow dangly thing in the chamber to unlock the door forward continue into the dungeon till you encounter a cutscene with the zora princess Ruto where after she will fall down a pit, which you then must dive down straight after her.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/Z6.jpg' | relative_url }}"
-                  alt="Z6"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (50).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (51).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (50).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Where after talking to her again she'll give you the honour of carrying her around, go in the door next to you and you'll come to a room with a pit, throw Ruto up the opposite ledge before hitting the switch letting the water raise and get the big chest on the left for the map. Then follow her up where you can actually throw her into the next dangly yellow switch to activate it. From that room dodge the octorok and hit the dangly switch till the lift comes down then jump on with Ruto to continue your journey. 
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/Z7.jpg' | relative_url }}"
-                  alt="Z7"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (52).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (53).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (53).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (55).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (56).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (52).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Going past the room where she first fell down you'll come to along room which ends up being 5 different paths so take a left and go into the first door to defeat four fish and obtain the boomerang, then go forward and put Ruto onto the button to head into the right side door and use the boomerang to defeat the parasitic tentacle within, with that dead head the left path to face another tentacle enemy, then come out and head straight there's a small door on the right where you can kill bubbles to get the compass then head into the main door straight ahead. Then go back to the room Ruto fell down and you'll notice the path that was blocked by a tentacle is now unblocked so dive straight down the hole.
           </p>
           <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/Z8.jpg' | relative_url }}"
+             <img src="{{ '/assets/images/ootswitch2/1 (58).jpg' | relative_url }}"
                   alt="Z8"
                   class="guide-art">
           </figure>
           <p>
           Go through the hallway on the platform you land on into a room and throw Ruto onto the platform from there she's captured and a miniboss starts against the Big Octo. You have to use the boomerang which will then stun him and run around to his backside when he is stunned that is his weak point and after that a couple times the fight is basically over. 
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/Z9.jpg' | relative_url }}"
-                  alt="Z9"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (59).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (60).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (61).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (62).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (59).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Now get onto it's platform get raised up and go through the hallway stun the two jiggly blocks with your boomerang to continue, grab a stone block on the right to have it hold down a switch to let you into the next room. Climb up the vines in this next room and target the dangly switch while throwing your boomerang to curve the shot and hit the switch granting you access to the boss, Barinade. In the first phase cut the three tentacles connecting him to the ceiling, then he will start swinging the upper jellyfish around him you need to dodge until they become vulnerable then use your boomerang to kill the small jellyfish, next he will start charging you with the last few around him, keep spamming your boomerang till you stun him again and use the boomerang to deal with the jellyfish, Finally he will fly around again this time stun him with your boomerang and hit him, repeat this again and again till you win. Congrats! Now claim your Heart Container & Zora Sapphire.
           </p>
@@ -342,7 +758,7 @@ function changeBoxArt(button, direction) {
         <summary>It's About Time</summary>
         <ul>
           <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/AT1.jpg' | relative_url }}"
+             <img src="{{ '/assets/images/ootswitch2/1 (63).jpg' | relative_url }}"
                   alt="AT1"
                   class="guide-art">
           </figure>
@@ -350,18 +766,44 @@ function changeBoxArt(button, direction) {
           Make your way back to Hyrule Castle where a cutscene will play of Zelda fleeing and she throws the ocarina of time into the water which you have to dive in after where it will hold onto a memory teaching you the Song of Time.
           </p>
           <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/AT2.jpg' | relative_url }}"
+             <img src="{{ '/assets/images/ootswitch2/1 (64).jpg' | relative_url }}"
                   alt="AT2"
                   class="guide-art">
           </figure>
           <p>
           From here go back into the market speak with Malon immediately on your left to make her move to the Ranch and then take the right exit to go to the Temple of Time and when inside by the alter play the newly learned Song of Time to open up the door of time and acquire the Master Sword. From inside Link takes the Master Sword and travels 7 years into the future until he is ready to wield the blade of evils bane. You meet a mysterious male sheikah who tells you to go to Kakariko before tackling the forest temple which I agree on. 
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/AT3.jpg' | relative_url }}"
-                  alt="AT3"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (66).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (67).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (68).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (66).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Make your way to the graveyard in Kakariko town and there will be a new grave on the very left which will have a grotto underneath when you pull it. Down there you will find a ghost version of Dampe the grave keeper, make your way to the end by following Dampe and you will get the hookshot as a reward then exit through the upper section with the Hookshot upper section.
           </p>
@@ -372,67 +814,279 @@ function changeBoxArt(button, direction) {
       <details class="console-guide-section">
         <summary>The Forest Temple</summary>
         <ul>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/FT1.jpg' | relative_url }}"
-                  alt="FT1"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (69).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (70).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (69).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Make your way from Kakariko all the way back to the Kokiri Forest and enter the lost woods making your way through like before (Right, Left, Right, Left, Straight, Left, Right) , you will eventually encounter Mido who will block your way until you play Saria's song for him to show he should trust you since Saria trusted you enough to teach you her song. Once past him make your way to the Sacred Grove and sneak your way past the moblins and once up top you will be taught the warp song to come back here using fast travel at any time.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/FT2.jpg' | relative_url }}"
-                  alt="FT2"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (71).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (72).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (73).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (74).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (75).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (76).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (77).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (71).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Hookshot up onto the tree to enter. Climb your way up top in the first room as you need to open the chest to get your first key needed to progress, through this doorway you will meat the poe sisters, four ghosts you have to defeat to gain access to the dungeon boss. For now head straight on and go through the northern door and eventually fight some stalfos to get another small key. Head back to the main room and from their enter the north western doorway blocked by a block of time, go right and climb the vines with three skulltulas and hookshot across to lower the water for the well to claim another small key. Once up the well hookshot to the point across from you to get the map.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/FT3.jpg' | relative_url }}"
-                  alt="FT3"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (78).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (79).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (80).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (71).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Go back to the main lobby and head through the westernmost door into a room with two blocks you have to push and pull, continue through this room until your are up top and can activator a shortcut on the left to use in the future, you then have to unlock a door up top leading you into a twisted hallway.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/FT4.jpg' | relative_url }}"
-                  alt="FT4"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (81).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (82).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (83).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (81).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Go across the twisted hall way to the door across the way and ignore the vanishing pictures of one of the poe sisters for now and in the next room you will encounter one stalfos then two more and once they are defeated you can finally get the bow. Instead of continuing forward double back and you can shoot the first poe sister paintings we first ignored to summon and slay her to get a small key. Go all the way back through the twisted room and into the block puzzle room to shoot the eye switch above the door to straighten out the room where you can now go back in and jump down to open the gilded chest and get the boss key of the temple, there is a pit behind you so jump down it now. 
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/FT5.jpg' | relative_url }}"
-                  alt="FT5"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (84).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (85).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (84).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Go through the unlocked door continueing on to the right where you will enter a room with giant hand called a "Floormaster", defeat it and grab the small key that spawns after. Make your way back to the block puzzle room and re-shoot the eye to twist the hallway again, and if you havent now defeat the first red poe sister and collect the key that spawns in her room then go through the stalfos miniboss room to find and defeat the blue poe sister and collect the compass that spawns.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/FT6.jpg' | relative_url }}"
-                  alt="FT6"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (86).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (87).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (88).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (86).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Go through the next door at the top of the blue poe room and you will find a similar room to the one prior but this time go down the hallway with the green skull enemies and go into a room with a frozen eye switch use the flame to unfreeze and hit the switch. Now back track through the room and jump down the pit into the long chessboard like room.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/FT7.jpg' | relative_url }}"
-                  alt="FT7"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (89).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (90).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (91).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (92).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (93).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (94).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (89).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Make your way through this room until your into the green poe sister room and shoot her painting causing blocks to fall, match the correct blocks up to summon and defeat her. And finally leave this room to the center room to find the purple poe sister and defeat her by shooting the one with the purple torch first, then only the one with the lit torch, and finally the one with her eyes open wider than the others. 
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/FT8.jpg' | relative_url }}"
-                  alt="FT8"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (95).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (96).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (95).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Now decending down the elevator your in a room where you can rotate the walls, simply keep rotating until you hit a switch to light a flame then line the flame up to shoot a frozen eye switch, then proceed into the boss room. The boss of this dungeon is Phantom Ganon, shoot him as he is riding his horse out of the paintings with your bow and sometimes there will be a fake ones to throw you off with his staff in HIS right hand as he's the one you have to hit. After he gets off of his mount you will basically play tennis with a ball of light back and forth and when his is stunned just slash away till he is defeated to claim another Heart Container and the Forest Medallion. 
           </p>
@@ -443,83 +1097,350 @@ function changeBoxArt(button, direction) {
       <details class="console-guide-section">
         <summary>The Fire Temple</summary>
         <ul>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/FI1.jpg' | relative_url }}"
-                  alt="FI1"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (97).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (98).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (97).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           From finishing forest temple make your way back to the temple of time to talk to sheik again who will teach you a fast travel song to return to here anytime and that you can return the master sword to the pedestal to return to being child Link at any time. Then make your way back to the familiar goron city now to find it empty except for a single rolling goron that you need to explode to stop him rolling.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/FI2.jpg' | relative_url }}"
-                  alt="FI2"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (99).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (100).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (101).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (99).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Once stopped talk to him to obtain the goron tunic allowing you to withstand greater heat, make your way to Darunia's room and pull the big statue where he once stood to reveal a secret way into death mountain crater's lower area. There is a broken bridge ahead of you so hookshot across and Sheik will appear once more teaching you the Bolero of Fire warp song. Now onto one of the more annoying temples in my opinion but definitely not the most annoying The Fire Temple.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/FI3.jpg' | relative_url }}"
-                  alt="FI3"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (102).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (103).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (104).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (105).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (102).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Starting out from the main room go up the stairs and left into a room to see Darunia speak to you and the boss door, go to the left section of this room to release a sealed goron and the chest in his cell will have a small key for you to claim. Go back to the main room and enter the right door this time which will lead you into a more open room with a left, right, and straight path. Go left to see a path which has another trapped goron and small key for you then head to the right side of the room blowing up a bombable wall to claim another key. 
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/FI4.jpg' | relative_url }}"
-                  alt="FI4"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (106).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (107).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (106).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           In the next area after claim both keys and continuing straight you will see a giant flaming pillar. Enter the next locked door and climb the wall and push a block down onto the flames which you can use as an elevator to launch yourself upward to the next room. In this room climb up the giant steps leading right and eventually pull out a block so you can climb up higher in the room. Use your bow to hit the crystal switch that will turn off the flames blocking your next path up then climb up into the boulder maze room.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/FI5.jpg' | relative_url }}"
-                  alt="FI5"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (108).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (109).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (110).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (111).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (112).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (108).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           On the lower levels of this boulder maze there is a Map on the left and a key on the right wall with another trapped goron. There is a locked door in the center you can enter but be careful as to not fall down and shoot the eye switch in this room to open it up and have a door open which you can go in and get the compass for the dungeon. Come back into the room with the thin walkways and exit the right door where you have to run across grates away from a wall of fire to get up to the top of the boulder maze. 
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/FI6.jpg' | relative_url }}"
-                  alt="FI6"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (113).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (114).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (115).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (113).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Bomb the floor at the center of the upper section to drop down getting a shortcut and freeing the goron from earlier along with another small key. Back up in the upper area of the maze room and jump your way to the corner to free yet another goron and get yet another small key. Return to the room with the flaming wall that was chasing you and jump up onto the ledge with the locked door.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/FI7.jpg' | relative_url }}"
-                  alt="FI7"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (116).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (117).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (118).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (119).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (120).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (116).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           You will enter like an arch shaped room first go right to get a small key and goron, then left through a short maze and go through the door and straight out the other side. On this side you will need to put a block onto a switch to lower a large flaming wall. Enter the now accesible locked door, you will meet a flare dancer a new miniboss. Use your hookshot while targeting on him to take him out of the flame that it's in and then swing with your sword, repeat until dead.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/FI8.jpg' | relative_url }}"
-                  alt="FI8"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (121).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (122).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (123).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (124).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (108).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           From there you will get lifted up on the flare dancers platform and brought into a big chamber where you have to drop a bomb down onto a switch. Then you will climb into an almost circular room, hit the switch near the entrance and you have to carefully make your way up the circular stairs in time to open the chest and get the megaton hammer. Go back down near where this room began and hammer the giant pin like thing and follow it down. Hammer the statue out of the doorway and then hammer a stairs down.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/FI9.jpg' | relative_url }}"
-                  alt="FI9"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (125).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (126).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (127).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (125).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Then when you drop down with the next pillar hit the iron chunks behind you and go through the door that opens up, play the song of time on the upper ledge to move the block and drop down to release another goron and small key. Continue forward slightly and hammer down the block to be brought back down into the room with the boss door.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/FI10.jpg' | relative_url }}"
-                  alt="FI10"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (128).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (129).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (130).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (131).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (132).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (133).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (128).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Come out to the main lobby and hammer at the statuette blocking a doorway and continue on through a couple room even encountering another flare dancer. And eventually the boss key. Then finally go to the boss room to fight Volvagia. This fight is pretty simple, use the hammer on him when he peeks his head out of a pit and then slash at him when stunned, when hes flying watch out for falling bolders and repeat the cycle over and over.
           </p>
@@ -530,40 +1451,142 @@ function changeBoxArt(button, direction) {
       <details class="console-guide-section">
         <summary>The Ice Cavern & Water Temple</summary>
         <ul>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/WA1.jpg' | relative_url }}"
-                  alt="WA1"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (135).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (136).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (108).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Next make your way to Zora's Domain where Jabu Jabu was as you can't do anything in the domain proper yet, you will notice the jabu jabu is gone and ice blocks are replacing it. Run across the ice into an opening in the cliff to enter ice cavern which is mainly straight forward.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/WA2.jpg' | relative_url }}"
-                  alt="WA2"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (137).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (138).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (139).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (137).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Go and defeat the 3 Freezards in the first room then continue on till you enter a room with a spinning blade of ice and five silver tokens, collect them all to open the door forward. In this room use a bottle to collect blue fire and use the blue fire on the red ice in the room to open the big chest and obtain this mini dungeon's map.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/WA3.jpg' | relative_url }}"
-                  alt="WA3"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (140).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (141).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (142).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (140).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           Collect more blue fire and exit this room back the way you came and head into the room on your left using the blue fire to find more blue fire and the compass in a chest in that room. Come back out and head directly across to the next exit from the blade room and eventually you will be in a room where you need to push a huge block of ice while collecting silver tokens to unlock the way forward.
           </p>
-          <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/WA4.jpg' | relative_url }}"
-                  alt="WA4"
-                  class="guide-art">
-          </figure>
+          <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (143).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (144).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (143).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
           <p>
           From there the dungeon doesn't have much left just for you to finish and claim the iron boots as your own. Once free from the dungeon bring a blue fire before leaving to King Zora and talk to him to get the zora tunic for free.
           </p>
           <figure class="image-block">
-             <img src="{{ '/assets/images/ootn64/WA5.jpg' | relative_url }}"
+             <img src="{{ '/assets/images/ootswitch2/1 (145).jpg' | relative_url }}"
                   alt="WA5"
                   class="guide-art">
           </figure>
