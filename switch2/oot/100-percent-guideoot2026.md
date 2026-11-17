@@ -1459,7 +1459,7 @@ function changeBoxArt(button, direction) {
   <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
   <figure class="image-block">
     <img
-      src="{{ '/assets/images/ootswitch2/1 (108).jpg' | relative_url }}"
+      src="{{ '/assets/images/ootswitch2/1 (135).jpg' | relative_url }}"
       class="box-art">
   </figure>
   <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
