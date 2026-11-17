@@ -2963,11 +2963,36 @@ function changeBoxArt(button, direction) {
   <ul>
     <li>
       <h3 class="guide-subtitle">Keaton Mask</h3>
-      <figure class="image-block">
-         <img src="{{ '/assets/images/ootn64/CT1.jpg' | relative_url }}"
-              alt="ct13"
-              class="guide-art">
-      </figure>
+      <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (299).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (300).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (299).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
       <p>
       Pick up the first mask from the Happy Mask Shop in Hyrule Market. Then give to the guard which blocked the way to death mountain early in the game.
       </p>
@@ -2975,7 +3000,7 @@ function changeBoxArt(button, direction) {
     <li>
       <h3 class="guide-subtitle">Skull Mask</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/ootn64/CT2.jpg' | relative_url }}"
+         <img src="{{ '/assets/images/ootswitch2/1 (301).jpg' | relative_url }}"
               alt="ct2"
               class="guide-art">
       </figure>
@@ -2986,7 +3011,7 @@ function changeBoxArt(button, direction) {
     <li>
       <h3 class="guide-subtitle">Spooky Mask</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/ootn64/CT3.jpg' | relative_url }}"
+         <img src="{{ '/assets/images/ootswitch2/1 (302).jpg' | relative_url }}"
               alt="ct3"
               class="guide-art">
       </figure>
@@ -2996,11 +3021,36 @@ function changeBoxArt(button, direction) {
     </li>
     <li>
       <h3 class="guide-subtitle">Bunny Mask</h3>
-      <figure class="image-block">
-         <img src="{{ '/assets/images/ootn64/CT4.jpg' | relative_url }}"
-              alt="ct4"
-              class="guide-art">
-      </figure>
+      <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (303).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (304).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (303).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
       <p>
       The final mask you have to hand over is to the Running Man who is usually found running around lon lon ranch in Hyrule Field after you beat Jabu Jabu. After that you can now just take any mask you want from the Happy Mask Shop at will and the child Link trade sequence is done.
       </p>
@@ -3018,22 +3068,72 @@ function changeBoxArt(button, direction) {
         <ul>
           <li>
             <h3 class="guide-subtitle">Epona's Song</h3>
-            <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/EponaSong.jpg' | relative_url }}"
-                    alt="eponasong"
-                    class="guide-art">
-            </figure>
+            <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (305).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (306).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (305).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
             <p>
             Epona's Song you must learn from Malon in Lon Lon Ranch as child Link after she goes back there once you wake her dad up at the start of the game and talk to him to make him move back.
             </p>
           </li>
           <li>
             <h3 class="guide-subtitle">Sun's Song</h3>
-            <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/SunSong.jpg' | relative_url }}"
-                    alt="sunsong"
-                    class="guide-art">
-            </figure>
+            <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (307).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (308).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (307).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
             <p>
             Sun's Song you get from using Zelda's Lullaby on the big grave at the back of the Kakariko graveyard. Go into the pit under the grave and defeat the Keese to unlock the next door and run through till you aquire the song at the alter.
             </p>
@@ -3047,11 +3147,36 @@ function changeBoxArt(button, direction) {
         <ul>
           <li>
             <h3 class="guide-subtitle">Scarecrow's Song</h3>
-            <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/ScareCrows.jpg' | relative_url }}"
-                    alt="scarecrows"
-                    class="guide-art">
-            </figure>
+            <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (309).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (310).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (309).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
             <p>
             As child Link speak to bonooru the scarecrow in Lake Hylia and play a song of 8 notes make sure you can remember it, as adult Link return to bonooru and play the same song and if all works now there are specific spots around the world you can play it and summon a scarecrow you can hookshot onto, there will be hay and music notes swirling on a spot where you can summon him.
             </p>
@@ -3065,11 +3190,37 @@ function changeBoxArt(button, direction) {
         <ul>
           <li>
             <h3 class="guide-subtitle">Epona</h3>
-            <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Epona.jpg' | relative_url }}"
-                    alt="epona"
-                    class="guide-art">
-            </figure>
+            <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (311).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (312).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (313).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (311).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
             <p>
             Firstly to unlock Epona you need to have learned Epons's Song as child Link. Return to  Lon Lon Ranch as adult link and talk to Ingo to ride a horse, don't use the horse he gives you. Instead play Epona's song and get on her then talk to Ingo and he will offer to race you around the corral. Take the inside line to win decently well just make sure to conserve carrots to boost when needed, He will ask for a rematch and you have to beat him again and this time he will admit that you won Epona but he doesn't want to lose the horse so he locks you inside. From here just jump over the back wall of the ranch while on Epona and now she's all yours whenever you play her song she will be summoned to you.
             </p>
@@ -3083,22 +3234,78 @@ function changeBoxArt(button, direction) {
         <ul>
           <li>
             <h3 class="guide-subtitle">The New Remake Bottle!</h3>
-            <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Bot1.jpg' | relative_url }}"
-                    alt="bot1"
-                    class="guide-art">
-            </figure>
+            <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (314).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (315).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (314).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
             <p>
             As child Link in Hyrule Market go to the potion shop and the guy at the counter will complain about losing his bug just accept the quest and catch his bug in the store and the bottle is all yours.
             </p>
           </li>
           <li>
             <h3 class="guide-subtitle">Cuccoo Gathering</h3>
-            <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Bot1.jpg' | relative_url }}"
-                    alt="bot1"
-                    class="guide-art">
-            </figure>
+            <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (316).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (317).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (318).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (319).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (320).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (321).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (322).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (323).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (316).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
             <p>
             As child Link in Kakariko talk to Anju a panicked looking lady who needs you to find her cuccoos that have gotten loose around the city and in return she'll give you a bottle.
             </p>
@@ -3106,7 +3313,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">A Cuccoo In A Hay Stack</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Bot2.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (324).jpg' | relative_url }}"
                     alt="bot2"
                     class="guide-art">
             </figure>
@@ -3117,7 +3324,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">The Unmissable Bottle</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Bot3.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (325).jpg' | relative_url }}"
                     alt="bot3"
                     class="guide-art">
             </figure>
@@ -3127,11 +3334,44 @@ function changeBoxArt(button, direction) {
           </li>
           <li>
             <h3 class="guide-subtitle">Poe Bottling Bananza</h3>
-            <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Bot4.jpg' | relative_url }}"
-                    alt="bot4"
-                    class="guide-art">
-            </figure>
+            <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (326).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (327).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (328).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (329).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (330).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (331).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (332).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (333).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (334).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (335).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (326).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
             <p>
             The Final bottle is for turning in 5/10 big poe to the poe shop as adult link (If you return all 10 you get 200 Ruppees). Ride around the field on epona and jump glowing purple hurdles to spawn a poe and hit them twice with your bow to get each poe. Then capture them in a bottle to give to the poe salesman guy.
             </p>
@@ -3146,7 +3386,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">The First: Din's Fire & The Magic Meter</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/DinFire.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (336).jpg' | relative_url }}"
                     alt="dinfire"
                     class="guide-art">
             </figure>
@@ -3157,7 +3397,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">The Second: Gift of Improved Spin</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/FaroreWind.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (337).jpg' | relative_url }}"
                     alt="farorewind"
                     class="guide-art">
             </figure>
@@ -3168,7 +3408,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">The Third: Farore's Wind</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/NayrusLove.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (338).jpg' | relative_url }}"
                     alt="nayrulove"
                     class="guide-art">
             </figure>
@@ -3179,7 +3419,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">The Fourth: Gift of Doubled Magic</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/NayrusLove.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (339).jpg' | relative_url }}"
                     alt="nayrulove"
                     class="guide-art">
             </figure>
@@ -3190,7 +3430,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">The Fifth: Nayru's Love</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/NayrusLove.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (340).jpg' | relative_url }}"
                     alt="nayrulove"
                     class="guide-art">
             </figure>
@@ -3201,7 +3441,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">The Sixth: Gift of Halved Damage</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/NayrusLove.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (341).jpg' | relative_url }}"
                     alt="nayrulove"
                     class="guide-art">
             </figure>
@@ -3219,7 +3459,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">Fire Arrows</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/FireArrows.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (342).jpg' | relative_url }}"
                     alt="firearrows"
                     class="guide-art">
             </figure>
@@ -3230,7 +3470,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">Ice Arrows</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/IceArrows.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (343).jpg' | relative_url }}"
                     alt="icearrows"
                     class="guide-art">
             </figure>
@@ -3241,7 +3481,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">Light Arrows</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/LightArrows.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (267).jpg' | relative_url }}"
                     alt="lightarrows"
                     class="guide-art">
             </figure>
@@ -3259,7 +3499,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">Initial Bomb Bag</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/BBag1.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (344).jpg' | relative_url }}"
                     alt="bb1"
                     class="guide-art">
             </figure>
@@ -3270,7 +3510,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">Bomb Bag Upgrade 1</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/BBag2.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (345).jpg' | relative_url }}"
                     alt="bb2"
                     class="guide-art">
             </figure>
@@ -3281,7 +3521,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">Bomb Bag Upgrade 2</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/BBag3.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (346).jpg' | relative_url }}"
                     alt="bb3"
                     class="guide-art">
             </figure>
@@ -3299,7 +3539,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">Initial Slingshot</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Sling1.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (347).jpg' | relative_url }}"
                     alt="sls1"
                     class="guide-art">
             </figure>
@@ -3310,7 +3550,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">Slingshot Upgrade 1</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Sling2.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (348).jpg' | relative_url }}"
                     alt="sls2"
                     class="guide-art">
             </figure>
@@ -3321,7 +3561,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">Slingshot Upgrade 2</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Sling3.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (349).jpg' | relative_url }}"
                     alt="sls3"
                     class="guide-art">
             </figure>
@@ -3345,7 +3585,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">Deku Nuts Upgrade 1</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Nuts1.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (350).jpg' | relative_url }}"
                     alt="dn2"
                     class="guide-art">
             </figure>
@@ -3356,7 +3596,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">Deku Nuts Upgrade 2</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Nuts2.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (351).jpg' | relative_url }}"
                     alt="dn3"
                     class="guide-art">
             </figure>
@@ -3380,7 +3620,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">Deku Sticks Upgrade 1</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Sticks1.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (352).jpg' | relative_url }}"
                     alt="sunsong"
                     class="guide-art">
             </figure>
@@ -3391,7 +3631,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">Deku Sticks Upgrade 2</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Sticks2.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (353).jpg' | relative_url }}"
                     alt="sunsong"
                     class="guide-art">
             </figure>
@@ -3409,7 +3649,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">Silver Scale</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Scale1.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (354).jpg' | relative_url }}"
                     alt="scale1"
                     class="guide-art">
             </figure>
@@ -3420,7 +3660,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">Golden Scale</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Scale2.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (355).jpg' | relative_url }}"
                     alt="scale2"
                     class="guide-art">
             </figure>
@@ -3438,7 +3678,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">Initial Bow</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Bow1.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (356).jpg' | relative_url }}"
                     alt="bow1"
                     class="guide-art">
             </figure>
@@ -3449,7 +3689,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">Bow Upgrade 1</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Bow2.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (357).jpg' | relative_url }}"
                     alt="bow2"
                     class="guide-art">
             </figure>
@@ -3460,7 +3700,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">Bow Upgrade 2</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Bow3.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (358).jpg' | relative_url }}"
                     alt="bow3"
                     class="guide-art">
             </figure>
@@ -3478,7 +3718,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">Goron Bracelet</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Strength1.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (359).jpg' | relative_url }}"
                     alt="st1"
                     class="guide-art">
             </figure>
@@ -3489,7 +3729,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">Silver Gauntlets</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Strength2.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (360).jpg' | relative_url }}"
                     alt="st2"
                     class="guide-art">
             </figure>
@@ -3500,7 +3740,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">Gold Gauntlets</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Strength3.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (361).jpg' | relative_url }}"
                     alt="st3"
                     class="guide-art">
             </figure>
@@ -3518,7 +3758,7 @@ function changeBoxArt(button, direction) {
           <li>
             <h3 class="guide-subtitle">All Three</h3>
             <figure class="image-block">
-               <img src="{{ '/assets/images/ootn64/Wallets.jpg' | relative_url }}"
+               <img src="{{ '/assets/images/ootswitch2/1 (362).jpg' | relative_url }}"
                     alt="wallets"
                     class="guide-art">
             </figure>
@@ -3545,7 +3785,7 @@ function changeBoxArt(button, direction) {
     <li>
       <h3 class="guide-subtitle">Pocket Egg</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/ootn64/ATT1.jpg' | relative_url }}"
+         <img src="{{ '/assets/images/ootswitch2/1 (363).jpg' | relative_url }}"
               alt="att1"
               class="guide-art">
       </figure>
@@ -3556,7 +3796,7 @@ function changeBoxArt(button, direction) {
     <li>
       <h3 class="guide-subtitle">Cojiro</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/ootn64/ATT2.jpg' | relative_url }}"
+         <img src="{{ '/assets/images/ootswitch2/1 (364).jpg' | relative_url }}"
               alt="att2"
               class="guide-art">
       </figure>
@@ -3567,7 +3807,7 @@ function changeBoxArt(button, direction) {
     <li>
       <h3 class="guide-subtitle">Odd Mushroom</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/ootn64/ATT3.jpg' | relative_url }}"
+         <img src="{{ '/assets/images/ootswitch2/1 (365).jpg' | relative_url }}"
               alt="att3"
               class="guide-art">
       </figure>
@@ -3578,7 +3818,7 @@ function changeBoxArt(button, direction) {
     <li>
       <h3 class="guide-subtitle">Odd Poultice</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/ootn64/AT4.jpg' | relative_url }}"
+         <img src="{{ '/assets/images/ootswitch2/1 (366).jpg' | relative_url }}"
               alt="at4"
               class="guide-art">
       </figure>
@@ -3589,7 +3829,7 @@ function changeBoxArt(button, direction) {
     <li>
       <h3 class="guide-subtitle">Poacher's Saw</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/ootn64/AT5.jpg' | relative_url }}"
+         <img src="{{ '/assets/images/ootswitch2/1 (367).jpg' | relative_url }}"
               alt="at5"
               class="guide-art">
       </figure>
@@ -3600,7 +3840,7 @@ function changeBoxArt(button, direction) {
     <li>
       <h3 class="guide-subtitle">Broken Goron's Sword</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/ootn64/AT6.jpg' | relative_url }}"
+         <img src="{{ '/assets/images/ootswitch2/1 (368).jpg' | relative_url }}"
               alt="at6"
               class="guide-art">
       </figure>
@@ -3611,7 +3851,7 @@ function changeBoxArt(button, direction) {
     <li>
       <h3 class="guide-subtitle">Prescription</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/ootn64/AT7.jpg' | relative_url }}"
+         <img src="{{ '/assets/images/ootswitch2/1 (369).jpg' | relative_url }}"
               alt="at7"
               class="guide-art">
       </figure>
@@ -3622,7 +3862,7 @@ function changeBoxArt(button, direction) {
     <li>
       <h3 class="guide-subtitle">Eyeball Frog</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/ootn64/AT8.jpg' | relative_url }}"
+         <img src="{{ '/assets/images/ootswitch2/1 (370).jpg' | relative_url }}"
               alt="at8"
               class="guide-art">
       </figure>
@@ -3633,7 +3873,7 @@ function changeBoxArt(button, direction) {
     <li>
       <h3 class="guide-subtitle">Eye Drops</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/ootn64/AT9.jpg' | relative_url }}"
+         <img src="{{ '/assets/images/ootswitch2/1 (371).jpg' | relative_url }}"
               alt="at9"
               class="guide-art">
       </figure>
@@ -3644,7 +3884,7 @@ function changeBoxArt(button, direction) {
     <li>
       <h3 class="guide-subtitle">Biggoron Receipt</h3>
       <figure class="image-block">
-         <img src="{{ '/assets/images/ootn64/AT10.jpg' | relative_url }}"
+         <img src="{{ '/assets/images/ootswitch2/1 (372).jpg' | relative_url }}"
               alt="at10"
               class="guide-art">
       </figure>
@@ -3669,7 +3909,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP1.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (373).jpg' | relative_url }}"
                           alt="hp1"
                           class="guide-art">
                   </figure>
@@ -3682,7 +3922,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP2.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (374).jpg' | relative_url }}"
                           alt="hp2"
                           class="guide-art">
                   </figure>
@@ -3701,11 +3941,36 @@ function changeBoxArt(button, direction) {
               <summary>Hyrule Field</summary>
               <ul>
                 <li>
-                  <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP3.jpg' | relative_url }}"
-                          alt="hp3"
-                          class="guide-art">
-                  </figure>
+                  <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (375).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (376).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (375).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
                   <p>
                   Requires: Adult Link
                   </p>
@@ -3714,11 +3979,36 @@ function changeBoxArt(button, direction) {
                   </p>
                 </li>
                 <li>
-                  <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP3.jpg' | relative_url }}"
-                          alt="hp3"
-                          class="guide-art">
-                  </figure>
+                  <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (377).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (378).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (377).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
                   <p>
                   Requires: Adult Link
                   </p>
@@ -3735,7 +4025,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP4.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (379).jpg' | relative_url }}"
                           alt="hp4"
                           class="guide-art">
                   </figure>
@@ -3754,16 +4044,36 @@ function changeBoxArt(button, direction) {
               <summary>Hyrule Market</summary>
               <ul>
                 <li>
-                  <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP5P1.jpg' | relative_url }}"
-                          alt="hp5p1"
-                          class="guide-art">
-                  </figure>
-                  <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP5P2.jpg' | relative_url }}"
-                          alt="hp5p2"
-                          class="guide-art">
-                  </figure>
+                  <div class="box-art-carousel"
+     data-images='[
+       "{{ "/assets/images/ootswitch2/1 (380).jpg" | relative_url }}",
+       "{{ "/assets/images/ootswitch2/1 (381).jpg" | relative_url }}"
+     ]'>
+  <button class="carousel-btn" onclick="changeBoxArt(this, -1)">‹</button>
+  <figure class="image-block">
+    <img
+      src="{{ '/assets/images/ootswitch2/1 (380).jpg' | relative_url }}"
+      class="box-art">
+  </figure>
+  <button class="carousel-btn" onclick="changeBoxArt(this, 1)">›</button>
+</div>
+<script>
+function changeBoxArt(button, direction) {
+  const carousel = button.closest('.box-art-carousel');
+  const image = carousel.querySelector('.box-art');
+  const boxArts = JSON.parse(carousel.dataset.images);
+  let currentBoxArt = Number(carousel.dataset.currentIndex || 0);
+  currentBoxArt += direction;
+  if (currentBoxArt < 0) {
+    currentBoxArt = boxArts.length - 1;
+  }
+  if (currentBoxArt >= boxArts.length) {
+    currentBoxArt = 0;
+  }
+  carousel.dataset.currentIndex = currentBoxArt;
+  image.src = boxArts[currentBoxArt];
+}
+</script>
                   <p>
                   Requires: Nothing
                   </p>
@@ -3773,7 +4083,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP6.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (382).jpg' | relative_url }}"
                           alt="hp6"
                           class="guide-art">
                   </figure>
@@ -3786,7 +4096,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP7.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (383).jpg' | relative_url }}"
                           alt="hp7"
                           class="guide-art">
                   </figure>
@@ -3806,7 +4116,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP9.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (384).jpg' | relative_url }}"
                           alt="hp9"
                           class="guide-art">
                   </figure>
@@ -3819,7 +4129,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP9.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/miss1.jpg' | relative_url }}"
                           alt="hp9"
                           class="guide-art">
                   </figure>
