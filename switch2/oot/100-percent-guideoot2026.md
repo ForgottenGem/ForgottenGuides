@@ -4149,7 +4149,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP10.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (385).jpg' | relative_url }}"
                           alt="hp10"
                           class="guide-art">
                   </figure>
@@ -4162,7 +4162,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP11.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (386).jpg' | relative_url }}"
                           alt="hp11"
                           class="guide-art">
                   </figure>
@@ -4175,7 +4175,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP11.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (411).jpg' | relative_url }}"
                           alt="hp11"
                           class="guide-art">
                   </figure>
@@ -4188,7 +4188,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP12.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (387).jpg' | relative_url }}"
                           alt="hp12"
                           class="guide-art">
                   </figure>
@@ -4211,7 +4211,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP13.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (388).jpg' | relative_url }}"
                           alt="hp13"
                           class="guide-art">
                   </figure>
@@ -4224,7 +4224,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP14.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (389).jpg' | relative_url }}"
                           alt="hp14"
                           class="guide-art">
                   </figure>
@@ -4237,7 +4237,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP15.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (390).jpg' | relative_url }}"
                           alt="hp15"
                           class="guide-art">
                   </figure>
@@ -4250,7 +4250,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP16.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (391).jpg' | relative_url }}"
                           alt="hp16"
                           class="guide-art">
                   </figure>
@@ -4263,7 +4263,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP17.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (392).jpg' | relative_url }}"
                           alt="hp17"
                           class="guide-art">
                   </figure>
@@ -4283,7 +4283,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP18.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (393).jpg' | relative_url }}"
                           alt="hp18"
                           class="guide-art">
                   </figure>
@@ -4303,7 +4303,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP19.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (394).jpg' | relative_url }}"
                           alt="hp19"
                           class="guide-art">
                   </figure>
@@ -4316,7 +4316,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP20.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (395).jpg' | relative_url }}"
                           alt="hp20"
                           class="guide-art">
                   </figure>
@@ -4342,7 +4342,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP22.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (396).jpg' | relative_url }}"
                           alt="hp22"
                           class="guide-art">
                   </figure>
@@ -4355,7 +4355,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP24.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (397).jpg' | relative_url }}"
                           alt="hp24"
                           class="guide-art">
                   </figure>
@@ -4368,7 +4368,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP23.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (398).jpg' | relative_url }}"
                           alt="hp23"
                           class="guide-art">
                   </figure>
@@ -4381,7 +4381,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP25.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (399).jpg' | relative_url }}"
                           alt="hp25"
                           class="guide-art">
                   </figure>
@@ -4394,7 +4394,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP26.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (400).jpg' | relative_url }}"
                           alt="hp26"
                           class="guide-art">
                   </figure>
@@ -4407,7 +4407,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP12.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (401).jpg' | relative_url }}"
                           alt="hp12"
                           class="guide-art">
                   </figure>
@@ -4426,7 +4426,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP27.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (402).jpg' | relative_url }}"
                           alt="hp27"
                           class="guide-art">
                   </figure>
@@ -4439,7 +4439,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP28.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (403).jpg' | relative_url }}"
                           alt="hp28"
                           class="guide-art">
                   </figure>
@@ -4459,7 +4459,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP29.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (404).jpg' | relative_url }}"
                           alt="hp29"
                           class="guide-art">
                   </figure>
@@ -4472,7 +4472,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP31.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (405).jpg' | relative_url }}"
                           alt="hp31"
                           class="guide-art">
                   </figure>
@@ -4492,7 +4492,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP32.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (406).jpg' | relative_url }}"
                           alt="hp32"
                           class="guide-art">
                   </figure>
@@ -4505,7 +4505,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP33.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (407).jpg' | relative_url }}"
                           alt="hp33"
                           class="guide-art">
                   </figure>
@@ -4525,7 +4525,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP34.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (408).jpg' | relative_url }}"
                           alt="hp34"
                           class="guide-art">
                   </figure>
@@ -4538,7 +4538,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP35.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (409).jpg' | relative_url }}"
                           alt="hp35"
                           class="guide-art">
                   </figure>
@@ -4551,7 +4551,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/HP36.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (410).jpg' | relative_url }}"
                           alt="hp36"
                           class="guide-art">
                   </figure>
@@ -4606,7 +4606,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS1.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (413).jpg' | relative_url }}"
                           alt="gs1"
                           class="guide-art">
                   </figure>
@@ -4619,7 +4619,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS2.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (414).jpg' | relative_url }}"
                           alt="gs2"
                           class="guide-art">
                   </figure>
@@ -4632,7 +4632,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS3.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (415).jpg' | relative_url }}"
                           alt="gs3"
                           class="guide-art">
                   </figure>
@@ -4645,7 +4645,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS8.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (420).jpg' | relative_url }}"
                           alt="gs8"
                           class="guide-art">
                   </figure>
@@ -4658,7 +4658,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS4.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (416).jpg' | relative_url }}"
                           alt="gs4"
                           class="guide-art">
                   </figure>
@@ -4671,7 +4671,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS5.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (417).jpg' | relative_url }}"
                           alt="gs5"
                           class="guide-art">
                   </figure>
@@ -4684,7 +4684,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS6.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (418).jpg' | relative_url }}"
                           alt="gs6"
                           class="guide-art">
                   </figure>
@@ -4697,7 +4697,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS7.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (419).jpg' | relative_url }}"
                           alt="gs7"
                           class="guide-art">
                   </figure>
@@ -4717,7 +4717,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS9.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (423).jpg' | relative_url }}"
                           alt="gs9"
                           class="guide-art">
                   </figure>
@@ -4730,7 +4730,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS9.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (421).jpg' | relative_url }}"
                           alt="gs9"
                           class="guide-art">
                   </figure>
@@ -4743,7 +4743,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS10.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (422).jpg' | relative_url }}"
                           alt="gs10"
                           class="guide-art">
                   </figure>
@@ -4763,7 +4763,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS11.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (424).jpg' | relative_url }}"
                           alt="gs11"
                           class="guide-art">
                   </figure>
@@ -4776,12 +4776,12 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS12.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (425).jpg' | relative_url }}"
                           alt="gs12"
                           class="guide-art">
                   </figure>
                   <p>
-                  Requires: Night Time Only
+                  Requires: Night Time Only, Boomerang
                   </p>
                   <p>
                   Walk all the way around the big milk tower to the back of the farm at night time for the next spider.
@@ -4789,7 +4789,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS13.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (426).jpg' | relative_url }}"
                           alt="gs13"
                           class="guide-art">
                   </figure>
@@ -4809,7 +4809,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS15.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (427).jpg' | relative_url }}"
                           alt="gs15"
                           class="guide-art">
                   </figure>
@@ -4822,7 +4822,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS16.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (428).jpg' | relative_url }}"
                           alt="gs16"
                           class="guide-art">
                   </figure>
@@ -4835,7 +4835,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS17.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (429).jpg' | relative_url }}"
                           alt="gs17"
                           class="guide-art">
                   </figure>
@@ -4855,7 +4855,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS18.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (430).jpg' | relative_url }}"
                           alt="gs18"
                           class="guide-art">
                   </figure>
@@ -4868,7 +4868,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS18.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (431).jpg' | relative_url }}"
                           alt="gs18"
                           class="guide-art">
                   </figure>
@@ -4881,7 +4881,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS19.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (432).jpg' | relative_url }}"
                           alt="gs19"
                           class="guide-art">
                   </figure>
@@ -4894,7 +4894,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS20.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (433).jpg' | relative_url }}"
                           alt="gs20"
                           class="guide-art">
                   </figure>
@@ -4907,7 +4907,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS21.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (434).jpg' | relative_url }}"
                           alt="gs21"
                           class="guide-art">
                   </figure>
@@ -4920,7 +4920,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS22.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (435).jpg' | relative_url }}"
                           alt="gs22"
                           class="guide-art">
                   </figure>
@@ -4933,7 +4933,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS23.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (436).jpg' | relative_url }}"
                           alt="gs23"
                           class="guide-art">
                   </figure>
@@ -4946,7 +4946,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS25.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (437).jpg' | relative_url }}"
                           alt="gs25"
                           class="guide-art">
                   </figure>
@@ -4959,7 +4959,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS26.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (438).jpg' | relative_url }}"
                           alt="gs26"
                           class="guide-art">
                   </figure>
@@ -4972,7 +4972,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS27.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (439).jpg' | relative_url }}"
                           alt="gs27"
                           class="guide-art">
                   </figure>
@@ -4980,7 +4980,7 @@ function changeBoxArt(button, direction) {
                   Requires: Nothing
                   </p>
                   <p>
-                  The final skulltula in Bottom of the Well is in the room on the right with the like like
+                  The final skulltula in Bottom of the Well is in the room on the right with the like like.
                   </p>
                 </li>
               </ul>
@@ -4992,7 +4992,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS28.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (440).jpg' | relative_url }}"
                           alt="gs28"
                           class="guide-art">
                   </figure>
@@ -5005,7 +5005,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS29.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (441).jpg' | relative_url }}"
                           alt="gs29"
                           class="guide-art">
                   </figure>
@@ -5018,7 +5018,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS30.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (442).jpg' | relative_url }}"
                           alt="gs30"
                           class="guide-art">
                   </figure>
@@ -5031,7 +5031,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS30.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (443).jpg' | relative_url }}"
                           alt="gs30"
                           class="guide-art">
                   </figure>
@@ -5044,7 +5044,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS31.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (444).jpg' | relative_url }}"
                           alt="gs31"
                           class="guide-art">
                   </figure>
@@ -5057,7 +5057,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS32.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (445).jpg' | relative_url }}"
                           alt="gs32"
                           class="guide-art">
                   </figure>
@@ -5070,7 +5070,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS33.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (446).jpg' | relative_url }}"
                           alt="gs33"
                           class="guide-art">
                   </figure>
@@ -5083,7 +5083,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS34.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (447).jpg' | relative_url }}"
                           alt="gs34"
                           class="guide-art">
                   </figure>
@@ -5096,7 +5096,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS36.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (448).jpg' | relative_url }}"
                           alt="gs36"
                           class="guide-art">
                   </figure>
@@ -5116,7 +5116,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS37.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (449).jpg' | relative_url }}"
                           alt="gs37"
                           class="guide-art">
                   </figure>
@@ -5129,7 +5129,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS38.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (450).jpg' | relative_url }}"
                           alt="gs38"
                           class="guide-art">
                   </figure>
@@ -5142,7 +5142,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS39.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (451).jpg' | relative_url }}"
                           alt="gs39"
                           class="guide-art">
                   </figure>
@@ -5155,7 +5155,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS44.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (452).jpg' | relative_url }}"
                           alt="gs44"
                           class="guide-art">
                   </figure>
@@ -5168,7 +5168,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS40.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (453).jpg' | relative_url }}"
                           alt="gs40"
                           class="guide-art">
                   </figure>
@@ -5181,7 +5181,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS41.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (454).jpg' | relative_url }}"
                           alt="gs41"
                           class="guide-art">
                   </figure>
@@ -5194,7 +5194,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS42.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (455).jpg' | relative_url }}"
                           alt="gs42"
                           class="guide-art">
                   </figure>
@@ -5207,7 +5207,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS43.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (456).jpg' | relative_url }}"
                           alt="gs43"
                           class="guide-art">
                   </figure>
@@ -5227,7 +5227,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS45.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (457).jpg' | relative_url }}"
                           alt="gs45"
                           class="guide-art">
                   </figure>
@@ -5240,7 +5240,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS47.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (458).jpg' | relative_url }}"
                           alt="gs47"
                           class="guide-art">
                   </figure>
@@ -5253,7 +5253,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS46.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (459).jpg' | relative_url }}"
                           alt="gs46"
                           class="guide-art">
                   </figure>
@@ -5273,7 +5273,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS49.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (460).jpg' | relative_url }}"
                           alt="gs49"
                           class="guide-art">
                   </figure>
@@ -5286,7 +5286,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS48.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (461).jpg' | relative_url }}"
                           alt="gs48"
                           class="guide-art">
                   </figure>
@@ -5299,7 +5299,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS50.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (462).jpg' | relative_url }}"
                           alt="gs50"
                           class="guide-art">
                   </figure>
@@ -5312,7 +5312,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS51.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (463).jpg' | relative_url }}"
                           alt="gs51"
                           class="guide-art">
                   </figure>
@@ -5325,7 +5325,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS53.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (464).jpg' | relative_url }}"
                           alt="gs53"
                           class="guide-art">
                   </figure>
@@ -5358,7 +5358,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS54.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (465).jpg' | relative_url }}"
                           alt="gs54"
                           class="guide-art">
                   </figure>
@@ -5371,7 +5371,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS55.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (466).jpg' | relative_url }}"
                           alt="gs55"
                           class="guide-art">
                   </figure>
@@ -5384,7 +5384,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS56.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (467).jpg' | relative_url }}"
                           alt="gs56"
                           class="guide-art">
                   </figure>
@@ -5397,7 +5397,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS57.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (468).jpg' | relative_url }}"
                           alt="gs57"
                           class="guide-art">
                   </figure>
@@ -5410,7 +5410,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS58.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (469).jpg' | relative_url }}"
                           alt="gs58"
                           class="guide-art">
                   </figure>
@@ -5423,7 +5423,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS59.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (470).jpg' | relative_url }}"
                           alt="gs59"
                           class="guide-art">
                   </figure>
@@ -5436,7 +5436,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS60.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (471).jpg' | relative_url }}"
                           alt="gs60"
                           class="guide-art">
                   </figure>
@@ -5449,7 +5449,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS61.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (472).jpg' | relative_url }}"
                           alt="gs61"
                           class="guide-art">
                   </figure>
@@ -5469,7 +5469,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS62.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (473).jpg' | relative_url }}"
                           alt="gs62"
                           class="guide-art">
                   </figure>
@@ -5489,7 +5489,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS63.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (474).jpg' | relative_url }}"
                           alt="gs63"
                           class="guide-art">
                   </figure>
@@ -5497,12 +5497,12 @@ function changeBoxArt(button, direction) {
                   Requires: Night Time Only and Hookshot
                   </p>
                   <p>
-                  After getting the hookshot from Dampe make your way onto the top of Impa's house using the vines near the backside and you can get the next skulltula.
+                  After getting the hookshot from Dampe make your way onto the top of Impa's house using the vines near the backside and you can get the next skulltula on the cliff wall behind the house.
                   </p>
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS64.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (475).jpg' | relative_url }}"
                           alt="gs64"
                           class="guide-art">
                   </figure>
@@ -5515,7 +5515,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS65.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (476).jpg' | relative_url }}"
                           alt="gs65"
                           class="guide-art">
                   </figure>
@@ -5528,7 +5528,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS66.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (477).jpg' | relative_url }}"
                           alt="gs66"
                           class="guide-art">
                   </figure>
@@ -5541,7 +5541,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS67.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (478).jpg' | relative_url }}"
                           alt="gs67"
                           class="guide-art">
                   </figure>
@@ -5554,7 +5554,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS68.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (479).jpg' | relative_url }}"
                           alt="gs68"
                           class="guide-art">
                   </figure>
@@ -5574,7 +5574,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS69.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (480).jpg' | relative_url }}"
                           alt="gs69"
                           class="guide-art">
                   </figure>
@@ -5587,7 +5587,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS70.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (481).jpg' | relative_url }}"
                           alt="gs70"
                           class="guide-art">
                   </figure>
@@ -5600,7 +5600,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS71.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (482).jpg' | relative_url }}"
                           alt="gs71"
                           class="guide-art">
                   </figure>
@@ -5613,7 +5613,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS72.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (483).jpg' | relative_url }}"
                           alt="gs72"
                           class="guide-art">
                   </figure>
@@ -5621,12 +5621,12 @@ function changeBoxArt(button, direction) {
                   Requires: Nothing
                   </p>
                   <p>
-                  In the boulder maze room there is a hidden wall on the right portion of the room which you can bomb to find a skulltula.
+                  In the boulder maze room there is a bombable wall on the right portion of the room which you can bomb to find a skulltula.
                   </p>
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS73.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (484).jpg' | relative_url }}"
                           alt="gs73"
                           class="guide-art">
                   </figure>
@@ -5639,7 +5639,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS74.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (485).jpg' | relative_url }}"
                           alt="gs74"
                           class="guide-art">
                   </figure>
@@ -5652,7 +5652,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS75.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (486).jpg' | relative_url }}"
                           alt="gs75"
                           class="guide-art">
                   </figure>
@@ -5665,7 +5665,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS76.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (487).jpg' | relative_url }}"
                           alt="gs76"
                           class="guide-art">
                   </figure>
@@ -5678,7 +5678,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS77.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (488).jpg' | relative_url }}"
                           alt="gs77"
                           class="guide-art">
                   </figure>
@@ -5698,7 +5698,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS78.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (489).jpg' | relative_url }}"
                           alt="gs78"
                           class="guide-art">
                   </figure>
@@ -5711,7 +5711,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS79.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (490).jpg' | relative_url }}"
                           alt="gs79"
                           class="guide-art">
                   </figure>
@@ -5724,7 +5724,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS80.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (491).jpg' | relative_url }}"
                           alt="gs80"
                           class="guide-art">
                   </figure>
@@ -5737,7 +5737,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS81.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (492).jpg' | relative_url }}"
                           alt="gs81"
                           class="guide-art">
                   </figure>
@@ -5750,7 +5750,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS82.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (493).jpg' | relative_url }}"
                           alt="gs82"
                           class="guide-art">
                   </figure>
@@ -5763,7 +5763,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS83.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (494).jpg' | relative_url }}"
                           alt="gs83"
                           class="guide-art">
                   </figure>
@@ -5776,7 +5776,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS84.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (495).jpg' | relative_url }}"
                           alt="gs84"
                           class="guide-art">
                   </figure>
@@ -5796,7 +5796,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS85.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (496).jpg' | relative_url }}"
                           alt="gs85"
                           class="guide-art">
                   </figure>
@@ -5809,7 +5809,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS86.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (497).jpg' | relative_url }}"
                           alt="gs86"
                           class="guide-art">
                   </figure>
@@ -5822,7 +5822,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS87.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (498).jpg' | relative_url }}"
                           alt="gs87"
                           class="guide-art">
                   </figure>
@@ -5835,7 +5835,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS89.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (499).jpg' | relative_url }}"
                           alt="gs89"
                           class="guide-art">
                   </figure>
@@ -5848,7 +5848,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS89.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (500).jpg' | relative_url }}"
                           alt="gs89"
                           class="guide-art">
                   </figure>
@@ -5861,7 +5861,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS90.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (501).jpg' | relative_url }}"
                           alt="gs90"
                           class="guide-art">
                   </figure>
@@ -5874,7 +5874,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS91.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (502).jpg' | relative_url }}"
                           alt="gs91"
                           class="guide-art">
                   </figure>
@@ -5894,7 +5894,7 @@ function changeBoxArt(button, direction) {
               <ul>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS92.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (503).jpg' | relative_url }}"
                           alt="gs92"
                           class="guide-art">
                   </figure>
@@ -5907,7 +5907,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS93.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (504).jpg' | relative_url }}"
                           alt="gs93"
                           class="guide-art">
                   </figure>
@@ -5920,7 +5920,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS94.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (505).jpg' | relative_url }}"
                           alt="gs94"
                           class="guide-art">
                   </figure>
@@ -5933,7 +5933,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS95.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (506).jpg' | relative_url }}"
                           alt="gs95"
                           class="guide-art">
                   </figure>
@@ -5946,7 +5946,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS96.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (507).jpg' | relative_url }}"
                           alt="gs96"
                           class="guide-art">
                   </figure>
@@ -5959,7 +5959,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS97.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (508).jpg' | relative_url }}"
                           alt="gs97"
                           class="guide-art">
                   </figure>
@@ -5972,7 +5972,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS98.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (509).jpg' | relative_url }}"
                           alt="gs98"
                           class="guide-art">
                   </figure>
@@ -5980,12 +5980,12 @@ function changeBoxArt(button, direction) {
                   Requires: Night Time Only
                   </p>
                   <p>
-                  Head right from the temple entrance where the swam of birds are to find this skulltula on the back wall.
+                  Head right from the temple entrance where the swarm of birds are to find this skulltula on the back wall.
                   </p>
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS99.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (510).jpg' | relative_url }}"
                           alt="gs99"
                           class="guide-art">
                   </figure>
@@ -5998,7 +5998,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS100.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (512).jpg' | relative_url }}"
                           alt="gs100"
                           class="guide-art">
                   </figure>
@@ -6011,7 +6011,7 @@ function changeBoxArt(button, direction) {
                 </li>
                 <li>
                   <figure class="image-block">
-                     <img src="{{ '/assets/images/ootn64/GS100.jpg' | relative_url }}"
+                     <img src="{{ '/assets/images/ootswitch2/1 (511).jpg' | relative_url }}"
                           alt="gs100"
                           class="guide-art">
                   </figure>
